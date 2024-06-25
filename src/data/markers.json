@@ -1,0 +1,4123 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9595674,
+          39.7021264
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T01:22:33Z",
+        "google_maps_url": "http://maps.google.com/?cid=5943189353422717690",
+        "location": {
+          "loc_type": "Sweets",
+          "address": "799 S University Blvd, Denver, CO 80209, United States",
+          "country_code": "US",
+          "name": "Bonnie Brae Ice Cream"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9624939,
+          39.7369804
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T01:22:25Z",
+        "google_maps_url": "http://maps.google.com/?cid=10156364751760808400",
+        "location": {
+          "loc_type": "Sweets",
+          "address": "2039 E 13th Ave, Denver, CO 80206, United States",
+          "country_code": "US",
+          "name": "Liks Ice Cream"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9831841,
+          39.7253951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T01:21:46Z",
+        "google_maps_url": "http://maps.google.com/?cid=7033652033841336594",
+        "location": {
+          "loc_type": "Sweets",
+          "address": "300 E 6th Ave #4, Denver, CO 80203, United States",
+          "country_code": "US",
+          "name": "le' Bakery Sensual"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9691576,
+          39.7398081
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T01:21:24Z",
+        "google_maps_url": "http://maps.google.com/?cid=335952458154489902",
+        "location": {
+          "loc_type": "Sweets",
+          "address": "1520 E Colfax Ave, Denver, CO 80218, United States",
+          "country_code": "US",
+          "name": "Voodoo Doughnut - Colfax"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9840700,
+          39.7503662
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T01:16:15Z",
+        "google_maps_url": "http://maps.google.com/?cid=13719542182943760248",
+        "location": {
+          "loc_type": "Bar",
+          "address": "2209 Welton St, Denver, CO 80205, United States",
+          "country_code": "US",
+          "name": "Pairadice"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9468177,
+          39.7399420
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T01:15:38Z",
+        "google_maps_url": "http://maps.google.com/?cid=6488783768969976935",
+        "location": {
+          "loc_type": "Bar",
+          "address": "3416 E Colfax Ave, Denver, CO 80206, United States",
+          "country_code": "US",
+          "name": "P S Lounge"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9873047,
+          39.7137813
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T01:15:01Z",
+        "google_maps_url": "http://maps.google.com/?cid=2470869224449309260",
+        "location": {
+          "loc_type": "Bar",
+          "address": "140 S Broadway, Denver, CO 80209, United States",
+          "country_code": "US",
+          "name": "Skylark Lounge"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9630256,
+          39.7434443
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T01:14:13Z",
+        "google_maps_url": "http://maps.google.com/?cid=14067563076820606661",
+        "location": {
+          "loc_type": "Bar",
+          "address": "2015 E 17th Ave, Denver, CO 80206, United States",
+          "country_code": "US",
+          "name": "The Thin Man"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9865438,
+          39.7329286
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T01:13:36Z",
+        "google_maps_url": "http://maps.google.com/?cid=18445584117037481040",
+        "location": {
+          "loc_type": "Coffeeshop",
+          "address": "1045 Lincoln St, Denver, CO 80203, United States",
+          "country_code": "US",
+          "name": "Roostercat Coffee House"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9789994,
+          39.7254332
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T01:12:15Z",
+        "google_maps_url": "http://maps.google.com/?cid=12435475565088752580",
+        "location": {
+          "loc_type": "Coffeeshop",
+          "address": "630 E 6th Ave, Denver, CO 80203, United States",
+          "country_code": "US",
+          "name": "Pablo's Coffee - 6th Avenue"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9811307,
+          39.7643404
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T01:12:08Z",
+        "google_maps_url": "http://maps.google.com/?cid=14628962256231974524",
+        "location": {
+          "loc_type": "Coffeeshop",
+          "address": "3070 Blake St #180, Denver, CO 80205, United States",
+          "country_code": "US",
+          "name": "Blue Sparrow Coffee"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9983246,
+          39.7308750
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T01:11:50Z",
+        "google_maps_url": "http://maps.google.com/?cid=7855406843044525399",
+        "location": {
+          "loc_type": "Coffeeshop",
+          "address": "910 Santa Fe Dr UNIT 6, Denver, CO 80204, United States",
+          "country_code": "US",
+          "name": "Tonantzin Casa de Café"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9496564,
+          39.7403403
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T01:10:56Z",
+        "google_maps_url": "http://maps.google.com/?cid=2913720861493567422",
+        "location": {
+          "loc_type": "Coffeeshop",
+          "address": "3213 E Colfax Ave, Denver, CO 80206, United States",
+          "country_code": "US",
+          "name": "Hooked on Colfax"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9793807,
+          39.7369740
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T01:10:32Z",
+        "google_maps_url": "http://maps.google.com/?cid=1471690733765269186",
+        "location": {
+          "loc_type": "Coffeeshop",
+          "address": "619 E 13th Ave, Denver, CO 80203, United States",
+          "country_code": "US",
+          "name": "Hudson Hill"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9878313,
+          39.6941904
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T01:10:08Z",
+        "google_maps_url": "http://maps.google.com/?cid=13896659848720629280",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "1229 S Broadway, Denver, CO 80210, United States",
+          "country_code": "US",
+          "name": "Joy Hill Denver"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9985378,
+          39.7311950
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T01:08:32Z",
+        "google_maps_url": "http://maps.google.com/?cid=15712848081771790374",
+        "location": {
+          "loc_type": "Breakfast",
+          "address": "930 Santa Fe Dr, Denver, CO 80204, United States",
+          "country_code": "US",
+          "name": "Swift's Breakfast House"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9754292,
+          39.7386022
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T01:07:32Z",
+        "google_maps_url": "http://maps.google.com/?cid=14397093436008484737",
+        "location": {
+          "loc_type": "Breakfast",
+          "address": "1401 Ogden St, Denver, CO 80218, United States",
+          "country_code": "US",
+          "name": "The Corner Beet"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9956144,
+          39.7462085
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T01:07:11Z",
+        "google_maps_url": "http://maps.google.com/?cid=15256724634413373141",
+        "location": {
+          "loc_type": "Breakfast",
+          "address": "1500 Curtis Street, Denver, CO 80202, United States",
+          "country_code": "US",
+          "name": "Sam's No. 3"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9636032,
+          39.7398646
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T01:06:45Z",
+        "google_maps_url": "http://maps.google.com/?cid=13798101087332375703",
+        "location": {
+          "loc_type": "Breakfast",
+          "address": "1962 E Colfax Ave, Denver, CO 80206, United States",
+          "country_code": "US",
+          "name": "Pete's Kitchen"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9556220,
+          39.7350170
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T01:06:33Z",
+        "google_maps_url": "http://maps.google.com/?cid=7452050755509352120",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "2626 E 12th Ave, Denver, CO 80206, United States",
+          "country_code": "US",
+          "name": "Chef Zorba's"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9818801,
+          39.7474500
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T01:06:12Z",
+        "google_maps_url": "http://maps.google.com/?cid=2013923937801946216",
+        "location": {
+          "loc_type": "Bar",
+          "address": "414 E 20th Ave, Denver, CO 80205, United States",
+          "country_code": "US",
+          "name": "The Horseshoe Lounge"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9766433,
+          39.7434787
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T01:05:30Z",
+        "google_maps_url": "http://maps.google.com/?cid=1111322747512873617",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "837 E 17th Ave, Denver, CO 80218, United States",
+          "country_code": "US",
+          "name": "Watercourse Foods"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9753792,
+          39.7435467
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T01:05:03Z",
+        "google_maps_url": "http://maps.google.com/?cid=14666736087586631142",
+        "location": {
+          "loc_type": "Coffeeshop",
+          "address": "925 E 17th Ave, Denver, CO 80218, United States",
+          "country_code": "US",
+          "name": "Plant Magic Cafe"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9331132,
+          39.7508948
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T01:04:36Z",
+        "google_maps_url": "http://maps.google.com/?cid=3835314769736150376",
+        "location": {
+          "loc_type": "Coffeeshop",
+          "address": "4628 E 23rd Ave, Denver, CO 80207, United States",
+          "country_code": "US",
+          "name": "Honey Hill Cafe"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.2052116,
+          39.6655381
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T01:04:22Z",
+        "google_maps_url": "http://maps.google.com/?cid=8972268900862187181",
+        "location": {
+          "loc_type": "Activity",
+          "address": "18300 W Alameda Pkwy, Morrison, CO 80465, United States",
+          "country_code": "US",
+          "name": "Red Rocks Park and Amphitheatre"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9831186,
+          39.7784427
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T01:03:42Z",
+        "google_maps_url": "http://maps.google.com/?cid=14131229949077783307",
+        "location": {
+          "loc_type": "Bar",
+          "address": "321 E 45th Ave, Denver, CO 80216, United States",
+          "country_code": "US",
+          "name": "Fort Greene"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9748792,
+          39.7723054
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T01:03:32Z",
+        "google_maps_url": "http://maps.google.com/?cid=11428245862396084877",
+        "location": {
+          "loc_type": "Activity",
+          "address": "3763 Wynkoop St, Denver, CO 80216, United States",
+          "country_code": "US",
+          "name": "Rino Country Club"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9746407,
+          39.7725982
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T01:03:26Z",
+        "google_maps_url": "http://maps.google.com/?cid=14367467658826147493",
+        "location": {
+          "loc_type": "Breakfast",
+          "address": "1701 38th St, Denver, CO 80216, United States",
+          "country_code": "US",
+          "name": "Butcher Block Cafe"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9620078,
+          39.7434812
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T01:03:07Z",
+        "google_maps_url": "http://maps.google.com/?cid=13327779811000409018",
+        "location": {
+          "loc_type": "Brewery",
+          "address": "1700 Vine St, Denver, CO 80206, United States",
+          "country_code": "US",
+          "name": "Vine Street Pub & Brewery"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9824605,
+          39.7605032
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T01:02:30Z",
+        "google_maps_url": "http://maps.google.com/?cid=11779218778287959223",
+        "location": {
+          "loc_type": "Brewery",
+          "address": "2810 Larimer St, Denver, CO 80205, United States",
+          "country_code": "US",
+          "name": "Our Mutual Friend Brewing"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0534522,
+          39.7531340
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T01:02:15Z",
+        "google_maps_url": "http://maps.google.com/?cid=5176755129523272348",
+        "location": {
+          "loc_type": "Brewery",
+          "address": "2501 Sheridan Boulevard, Edgewater, CO 80214, United States",
+          "country_code": "US",
+          "name": "Joyride Brewing Company"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0536479,
+          39.7509458
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T01:02:02Z",
+        "google_maps_url": "http://maps.google.com/?cid=13180798917221031653",
+        "location": {
+          "loc_type": "Bar",
+          "address": "2375 Sheridan Boulevard, Edgewater, CO 80214, United States",
+          "country_code": "US",
+          "name": "Lakeview Lounge"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9861750,
+          39.7575444
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T01:00:42Z",
+        "google_maps_url": "http://maps.google.com/?cid=5040767736327228075",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "2500 Larimer St #100, Denver, CO 80205, United States",
+          "country_code": "US",
+          "name": "Cart-Driver RiNo"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0389632,
+          39.7618909
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T01:00:30Z",
+        "google_maps_url": "http://maps.google.com/?cid=5339017647083553258",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "3934 W 32nd Ave, Denver, CO 80212, United States",
+          "country_code": "US",
+          "name": "Blue Pan Pizza"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0112783,
+          39.7577912
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T01:00:04Z",
+        "google_maps_url": "http://maps.google.com/?cid=16560464802204276342",
+        "location": {
+          "loc_type": "Bar",
+          "address": "2532 15th St, Denver, CO 80211, United States",
+          "country_code": "US",
+          "name": "Forest Room 5"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0056166,
+          39.7630779
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T00:59:35Z",
+        "google_maps_url": "http://maps.google.com/?cid=17225337941047925068",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "1600 W 33rd Ave, Denver, CO 80211, United States",
+          "country_code": "US",
+          "name": "Root Down"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9806140,
+          39.7460588
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T00:59:04Z",
+        "google_maps_url": "http://maps.google.com/?cid=5358512859450939214",
+        "location": {
+          "loc_type": "Bar",
+          "address": "530 E 19th Ave, Denver, CO 80203, United States",
+          "country_code": "US",
+          "name": "Retrograde"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0110824,
+          39.7594641
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T00:58:48Z",
+        "google_maps_url": "http://maps.google.com/?cid=84435492827400132",
+        "location": {
+          "loc_type": "Sweets",
+          "address": "2620 16th St, Denver, CO 80211, United States",
+          "country_code": "US",
+          "name": "Little Man Ice Cream"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.8485687,
+          39.8384170
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T00:58:26Z",
+        "google_maps_url": "http://maps.google.com/?cid=1091898854583194636",
+        "location": {
+          "loc_type": "Activity",
+          "address": "6550 Gateway Rd, Commerce City, CO 80022, United States",
+          "country_code": "US",
+          "name": "Rocky Mountain Arsenal National Wildlife Refuge"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0073456,
+          39.7546540
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T00:57:53Z",
+        "google_maps_url": "http://maps.google.com/?cid=4802733497033393869",
+        "location": {
+          "loc_type": "Park",
+          "address": "2250 15th St, Denver, CO 80202, United States",
+          "country_code": "US",
+          "name": "Confluence Park"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9822776,
+          39.7091597
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T00:57:42Z",
+        "google_maps_url": "http://maps.google.com/?cid=16861186175716840207",
+        "location": {
+          "loc_type": "Activity",
+          "address": "400 S Logan St, Denver, CO 80209, United States",
+          "country_code": "US",
+          "name": "International Church of Cannabis"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9428078,
+          39.7475261
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T00:57:25Z",
+        "google_maps_url": "http://maps.google.com/?cid=14789549545145786897",
+        "location": {
+          "loc_type": "Activity",
+          "address": "2001 Colorado Blvd, Denver, CO 80205, United States",
+          "country_code": "US",
+          "name": "Denver Museum of Nature & Science"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.04547633787034,
+          39.744570833912455
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T00:56:38Z",
+        "google_maps_url": "https://maps.app.goo.gl/faSdQwHUz95eL3s99",
+        "location": {
+          "loc_type": "Park",
+          "address": "1700 N Sheridan Blvd, Denver, CO 80212",
+          "country_code": "US",
+          "name": "Sloan's Lake Park"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9893451,
+          39.7371878
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T00:56:29Z",
+        "google_maps_url": "http://maps.google.com/?cid=4895980547090937649",
+        "location": {
+          "loc_type": "Activity",
+          "address": "100 W 14th Ave Pkwy, Denver, CO 80204, United States",
+          "country_code": "US",
+          "name": "Denver Art Museum"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9663478,
+          39.7328333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T00:56:18Z",
+        "google_maps_url": "http://maps.google.com/?cid=12812444315708867915",
+        "location": {
+          "loc_type": "Park",
+          "address": "Denver, CO 80218, United States",
+          "country_code": "US",
+          "name": "Cheesman Park"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9612839,
+          39.7320964
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T00:56:11Z",
+        "google_maps_url": "http://maps.google.com/?cid=4619531906286972442",
+        "location": {
+          "loc_type": "Activity",
+          "address": "1007 York St, Denver, CO 80206, United States",
+          "country_code": "US",
+          "name": "Denver Botanic Gardens"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0441331,
+          39.7754669
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T00:55:25Z",
+        "google_maps_url": "http://maps.google.com/?cid=11102092362512951360",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "4337 Tennyson St #300, Denver, CO 80212, United States",
+          "country_code": "US",
+          "name": "Hey Kiddo"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0438333,
+          39.7768333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T00:55:18Z",
+        "google_maps_url": "http://maps.google.com/?cid=5844163657739762724",
+        "location": {
+          "loc_type": "Coffeeshop",
+          "address": "4418 Tennyson St, Denver, CO 80212, United States",
+          "country_code": "US",
+          "name": "Tenn Street Coffee & Books"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0437967,
+          39.7734788
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T00:55:06Z",
+        "google_maps_url": "http://maps.google.com/?cid=774036351617339128",
+        "location": {
+          "loc_type": "Breakfast",
+          "address": "4150 Tennyson St, Denver, CO 80212, United States",
+          "country_code": "US",
+          "name": "Bakery Four"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9871436,
+          39.7164178
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T00:53:52Z",
+        "google_maps_url": "http://maps.google.com/?cid=4099811021078279",
+        "location": {
+          "loc_type": "Store",
+          "address": "2 S Broadway, Denver, CO 80209, United States",
+          "country_code": "US",
+          "name": "Mutiny Comics"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9566566,
+          39.7400034
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T00:53:42Z",
+        "google_maps_url": "http://maps.google.com/?cid=11733133982540550552",
+        "location": {
+          "loc_type": "Store",
+          "address": "2526 E Colfax Ave, Denver, CO 80206, United States",
+          "country_code": "US",
+          "name": "Tattered Cover Book Store & Café Colfax"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9332988,
+          39.7509186
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T00:53:26Z",
+        "google_maps_url": "http://maps.google.com/?cid=4691566823465343797",
+        "location": {
+          "loc_type": "Store",
+          "address": "4620 E 23rd Ave, Denver, CO 80207, United States",
+          "country_code": "US",
+          "name": "Park Hill Community Bookstore"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9873558,
+          39.7107355
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T00:53:22Z",
+        "google_maps_url": "http://maps.google.com/?cid=3847666533383270520",
+        "location": {
+          "loc_type": "Store",
+          "address": "316 S Broadway, Denver, CO 80209, United States",
+          "country_code": "US",
+          "name": "Broadway Book Mall"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9833778,
+          39.7398922
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T00:53:14Z",
+        "google_maps_url": "http://maps.google.com/?cid=13458548976317255853",
+        "location": {
+          "loc_type": "Store",
+          "address": "300 E Colfax Ave, Denver, CO 80203, United States",
+          "country_code": "US",
+          "name": "Capitol Hill Books"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9790167,
+          39.7367393
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T00:53:05Z",
+        "google_maps_url": "http://maps.google.com/?cid=14461248301651835259",
+        "location": {
+          "loc_type": "Store",
+          "address": "624 E 13th Ave, Denver, CO 80203, United States",
+          "country_code": "US",
+          "name": "Kilgore Books"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0145354,
+          39.7522760
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T00:52:33Z",
+        "google_maps_url": "http://maps.google.com/?cid=17250947195697238552",
+        "location": {
+          "loc_type": "Store",
+          "address": "2301 7th St, Denver, CO 80211, United States",
+          "country_code": "US",
+          "name": "Confluence Kayak & Ski"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9786333,
+          39.7635194
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T00:50:54Z",
+        "google_maps_url": "http://maps.google.com/?cid=12459281308926718018",
+        "location": {
+          "loc_type": "Bar",
+          "address": "3126 Larimer St, Denver, CO 80205, United States",
+          "country_code": "US",
+          "name": "Gold Point"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9872152,
+          39.7080432
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T00:23:59Z",
+        "google_maps_url": "http://maps.google.com/?cid=2756576882228897061",
+        "location": {
+          "loc_type": "Bar",
+          "address": "476 S Broadway, Denver, CO 80209, United States",
+          "country_code": "US",
+          "name": "BurnDown"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9771944,
+          39.7022171
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T00:23:44Z",
+        "google_maps_url": "http://maps.google.com/?cid=365989931390124133",
+        "location": {
+          "loc_type": "Coffeeshop",
+          "address": "853 E Ohio Ave, Denver, CO 80209, United States",
+          "country_code": "US",
+          "name": "Wash Perk"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9873765,
+          39.7122449
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-20T00:23:31Z",
+        "google_maps_url": "http://maps.google.com/?cid=18256925517808074734",
+        "location": {
+          "loc_type": "Coffeeshop",
+          "address": "238 S Broadway, Denver, CO 80209, United States",
+          "country_code": "US",
+          "name": "The Bardo Coffee House"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9498084,
+          39.7476212
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-19T21:22:44Z",
+        "google_maps_url": "http://maps.google.com/?cid=18429167296331311683",
+        "location": {
+          "loc_type": "Park",
+          "address": "2001 Colorado Blvd, Denver, CO 80205, United States",
+          "country_code": "US",
+          "name": "City Park"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9718047,
+          39.6999628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-19T21:22:23Z",
+        "google_maps_url": "http://maps.google.com/?cid=16795350865364075867",
+        "location": {
+          "loc_type": "Park",
+          "address": "701 S Franklin St, Denver, CO 80209, United States",
+          "country_code": "US",
+          "name": "Washington Park"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9775804,
+          39.7548692
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-19T21:21:16Z",
+        "google_maps_url": "http://maps.google.com/?cid=16757865123093248222",
+        "location": {
+          "loc_type": "Bar",
+          "address": "715 E 26th Ave, Denver, CO 80205, United States",
+          "country_code": "US",
+          "name": "715 Club"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9748394,
+          39.7669938
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-19T21:20:54Z",
+        "google_maps_url": "http://maps.google.com/?cid=7158877061804266706",
+        "location": {
+          "loc_type": "Bar",
+          "address": "3463 Larimer St, Denver, CO 80205, United States",
+          "country_code": "US",
+          "name": "Embassy Tavern"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9786731,
+          39.7652634
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-19T21:20:40Z",
+        "google_maps_url": "http://maps.google.com/?cid=18034608988011074014",
+        "location": {
+          "loc_type": "Activity",
+          "address": "3201 Walnut St #107, Denver, CO 80205, United States",
+          "country_code": "US",
+          "name": "Movement RiNo"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9817125,
+          39.7611858
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-19T21:20:25Z",
+        "google_maps_url": "http://maps.google.com/?cid=13677007330146519632",
+        "location": {
+          "loc_type": "Coffeeshop",
+          "address": "2862 Larimer St, Denver, CO 80205, United States",
+          "country_code": "US",
+          "name": "Crema Coffee House"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9799617,
+          39.7114508
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-08T02:54:18Z",
+        "google_maps_url": "http://maps.google.com/?cid=3566569850455527885",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "609 E Alameda Ave, Denver, CO 80209, United States",
+          "country_code": "US",
+          "name": "New China Cafe"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.8657017,
+          39.5936306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-08T02:53:41Z",
+        "google_maps_url": "http://maps.google.com/?cid=18344289593483938756",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "10639 E Briarwood Ave, Centennial, CO 80112, United States",
+          "country_code": "US",
+          "name": "Bop & Gogi"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9814128,
+          39.7434306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-03T00:05:52Z",
+        "google_maps_url": "http://maps.google.com/?cid=11935309297884321140",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "439 E 17th Ave, Denver, CO 80203, United States",
+          "country_code": "US",
+          "name": "Park & Co."
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9988283,
+          39.7322161
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-05-30T15:00:45Z",
+        "google_maps_url": "http://maps.google.com/?cid=12765707916696499766",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "1001 Santa Fe Dr, Denver, CO 80204, United States",
+          "country_code": "US",
+          "name": "Tacos Selene Denver"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9803459,
+          39.7366976
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-05-21T04:46:14Z",
+        "google_maps_url": "http://maps.google.com/?cid=8042329076922609512",
+        "location": {
+          "loc_type": "Breakfast",
+          "address": "1291 Pearl St, Denver, CO 80203, United States",
+          "country_code": "US",
+          "name": "Call Your Mother Deli - Pearl Street / Cap Hill Denver"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0055851,
+          39.7382535
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-05-09T03:20:04Z",
+        "google_maps_url": "http://maps.google.com/?cid=14300857234152804502",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "1365 Osage St, Denver, CO 80204, United States",
+          "country_code": "US",
+          "name": "Domo Japanese Country Food Restaurant"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9681829,
+          39.7647042
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-04-07T14:32:44Z",
+        "google_maps_url": "http://maps.google.com/?cid=9788720631151164643",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "1603 Bruce Randolph Ave, Denver, CO 80205, United States",
+          "country_code": "US",
+          "name": "Los Molinos Restaurant"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0156539,
+          39.7408092
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-04-04T14:25:18Z",
+        "google_maps_url": "http://maps.google.com/?cid=660192235375939501",
+        "location": {
+          "loc_type": "Activity",
+          "address": "1338 1st St, Denver, CO 80204, United States",
+          "country_code": "US",
+          "name": "Meow Wolf Denver | Convergence Station"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9795570,
+          39.7686411
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-04-02T15:29:06Z",
+        "google_maps_url": "http://maps.google.com/?cid=7796387130259190514",
+        "location": {
+          "loc_type": "Breakfast",
+          "address": "3350 Brighton Blvd #140, Denver, CO 80216, United States",
+          "country_code": "US",
+          "name": "Reunion Bakery / Sourdough Bread / Coffee"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9877531,
+          39.7571491
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-03-30T19:28:52Z",
+        "google_maps_url": "http://maps.google.com/?cid=17013167946882458760",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "2425 Broadway, Denver, CO 80205, United States",
+          "country_code": "US",
+          "name": "Snarf's Sandwiches"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9860550,
+          39.7596076
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-03-22T20:13:40Z",
+        "google_maps_url": "http://maps.google.com/?cid=4410035699484092989",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "2615 Walnut St, Denver, CO 80205, United States",
+          "country_code": "US",
+          "name": "Park Burger - RiNo"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0093137,
+          39.7566856
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-03-20T17:00:54Z",
+        "google_maps_url": "http://maps.google.com/?cid=4863888937512345601",
+        "location": {
+          "loc_type": "Store",
+          "address": "2401 15th St #100, Denver, CO 80202, United States",
+          "country_code": "US",
+          "name": "Wilderness Exchange Unlimited"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9590051,
+          39.6794821
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-03-20T14:37:40Z",
+        "google_maps_url": "http://maps.google.com/?cid=14661766888870381450",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "2022 S University Blvd, Denver, CO 80210, United States",
+          "country_code": "US",
+          "name": "Tatsu Izakaya"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0152689,
+          39.7106046
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-02-28T00:00:46Z",
+        "google_maps_url": "http://maps.google.com/?cid=14900650294116582169",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "2370 W Alameda Ave, Denver, CO 80223, United States",
+          "country_code": "US",
+          "name": "Vinh Xuong Bakery"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9541360,
+          39.7211454
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-02-18T02:38:03Z",
+        "google_maps_url": "http://maps.google.com/?cid=10703544152641767210",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "2817 E 3rd Ave e, Denver, CO 80206, United States",
+          "country_code": "US",
+          "name": "Fortune Wok to Table"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9393188,
+          39.6715502
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-02-17T07:08:55Z",
+        "google_maps_url": "http://maps.google.com/?cid=13808642390372871164",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "2456 S Colorado Blvd, Denver, CO 80222, United States",
+          "country_code": "US",
+          "name": "LingLon Dumpling House"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9361937,
+          39.7291192
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-07-30T07:05:43Z",
+        "google_maps_url": "http://maps.google.com/?cid=4891220371634866128",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "4340 E 8th Ave, Denver, CO 80220, United States",
+          "country_code": "US",
+          "name": "Chook"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9819847,
+          39.7109519
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-06-08T17:27:39Z",
+        "google_maps_url": "http://maps.google.com/?cid=12269660686580214529",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "301 S Pennsylvania St, Denver, CO 80209, United States",
+          "country_code": "US",
+          "name": "Hey Bangkok!"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9808703,
+          39.7370760
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-05-23T00:54:21Z",
+        "google_maps_url": "http://maps.google.com/?cid=4125065013218308582",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "1300 Pennsylvania St Ste 102, Denver, CO 80203, United States",
+          "country_code": "US",
+          "name": "SubCulture"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9845360,
+          39.7533840
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-05-13T01:17:25Z",
+        "google_maps_url": "http://maps.google.com/?cid=6585200404587871032",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "2340 Champa St, Denver, CO 80205, United States",
+          "country_code": "US",
+          "name": "La Fiesta"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.2183162,
+          39.7553595
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-05-09T19:31:23Z",
+        "google_maps_url": "http://maps.google.com/?cid=1061551230731762037",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "1310 Ford St, Golden, CO 80401, United States",
+          "country_code": "US",
+          "name": "Bob's Atomic Burgers"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9745164,
+          39.7667358
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-04-13T21:51:26Z",
+        "google_maps_url": "http://maps.google.com/?cid=16583841278265203529",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "3490 Larimer St, Denver, CO 80205, United States",
+          "country_code": "US",
+          "name": "Himchuli RINO - Indian & Nepali Cuisine"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9984970,
+          39.7316841
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-04-08T15:08:31Z",
+        "google_maps_url": "http://maps.google.com/?cid=3604653279398546044",
+        "location": {
+          "loc_type": "Bar",
+          "address": "960 Santa Fe Dr, Denver, CO 80204, United States",
+          "country_code": "US",
+          "name": "Timeo's Theater Bar"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.1860821,
+          39.7796092
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-04-01T22:09:52Z",
+        "google_maps_url": "http://maps.google.com/?cid=9722973778749395530",
+        "location": {
+          "loc_type": "Brewery",
+          "address": "16401 Table Mountain Pkwy, Golden, CO 80403, United States",
+          "country_code": "US",
+          "name": "New Terrain Brewing Company"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.1337075,
+          39.7114364
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-03-31T22:36:24Z",
+        "google_maps_url": "http://maps.google.com/?cid=10512799234167626263",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "275 S Union Blvd, Lakewood, CO 80228, United States",
+          "country_code": "US",
+          "name": "Kickin Chicken"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9865550,
+          39.7585790
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-03-28T00:10:18Z",
+        "google_maps_url": "http://maps.google.com/?cid=8385530331092739996",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "2528 Walnut St #104, Denver, CO 80205, United States",
+          "country_code": "US",
+          "name": "Stowaway Kitchen"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9802875,
+          39.6928529
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-03-25T17:37:42Z",
+        "google_maps_url": "http://maps.google.com/?cid=15795953481157080130",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "1300 S Pearl St, Denver, CO 80210, United States",
+          "country_code": "US",
+          "name": "Chook"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0113466,
+          39.7582776
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-03-12T00:03:48Z",
+        "google_maps_url": "http://maps.google.com/?cid=6620694864326581922",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "2563 15th St Ste. 105, Denver, CO 80211, United States",
+          "country_code": "US",
+          "name": "Ohana Island Kitchen"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9989568,
+          39.7343113
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-03-07T02:49:39Z",
+        "google_maps_url": "http://maps.google.com/?cid=17871577953179833400",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "1131 Santa Fe Dr, Denver, CO 80204, United States",
+          "country_code": "US",
+          "name": "Chuey FU's Latin-Asian Grub"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0039222,
+          39.7643194
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-03-04T00:00:59Z",
+        "google_maps_url": "http://maps.google.com/?cid=17776748213345987172",
+        "location": {
+          "loc_type": "Bar",
+          "address": "3360 Navajo St, Denver, CO 80211, United States",
+          "country_code": "US",
+          "name": "The High Lonesome"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9778219,
+          39.7642164
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-03-02T02:38:38Z",
+        "google_maps_url": "http://maps.google.com/?cid=15985394735088977208",
+        "location": {
+          "loc_type": "Bar",
+          "address": "3200 Larimer St, Denver, CO 80205, United States",
+          "country_code": "US",
+          "name": "The Infinite Monkey Theorem"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0101945,
+          39.7114665
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-02-28T04:14:22Z",
+        "google_maps_url": "http://maps.google.com/?cid=16479387715048762096",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "1565 W Alameda Ave, Denver, CO 80223, United States",
+          "country_code": "US",
+          "name": "La Calle Taqueria Y Carnitas"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0856214,
+          39.8041734
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-02-26T17:41:18Z",
+        "google_maps_url": "http://maps.google.com/?cid=13218925278852772025",
+        "location": {
+          "loc_type": "Activity",
+          "address": "8001 W 59th Ave, Arvada, CO 80004, United States",
+          "country_code": "US",
+          "name": "Memorial Park and Johnny Roberts Disc Golf Course"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0009051,
+          39.7690133
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-02-25T22:20:08Z",
+        "google_maps_url": "http://maps.google.com/?cid=11265671893152341773",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "1200 W 38th Ave, Denver, CO 80211, United States",
+          "country_code": "US",
+          "name": "Kike's Red Tacos"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9878018,
+          39.6762587
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-02-21T18:15:08Z",
+        "google_maps_url": "http://maps.google.com/?cid=11753661101492747407",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "2231 S Broadway, Denver, CO 80210, United States",
+          "country_code": "US",
+          "name": "Turtle Boat - Colorado Poki Salads"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9871874,
+          39.6933128
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-01-27T06:26:32Z",
+        "google_maps_url": "http://maps.google.com/?cid=10884009593375406928",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "1294 S Broadway, Denver, CO 80210, United States",
+          "country_code": "US",
+          "name": "Adelitas Cocina Y Cantina"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0342438,
+          39.7765526
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-11-16T03:27:47Z",
+        "google_maps_url": "http://maps.google.com/?cid=4439379120960103375",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "3536 W 44th Ave, Denver, CO 80211, United States",
+          "country_code": "US",
+          "name": "Tocabe, An American Indian Eatery"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0805060,
+          39.6897145
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-11-13T21:45:04Z",
+        "google_maps_url": "http://maps.google.com/?cid=69690401772609348",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "7585 W Florida Ave, Lakewood, CO 80232, United States",
+          "country_code": "US",
+          "name": "Carmine Lonardo's Italian"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9140570,
+          39.6542148
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-11-09T20:16:12Z",
+        "google_maps_url": "http://maps.google.com/?cid=14768963397833114938",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "6439 E Hampden Ave, Denver, CO 80222, United States",
+          "country_code": "US",
+          "name": "The Bagel Deli & Restaurant"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0254480,
+          39.7159350
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-11-06T22:40:16Z",
+        "google_maps_url": "http://maps.google.com/?cid=7854856999227082799",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "23 S Federal Blvd, Denver, CO 80219, United States",
+          "country_code": "US",
+          "name": "Grandpa's Burger Haven"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9607758,
+          39.7402867
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-11-05T22:31:47Z",
+        "google_maps_url": "http://maps.google.com/?cid=12721795771987016465",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "2207 E Colfax Ave, Denver, CO 80206, United States",
+          "country_code": "US",
+          "name": "Yahya's Mediterranean Grill & Pastries"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9846129,
+          39.7593608
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-10-30T22:29:58Z",
+        "google_maps_url": "http://maps.google.com/?cid=9447312708417286029",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "2669 Larimer St, Denver, CO 80205, United States",
+          "country_code": "US",
+          "name": "The Denver Central Market"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9401402,
+          39.6725859
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-10-27T00:47:55Z",
+        "google_maps_url": "http://maps.google.com/?cid=4565511852023232031",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "2432 S Colorado Blvd, Denver, CO 80222, United States",
+          "country_code": "US",
+          "name": "Taste of Philly"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0477515,
+          39.7401479
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-10-26T21:42:02Z",
+        "google_maps_url": "http://maps.google.com/?cid=11218798224374469598",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "4700 W Colfax Ave, Denver, CO 80204, United States",
+          "country_code": "US",
+          "name": "Franks Bar-B-Que"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9632667,
+          39.7402467
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-10-24T17:33:51Z",
+        "google_maps_url": "http://maps.google.com/?cid=6057098778123581014",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "2001 E Colfax Ave, Denver, CO 80206, United States",
+          "country_code": "US",
+          "name": "Illegal Pete's - Colfax"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9781266,
+          39.7892386
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-08-03T19:48:02Z",
+        "google_maps_url": "http://maps.google.com/?cid=1537088863744345838",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "5106 Washington St, Denver, CO 80216, United States",
+          "country_code": "US",
+          "name": "Casa Don Juan Mexican Restaurant"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9661518,
+          39.7430138
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-07-31T03:10:15Z",
+        "google_maps_url": "http://maps.google.com/?cid=740597914069360616",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "1740 E 17th Ave, Denver, CO 80218, United States",
+          "country_code": "US",
+          "name": "Sullivan Scrap Kitchen"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.2201387,
+          39.7544595
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-07-16T21:26:11Z",
+        "google_maps_url": "http://maps.google.com/?cid=7797826510195908538",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "1305 Washington Ave, Golden, CO 80401, United States",
+          "country_code": "US",
+          "name": "Woody's Wood-Fired Pizza"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9804840,
+          39.7712750
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-07-13T23:13:50Z",
+        "google_maps_url": "http://maps.google.com/?cid=5078332519739667588",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "1950 35th St, Denver, CO 80216, United States",
+          "country_code": "US",
+          "name": "Comal Heritage Food Incubator"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9998983,
+          39.7497393
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-07-13T00:11:45Z",
+        "google_maps_url": "http://maps.google.com/?cid=3472133196013897162",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "1514 Blake St, Denver, CO 80202, United States",
+          "country_code": "US",
+          "name": "Hapa Sushi Grill and Sake Bar"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9873435,
+          39.6571297
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-06-20T01:43:32Z",
+        "google_maps_url": "http://maps.google.com/?cid=15615424261356050370",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "3298 S Broadway B, Englewood, CO 80113, United States",
+          "country_code": "US",
+          "name": "Garibaldi Mexican Bistro"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9994071,
+          39.7501555
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-06-07T01:03:09Z",
+        "google_maps_url": "http://maps.google.com/?cid=10575375975312894898",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "1550 Blake St, Denver, CO 80202, United States",
+          "country_code": "US",
+          "name": "Mono Mono Korean Fried Chicken"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9863220,
+          39.7572539
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-03-06T17:19:58Z",
+        "google_maps_url": "http://maps.google.com/?cid=16781023924831915143",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "1260 25th St, Denver, CO 80205, United States",
+          "country_code": "US",
+          "name": "SuperMegaBien"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9871033,
+          39.7501791
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-03-06T17:19:32Z",
+        "google_maps_url": "http://maps.google.com/?cid=2596214853882948545",
+        "location": {
+          "loc_type": "Bar",
+          "address": "2052 Stout St, Denver, CO 80205, United States",
+          "country_code": "US",
+          "name": "The British Bulldog"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9938710,
+          39.7442539
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-03-02T17:42:59Z",
+        "google_maps_url": "http://maps.google.com/?cid=5370558981252191293",
+        "location": {
+          "loc_type": "Bar",
+          "address": "1475 California St, Denver, CO 80202, United States",
+          "country_code": "US",
+          "name": "54thirty Rooftop"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9936282,
+          39.7434076
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-03-02T17:42:44Z",
+        "google_maps_url": "http://maps.google.com/?cid=1039777746735224502",
+        "location": {
+          "loc_type": "Bar",
+          "address": "650 15th St 27th floor, Denver, CO 80202, United States",
+          "country_code": "US",
+          "name": "Peaks Lounge"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9841747,
+          39.7504421
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-03-01T22:27:04Z",
+        "google_maps_url": "http://maps.google.com/?cid=13823060823985131011",
+        "location": {
+          "loc_type": "Coffeeshop",
+          "address": "611 22nd St, Denver, CO 80205, United States",
+          "country_code": "US",
+          "name": "TeaLee's Teahouse & Bookstore"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9869292,
+          39.6931542
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-02-23T03:53:20Z",
+        "google_maps_url": "http://maps.google.com/?cid=6418699595184832711",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "13 E Louisiana Ave, Denver, CO 80210, United States",
+          "country_code": "US",
+          "name": "La Doña Mezcaleria"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9769543,
+          39.7648862
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-01-25T00:54:35Z",
+        "google_maps_url": "http://maps.google.com/?cid=7406562635768083803",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "3264 Larimer St, Denver, CO 80205, United States",
+          "country_code": "US",
+          "name": "Dio Mio"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0110201,
+          39.7637865
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-01-21T03:34:30Z",
+        "google_maps_url": "http://maps.google.com/?cid=310669054245567003",
+        "location": {
+          "loc_type": "Store",
+          "address": "3326 Tejon St, Denver, CO 80211, United States",
+          "country_code": "US",
+          "name": "Western Daughters Butcher Shoppe"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0115857,
+          39.7633856
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-01-21T03:33:40Z",
+        "google_maps_url": "http://maps.google.com/?cid=3808338226326232997",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "2005 W 33rd Ave, Denver, CO 80211, United States",
+          "country_code": "US",
+          "name": "Ash'Kara"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9463496,
+          39.7400109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-01-19T22:28:20Z",
+        "google_maps_url": "http://maps.google.com/?cid=16420670966216667400",
+        "location": {
+          "loc_type": "Coffeeshop",
+          "address": "3434 E Colfax Ave, Denver, CO 80206, United States",
+          "country_code": "US",
+          "name": "Lula Rose General Store"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9472606,
+          39.7403337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-01-19T22:28:08Z",
+        "google_maps_url": "http://maps.google.com/?cid=711523263905783171",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "3421 E Colfax Ave, Denver, CO 80206, United States",
+          "country_code": "US",
+          "name": "Q House"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9332988,
+          39.7512119
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-01-13T23:56:39Z",
+        "google_maps_url": "http://maps.google.com/?cid=9641399843303640816",
+        "location": {
+          "loc_type": "Store",
+          "address": "4621 E 23rd Ave, Denver, CO 80207, United States",
+          "country_code": "US",
+          "name": "Spinelli's Market"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.8213667,
+          39.7131361
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-01-11T16:21:47Z",
+        "google_maps_url": "http://maps.google.com/?cid=11231251574445873755",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "14301 E Cedar Ave, Aurora, CO 80012, United States",
+          "country_code": "US",
+          "name": "Sabor Mexican Grill"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9731224,
+          39.7593061
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-12-15T19:01:36Z",
+        "google_maps_url": "http://maps.google.com/?cid=8918835978476812031",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "2958 N Downing St, Denver, CO 80205, United States",
+          "country_code": "US",
+          "name": "Hayati Mediterranean Grill"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0384400,
+          39.7401821
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-12-11T18:52:48Z",
+        "google_maps_url": "http://maps.google.com/?cid=13464836546621978599",
+        "location": {
+          "loc_type": "Breakfast",
+          "address": "3910 W Colfax Ave, Denver, CO 80204, United States",
+          "country_code": "US",
+          "name": "Classic Eats Delicatessen"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9720742,
+          39.7257470
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-12-10T17:23:02Z",
+        "google_maps_url": "http://maps.google.com/?cid=4616499465099254296",
+        "location": {
+          "loc_type": "Coffeeshop",
+          "address": "1229 E 6th Ave A, Denver, CO 80218, United States",
+          "country_code": "US",
+          "name": "Buzz Cafe"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9906306,
+          39.7543000
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-12-08T18:18:18Z",
+        "google_maps_url": "http://maps.google.com/?cid=4844090740926269663",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "2134 Larimer St, Denver, CO 80205, United States",
+          "country_code": "US",
+          "name": "Aloy Modern Thai"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9862850,
+          39.7303286
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-12-06T23:22:54Z",
+        "google_maps_url": "http://maps.google.com/?cid=7826330693852913059",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "865 Lincoln St, Denver, CO 80203, United States",
+          "country_code": "US",
+          "name": "Anise, Modern Vietnamese Eatery"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9750885,
+          39.7339475
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-12-06T23:22:24Z",
+        "google_maps_url": "http://maps.google.com/?cid=16416308235043354366",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "1001 E 11th Ave, Denver, CO 80218, United States",
+          "country_code": "US",
+          "name": "Snarfburger"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9748388,
+          39.7339636
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-12-06T23:22:05Z",
+        "google_maps_url": "http://maps.google.com/?cid=1567425969128874090",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "1003 E 11th Ave, Denver, CO 80218, United States",
+          "country_code": "US",
+          "name": "Snarf's Sandwiches"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9996666,
+          39.7507700
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-12-02T23:33:09Z",
+        "google_maps_url": "http://maps.google.com/?cid=9718877042269387649",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "1520 16th St Mall, Denver, CO 80202, United States",
+          "country_code": "US",
+          "name": "YumCha Dumpling & Noodle Bar"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0068962,
+          39.7580433
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-12-01T21:12:14Z",
+        "google_maps_url": "http://maps.google.com/?cid=5298453217074048297",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "1700 Platte St Suite 140, Denver, CO 80202, United States",
+          "country_code": "US",
+          "name": "Daughter Thai Kitchen & Bar"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0042101,
+          39.7523022
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-12-01T19:13:31Z",
+        "google_maps_url": "http://maps.google.com/?cid=16002543018715200408",
+        "location": {
+          "loc_type": "Activity",
+          "address": "1485 Delgany St, Denver, CO 80202, United States",
+          "country_code": "US",
+          "name": "Museum of Contemporary Art Denver"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9830340,
+          39.7115317
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-11-24T20:18:04Z",
+        "google_maps_url": "http://maps.google.com/?cid=15420875333069989814",
+        "location": {
+          "loc_type": "Breakfast",
+          "address": "275 S Logan St, Denver, CO 80209, United States",
+          "country_code": "US",
+          "name": "Lucile's Creole Café"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9830861,
+          39.7249012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-11-24T04:40:34Z",
+        "google_maps_url": "http://maps.google.com/?cid=13439811957930837223",
+        "location": {
+          "loc_type": "Breakfast",
+          "address": "550 Grant St, Denver, CO 80203, United States",
+          "country_code": "US",
+          "name": "Moe's Broadway Bagel"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9807160,
+          39.7109862
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-11-24T04:39:54Z",
+        "google_maps_url": "http://maps.google.com/?cid=10769991886603588472",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "540 E Alameda Ave, Denver, CO 80209, United States",
+          "country_code": "US",
+          "name": "Phở Haus"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9817920,
+          39.7148224
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-11-24T04:39:45Z",
+        "google_maps_url": "http://maps.google.com/?cid=10169715450666256739",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "95 S Pennsylvania St, Denver, CO 80209, United States",
+          "country_code": "US",
+          "name": "Uncle"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9870972,
+          39.7117470
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-11-24T04:39:00Z",
+        "google_maps_url": "http://maps.google.com/?cid=9171206871149048773",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "270 S Broadway, Denver, CO 80209, United States",
+          "country_code": "US",
+          "name": "Illegal Pete's - South Broadway"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9871106,
+          39.6914512
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-10-30T03:49:33Z",
+        "google_maps_url": "http://maps.google.com/?cid=13168527195356887282",
+        "location": {
+          "loc_type": "Bar",
+          "address": "1380 S Broadway, Denver, CO 80210, United States",
+          "country_code": "US",
+          "name": "Dive Inn"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9822444,
+          39.7553306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-10-29T01:52:37Z",
+        "google_maps_url": "http://maps.google.com/?cid=8205040668671838631",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "2532 Champa St, Denver, CO 80205, United States",
+          "country_code": "US",
+          "name": "Curtis Park Delicatessen"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0809844,
+          39.7470707
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-10-06T02:35:01Z",
+        "google_maps_url": "http://maps.google.com/?cid=10624664941828905894",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "1990 Wadsworth Blvd, Lakewood, CO 80214, United States",
+          "country_code": "US",
+          "name": "Pizzeria Leopold"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9793397,
+          39.7630347
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-10-06T00:45:13Z",
+        "google_maps_url": "http://maps.google.com/?cid=7723644832886106603",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "3090 Larimer St, Denver, CO 80205, United States",
+          "country_code": "US",
+          "name": "Rye Society"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0246439,
+          39.7048784
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-07-21T21:57:49Z",
+        "google_maps_url": "http://maps.google.com/?cid=14957771332785842645",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "640 S Federal Blvd, Denver, CO 80219, United States",
+          "country_code": "US",
+          "name": "New Saigon Bakery and Deli"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9695047,
+          39.7435340
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-05-17T23:02:52Z",
+        "google_maps_url": "http://maps.google.com/?cid=5295173236313352120",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "1702 N Humboldt St, Denver, CO 80218, United States",
+          "country_code": "US",
+          "name": "White Pie"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.2107871,
+          39.7478782
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-05-07T16:29:11Z",
+        "google_maps_url": "http://maps.google.com/?cid=7886764584725932061",
+        "location": {
+          "loc_type": "Breakfast",
+          "address": "2221 Ford St, Golden, CO 80401, United States",
+          "country_code": "US",
+          "name": "Bonfire Burritos"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9987861,
+          39.7171370
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-04-24T02:01:20Z",
+        "google_maps_url": "http://maps.google.com/?cid=13981838849897557340",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "900 W 1st Ave, Denver, CO 80223, United States",
+          "country_code": "US",
+          "name": "Smokin Yard's BBQ"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9776986,
+          39.7473237
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-04-14T20:27:55Z",
+        "google_maps_url": "http://maps.google.com/?cid=251309675852015586",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "1959 Park Ave W, Denver, CO 80218, United States",
+          "country_code": "US",
+          "name": "La Pasadita Inn"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9454478,
+          39.7397470
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-04-14T18:47:45Z",
+        "google_maps_url": "http://maps.google.com/?cid=16887829602238226632",
+        "location": {
+          "loc_type": "Brewery",
+          "address": "1477 Monroe St, Denver, CO 80206, United States",
+          "country_code": "US",
+          "name": "Cerebral Brewing - Congress Park"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0541467,
+          39.7529385
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-04-13T22:49:06Z",
+        "google_maps_url": "http://maps.google.com/?cid=6713842689438418444",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "5228 W 25th Ave, Edgewater, CO 80214, United States",
+          "country_code": "US",
+          "name": "US Thai Cafe"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9797470,
+          39.7463000
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-04-06T15:47:52Z",
+        "google_maps_url": "http://maps.google.com/?cid=884883675241856290",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "1906 Pearl St, Denver, CO 80203, United States",
+          "country_code": "US",
+          "name": "Walter's303 Pizzeria & Publik House | Uptown"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9897917,
+          39.7363194
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-03-19T00:16:58Z",
+        "google_maps_url": "http://maps.google.com/?cid=17181863244217161053",
+        "location": {
+          "loc_type": "Activity",
+          "address": "1250 Bannock St, Denver, CO 80204, United States",
+          "country_code": "US",
+          "name": "Clyfford Still Museum"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9803204,
+          39.6824432
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-03-12T02:36:44Z",
+        "google_maps_url": "http://maps.google.com/?cid=18411419599109413204",
+        "location": {
+          "loc_type": "Sweets",
+          "address": "1882 S Pearl St, Denver, CO 80210, United States",
+          "country_code": "US",
+          "name": "Sweet Cow"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9842033,
+          39.7597397
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-03-02T17:01:39Z",
+        "google_maps_url": "http://maps.google.com/?cid=13748141921594787837",
+        "location": {
+          "loc_type": "Bar",
+          "address": "2701 Larimer St, Denver, CO 80205, United States",
+          "country_code": "US",
+          "name": "Meadowlark Bar"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9783631,
+          39.7641489
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-03-02T17:00:55Z",
+        "google_maps_url": "http://maps.google.com/?cid=6812062759707940394",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "3163 Larimer St, Denver, CO 80205, United States",
+          "country_code": "US",
+          "name": "Mister Oso RiNo"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9909853,
+          39.7545109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-01-27T08:15:55Z",
+        "google_maps_url": "http://maps.google.com/?cid=10440668973694769114",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "2129 Larimer St, Denver, CO 80205, United States",
+          "country_code": "US",
+          "name": "Marco's Coal Fired | Ballpark"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0011116,
+          39.7555159
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2020-06-29T03:20:15Z",
+        "google_maps_url": "http://maps.google.com/?cid=6812614446998484509",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "1998 18th St, Denver, CO 80202, United States",
+          "country_code": "US",
+          "name": "Gyu-Kaku Japanese BBQ"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.1150462,
+          39.7398421
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2020-06-13T20:11:56Z",
+        "google_maps_url": "http://maps.google.com/?cid=12132087499193712554",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "10450 W Colfax Ave, Lakewood, CO 80215, United States",
+          "country_code": "US",
+          "name": "Yianni's Gyros Place"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0062379,
+          39.7622321
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2020-02-23T03:28:46Z",
+        "google_maps_url": "http://maps.google.com/?cid=3252694240837450248",
+        "location": {
+          "loc_type": "Bar",
+          "address": "3200 N Pecos St, Denver, CO 80211, United States",
+          "country_code": "US",
+          "name": "Avanti Food & Beverage"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9984082,
+          39.7204842
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2020-01-24T23:49:26Z",
+        "google_maps_url": "http://maps.google.com/?cid=11054486063138982559",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "258 Santa Fe Dr, Denver, CO 80223, United States",
+          "country_code": "US",
+          "name": "The Argentos Carne"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9893771,
+          39.7115940
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-11-20T21:28:51Z",
+        "google_maps_url": "http://maps.google.com/?cid=4631884486484143447",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "77 W Alameda Ave, Denver, CO 80223, United States",
+          "country_code": "US",
+          "name": "El Nopalito Mexican Food"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9987228,
+          39.7245183
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-11-13T18:53:18Z",
+        "google_maps_url": "http://maps.google.com/?cid=876119566867477449",
+        "location": {
+          "loc_type": "Coffeeshop",
+          "address": "525 Santa Fe Dr, Denver, CO 80204, United States",
+          "country_code": "US",
+          "name": "Queen City Collective Coffee"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0107061,
+          39.7614634
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-10-26T00:59:06Z",
+        "google_maps_url": "http://maps.google.com/?cid=11427141894166147545",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "2715 17th St, Denver, CO 80211, United States",
+          "country_code": "US",
+          "name": "Postino LoHi"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9873249,
+          39.7164443
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-10-16T19:29:50Z",
+        "google_maps_url": "http://maps.google.com/?cid=15655074467932700940",
+        "location": {
+          "loc_type": "Coffeeshop",
+          "address": "2 S Broadway, Denver, CO 80209, United States",
+          "country_code": "US",
+          "name": "Mutiny Information Cafe"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9735453,
+          39.7641692
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-10-14T19:28:15Z",
+        "google_maps_url": "http://maps.google.com/?cid=8926051616568896182",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "3357 N Downing St, Denver, CO 80205, United States",
+          "country_code": "US",
+          "name": "Lou's Italian Specialties"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0093141,
+          39.7562205
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-10-12T20:16:10Z",
+        "google_maps_url": "http://maps.google.com/?cid=4217509054065679104",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "2376 15th St, Denver, CO 80202, United States",
+          "country_code": "US",
+          "name": "My Brother's Bar"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9654143,
+          39.7571213
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-10-12T20:15:54Z",
+        "google_maps_url": "http://maps.google.com/?cid=5371588704243956683",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "1819 E 28th Ave, Denver, CO 80205, United States",
+          "country_code": "US",
+          "name": "Genna Rae Wings & More..."
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0301028,
+          39.7619709
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-10-07T01:45:11Z",
+        "google_maps_url": "http://maps.google.com/?cid=11004619785263393280",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "3300 W 32nd Ave, Denver, CO 80211, United States",
+          "country_code": "US",
+          "name": "Tacos Tequila Whiskey"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9694264,
+          39.7403880
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-10-04T15:30:28Z",
+        "google_maps_url": "http://maps.google.com/?cid=2158792723830409774",
+        "location": {
+          "loc_type": "Breakfast",
+          "address": "1510 N Humboldt St, Denver, CO 80218, United States",
+          "name": "Spices Cafe"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9839623,
+          39.7274296
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-09-30T20:43:47Z",
+        "google_maps_url": "http://maps.google.com/?cid=9301777110627222559",
+        "location": {
+          "loc_type": "Bar",
+          "address": "233 E 7th Ave, Denver, CO 80203, United States",
+          "country_code": "US",
+          "name": "Vesper Lounge"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9863931,
+          39.7327649
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-09-30T20:31:47Z",
+        "google_maps_url": "http://maps.google.com/?cid=14688932584369267703",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "1035 Lincoln St, Denver, CO 80203, United States",
+          "country_code": "US",
+          "name": "Melita's Greek Cafe & Market"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9897118,
+          39.7353876
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-09-26T19:23:07Z",
+        "google_maps_url": "http://maps.google.com/?cid=15388611539162264512",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "123 W 12th Ave, Denver, CO 80204, United States",
+          "country_code": "US",
+          "name": "Leven Deli Co."
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9471072,
+          39.7399571
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-09-18T19:51:35Z",
+        "google_maps_url": "http://maps.google.com/?cid=14220614752076934620",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "3410 E Colfax Ave, Denver, CO 80206, United States",
+          "country_code": "US",
+          "name": "Tommy's Thai"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0114110,
+          39.7595235
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-09-12T19:51:47Z",
+        "google_maps_url": "http://maps.google.com/?cid=17836480053584340068",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "2030 W 30th Ave, Denver, CO 80211, United States",
+          "country_code": "US",
+          "name": "Linger"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9871010,
+          39.7186360
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-09-11T22:21:37Z",
+        "google_maps_url": "http://maps.google.com/?cid=214994331354588726",
+        "location": {
+          "loc_type": "Activity",
+          "address": "110 N Broadway, Denver, CO 80203, United States",
+          "country_code": "US",
+          "name": "Landmark's Mayan Theatre"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0026309,
+          39.7252592
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-09-11T22:21:23Z",
+        "google_maps_url": "http://maps.google.com/?cid=17581127738571967371",
+        "location": {
+          "loc_type": "Activity",
+          "address": "1155 W 5th Ave, Denver, CO 80204, United States",
+          "country_code": "US",
+          "name": "Movement Baker"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9800686,
+          39.7401820
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-09-11T01:36:49Z",
+        "google_maps_url": "http://maps.google.com/?cid=5495334776530136870",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "571 E Colfax Ave, Denver, CO 80203, United States",
+          "country_code": "US",
+          "name": "Bourbon Grill"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0247801,
+          39.7066393
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-09-10T19:22:59Z",
+        "google_maps_url": "http://maps.google.com/?cid=2117004006359660694",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "550 S Federal Blvd, Denver, CO 80219, United States",
+          "country_code": "US",
+          "name": "Baker's Palace"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9804065,
+          39.7434807
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-09-10T19:09:58Z",
+        "google_maps_url": "http://maps.google.com/?cid=1245068242557223395",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "523 E 17th Ave, Denver, CO 80203, United States",
+          "country_code": "US",
+          "name": "Steuben's Uptown"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9807110,
+          39.6829092
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-09-10T19:09:21Z",
+        "google_maps_url": "http://maps.google.com/?cid=17231934514640281054",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "1859 S Pearl St, Denver, CO 80210, United States",
+          "country_code": "US",
+          "name": "Quiero Arepas"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9691739,
+          39.7434307
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-09-09T19:16:47Z",
+        "google_maps_url": "http://maps.google.com/?cid=7194655259174930984",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "1475 E 17th Ave, Denver, CO 80218, United States",
+          "country_code": "US",
+          "name": "Dos Santos"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9490318,
+          39.7403197
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-08-22T14:56:54Z",
+        "google_maps_url": "http://maps.google.com/?cid=6665378868563934674",
+        "location": {
+          "loc_type": "Breakfast",
+          "address": "3237 E Colfax Ave, Denver, CO 80206, United States",
+          "country_code": "US",
+          "name": "Atomic Cowboy home of Denver Biscuit Co & Fat Sully's NY Pizza"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9878199,
+          39.7137452
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-08-22T14:56:44Z",
+        "google_maps_url": "http://maps.google.com/?cid=12810414570378491696",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "141 S Broadway, Denver, CO 80209, United States",
+          "country_code": "US",
+          "name": "Atomic Cowboy home of Denver Biscuit Co & Fat Sully's NY Pizza"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0441783,
+          39.7743977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-08-22T14:56:38Z",
+        "google_maps_url": "http://maps.google.com/?cid=18231482691917597558",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "4275 Tennyson St, Denver, CO 80212, United States",
+          "country_code": "US",
+          "name": "Atomic Cowboy home of Denver Biscuit Co & Fat Sully's NY Pizza"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9808419,
+          39.6895780
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-08-22T14:55:10Z",
+        "google_maps_url": "http://maps.google.com/?cid=12975132885708167184",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "1487 S Pearl St, Denver, CO 80210, United States",
+          "country_code": "US",
+          "name": "Sushi Den"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9807856,
+          39.7399034
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-08-17T00:38:57Z",
+        "google_maps_url": "http://maps.google.com/?cid=14133698440326660057",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "508 E Colfax Ave, Denver, CO 80203, United States",
+          "country_code": "US",
+          "name": "La Abeja Restaurant"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9797069,
+          39.7367423
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-08-17T00:38:12Z",
+        "google_maps_url": "http://maps.google.com/?cid=2536874320392040557",
+        "location": {
+          "loc_type": "Breakfast",
+          "address": "600 East 13th Avenue, Pearl St, Denver, CO 80203, United States",
+          "country_code": "US",
+          "name": "Jelly Cafe"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9793630,
+          39.7367680
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-08-17T00:36:21Z",
+        "google_maps_url": "http://maps.google.com/?cid=5575394485408464929",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "616 E 13th Ave, Denver, CO 80203, United States",
+          "country_code": "US",
+          "name": "Benny Blancos Slice Of The Bronx"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9796734,
+          39.7257811
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-08-11T22:21:24Z",
+        "google_maps_url": "http://maps.google.com/?cid=3240118002708463064",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "603 E 6th Ave, Denver, CO 80203, United States",
+          "country_code": "US",
+          "name": "Odyssey Italian Restaurant"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9841111,
+          39.7401972
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-08-07T20:17:10Z",
+        "google_maps_url": "http://maps.google.com/?cid=17582686799568996925",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "229 E Colfax Ave, Denver, CO 80203, United States",
+          "country_code": "US",
+          "name": "Phở-natic Vietnamese Restaurant"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9987293,
+          39.7251610
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-07-25T21:44:28Z",
+        "google_maps_url": "http://maps.google.com/?cid=4981150189633418618",
+        "location": {
+          "loc_type": "Activity",
+          "address": "555 Santa Fe Dr, Denver, CO 80204, United States",
+          "name": "Denver Tool Library | Lending, Classes & Workshop"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0336564,
+          39.7623703
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-04-21T22:20:38Z",
+        "google_maps_url": "http://maps.google.com/?cid=11089214331993043411",
+        "location": {
+          "loc_type": "Store",
+          "address": "3457 W 32nd Ave, Denver, CO 80211, United States",
+          "country_code": "US",
+          "name": "Seafood Landing"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9814749,
+          39.7619403
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-03-25T22:11:30Z",
+        "google_maps_url": "http://maps.google.com/?cid=9238695136596663726",
+        "location": {
+          "loc_type": "Bar",
+          "address": "2927 Larimer St, Denver, CO 80205, United States",
+          "country_code": "US",
+          "name": "Finn's Manor"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0110260,
+          39.7619399
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-01-23T03:10:36Z",
+        "google_maps_url": "http://maps.google.com/?cid=5383416249242011039",
+        "location": {
+          "loc_type": "Bar",
+          "address": "3160 Tejon St, Denver, CO 80211, United States",
+          "country_code": "US",
+          "name": "Williams & Graham"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9919829,
+          39.7526320
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-11-08T14:53:06Z",
+        "google_maps_url": "http://maps.google.com/?cid=11289954255554363097",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "1215 20th St, Denver, CO 80202, United States",
+          "country_code": "US",
+          "name": "Ophelia's Electric Soapbox"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9973095,
+          39.7586622
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-11-08T14:52:26Z",
+        "google_maps_url": "http://maps.google.com/?cid=11733850527263286489",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "2907 Huron St, Denver, CO 80202, United States",
+          "country_code": "US",
+          "name": "Whiskey Tango Foxtrot"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9846353,
+          39.7366908
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-11-08T14:51:29Z",
+        "google_maps_url": "http://maps.google.com/?cid=4306999251885169469",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "206 E 13th Ave, Denver, CO 80203, United States",
+          "country_code": "US",
+          "name": "City O' City"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9693218,
+          39.7446986
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-11-04T18:09:59Z",
+        "google_maps_url": "http://maps.google.com/?cid=15989685141603291326",
+        "location": {
+          "loc_type": "Breakfast",
+          "address": "1420 E 18th Ave, Denver, CO 80218, United States",
+          "country_code": "US",
+          "name": "Onefold"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0837913,
+          39.6554159
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-07-16T17:03:44Z",
+        "google_maps_url": "http://maps.google.com/?cid=15731026719808390426",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "3355 S Yarrow St E-131, Lakewood, CO 80227, United States",
+          "country_code": "US",
+          "name": "The Yabby Hut"
+        }
+      },
+      "type": "Feature"
+    }
+  ]
+}

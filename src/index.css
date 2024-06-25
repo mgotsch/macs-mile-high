@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@300..900&display=swap');
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  font-family: 'Sansita Swashed', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -10,4 +12,62 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.marker {
+  font-family: "Sansita Swashed", system-ui;
+  font-optical-sizing: auto;
+  width: 30px;
+  height: 30px;
+  border-radius: 50% 50% 50% 0;
+  transform: rotate(135deg);
+  box-shadow: 1px 1px;
+  background-size: cover;
+  opacity: 1;
+}
+
+.marker-bar { 
+  background-color: #101820; 
+  background-image: url('/public/icons/bar.png');
+}
+.marker-park { 
+  background-color: #97BC62;
+  background-image: url('/public/icons/park.png');
+}
+.marker-restaurant { 
+  background-color: #E7E8D1;
+  background-image: url('/public/icons/restaurant.png');
+}
+.marker-activity { 
+  background-color: #CC313D; 
+  background-image: url('/public/icons/activity.png');
+}
+.marker-coffeeshop { 
+  background-color: #FFF2D7;
+  background-image: url('/public/icons/coffee.png');
+}
+.marker-breakfast { 
+  background-color: #FF7F3E; 
+  background-image: url('/public/icons/breakfast.png');
+}
+.marker-store { 
+  background-color: #41C9E2;
+  background-image: url('/public/icons/store.png');
+  
+}
+.marker-brewery { 
+  background-color: #F4CE14; 
+  background-image: url('/public/icons/brewery.png');
+}
+
+.marker-sweets { 
+  background-color: #EA738D; 
+  background-image: url('/public/icons/sweets.png');
+}
+
+.pop-up {
+  font-family: "Sansita Swashed", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
 }
