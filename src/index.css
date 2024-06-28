@@ -1,8 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@300..900&family=Anton&family=Oswald:wght@200..700&display=swap');
 
 body {
   margin: 0;
-  font-family: 'Sansita Swashed', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  font-family: 'Oswald', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -14,16 +14,32 @@ code {
     monospace;
 }
 
+h3 {
+  font-family: 'Sansita Swashed', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+}
+
+.header {
+  background-color: #31666a;
+  padding: 10px 20px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: inset -1px -1.5px #424848;
+}
+
 .marker {
   font-family: "Sansita Swashed", system-ui;
   font-optical-sizing: auto;
   width: 30px;
   height: 30px;
   border-radius: 50% 50% 50% 0;
-  transform: rotate(135deg);
-  box-shadow: 1px 1px;
+  /* transform: rotate(315deg); */
+  box-shadow: 1px 1px #424848;
   background-size: cover;
-  opacity: 1;
+  /* opacity: 0.5; */
+  cursor: pointer;
 }
 
 .marker-bar { 
@@ -65,9 +81,65 @@ code {
   background-image: url('/public/icons/sweets.png');
 }
 
-.pop-up {
+.marker-all { 
+  background-color: #FF7F3E; 
+  background-image: url('/public/icons/breakfast.png');
+}
+
+.pop-up h3 {
   font-family: "Sansita Swashed", system-ui;
   font-optical-sizing: auto;
-  font-weight: 400;
+  font-weight: 800;
   font-style: normal;
+}
+
+.key-box {
+  color: #82caba;
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  background: #31666a;
+  padding: 10px;
+  /* border: 1px solid #424848; */
+  box-shadow: inset -1px -1.5px #424848;
+  display: flex;
+  flex-direction: column;
+  max-width: 300px;
+  width: 300px;
+}
+
+.key-box.minimized .key-box-content {
+  display: none;
+}
+
+.key-box-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.key-box-content {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+}
+
+.key-item {
+  display: flex;
+  align-items: center;
+  font-size: 16px;
+}
+
+input[type="checkbox"] {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+  margin-right: 10px; 
+  /* background-color: #82caba; */
+}
+
+.key-item .marker {
+  margin-right: 10px; /* Add space between marker and label */
 }
