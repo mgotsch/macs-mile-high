@@ -8,7 +8,6 @@ mapboxgl.accessToken = process.env.REACT_APP_MAPBOX_API_KEY;
 const locationTypes = ['Bar', 'Park', 'Restaurant', 'Activity', 'Coffeeshop', 'Breakfast', 'Store', 'Brewery', 'Sweets'];
 
 export default function MyMap() {
-  const [markers, setMarkers] = useState([]);
   const [filter, setFilter] = useState({
     Bar: true,
     Park: true,
@@ -22,30 +21,24 @@ export default function MyMap() {
   });
 
   const [selectAll, setSelectAll] = useState(true);
-  const [isMinimized, setIsMinimized] = useState(false);
-
-  // Set bounds to Denver, Colorado.
-  const bounds = [
-    [-106, 39.5],
-    [-104, 40]
-  ];  
-  
-  useEffect(() => {
-    // Directly set the imported JSON data
-    console.log(markerData);
-    setMarkers(markerData.features);
-  }, []);
+  const [isMinimized, setIsMinimized] = useState(true);
 
   useEffect(() => {
+     // Set bounds to Denver, Colorado.
+    const bounds = [
+      [-106, 39.5],
+      [-104, 40]
+    ];  
+
     const map = new mapboxgl.Map({
       container: 'map',
-      center: [-105, 39.70],
-      zoom: 11,
+      center: [-104.982, 39.725],
+      zoom: 12,
       style: 'mapbox://styles/mgotsch/clxtlfu2r00o301rndnipcx45',
       maxBounds: bounds
     });
 
-    markers.forEach(marker => {
+    markerData.features.forEach(marker => {
       // console.log(marker);
       const locationType = marker.properties.location.loc_type;
       if (filter[locationType]) {
@@ -62,7 +55,7 @@ export default function MyMap() {
       }
     });
 
-  }, [markers, filter]);
+  }, [filter]);
   
   const handleCheckboxChange = (type) => {
     setFilter((prev) => ({ ...prev, [type]: !prev[type] }));
@@ -86,29 +79,29 @@ export default function MyMap() {
     <>
     <div id="map"style={{width: "100vw", height: "100vh"}}></div>
     <div className={`key-box ${isMinimized ? 'minimized' : ''}`}>
-        <div className="key-box-header">
-          <span>Location Filters</span>
-          <button onClick={toggleMinimize}>{isMinimized ? '[+]' : '[-]'}</button>
-        </div>
-        {!isMinimized && (
-          <div className="key-box-content">
-            <KeyItem
-              key="All"
-              label="All"
-              value={selectAll}
-              onChange={handleSelectAllChange}
-            />
-            {locationTypes.map((type) => (
-              <KeyItem
-                key={type}
-                label={type}
-                value={filter[type]}
-                onChange={() => handleCheckboxChange(type)}
-              />
-            ))}
-          </div>
-        )}
+      <div className="key-box-header">
+        <span>Location Filters</span>
+        <button onClick={toggleMinimize} className= 'arrow-box'><img src={isMinimized ? '/icons/arrowUp.png' : '/icons/arrowDown.png'} alt='Arrow' style={{width:"25px"}}></img></button>
       </div>
+      {!isMinimized && (
+        <div className="key-box-content">
+          <KeyItem
+            key="All"
+            label="All"
+            value={selectAll}
+            onChange={handleSelectAllChange}
+          />
+          {locationTypes.map((type) => (
+            <KeyItem
+              key={type}
+              label={type}
+              value={filter[type]}
+              onChange={() => handleCheckboxChange(type)}
+            />
+          ))}
+        </div>
+      )}
+    </div>
     </>
   );
 }

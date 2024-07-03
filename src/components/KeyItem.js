@@ -10,8 +10,11 @@ export default function KeyItem({ label, value, onChange }) {
         checked={value}
         onChange={onChange}
       />
-      <div className={`marker marker-${label.toLowerCase()}`}></div>
-      <label htmlFor={label}>{label}</label>
+      {/* <div className={`marker marker-${label.toLowerCase()}`}></div> */}
+        <label htmlFor={label} className="key-item-label">
+          <div className={`marker marker-${label.toLowerCase()}`}></div>
+          {label}
+        </label>
     </div>
   );
 }
