@@ -5,7 +5,7 @@ import markerData from '../data/markers.json';
 import KeyItem from './KeyItem';
 
 mapboxgl.accessToken = process.env.REACT_APP_MAPBOX_API_KEY;
-const locationTypes = ['Bar', 'Park', 'Restaurant', 'Activity', 'Coffeeshop', 'Breakfast', 'Store', 'Brewery', 'Sweets'];
+const locationTypes = ['Bar', 'Park', 'Restaurant', 'Activity', 'Coffeeshop', 'Breakfast', 'Shop', 'Brewery', 'Sweets'];
 
 export default function MyMap() {
   const [filter, setFilter] = useState({
@@ -15,7 +15,7 @@ export default function MyMap() {
     Activity: true,
     Coffeeshop: true,
     Breakfast: true,
-    Store: true,
+    Shop: true,
     Brewery: true,
     Sweets: true,
   });

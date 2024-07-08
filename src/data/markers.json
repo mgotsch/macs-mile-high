@@ -993,7 +993,7 @@
         "date": "2024-06-20T00:53:52Z",
         "google_maps_url": "http://maps.google.com/?cid=4099811021078279",
         "location": {
-          "loc_type": "Store",
+          "loc_type": "Shop",
           "address": "2 S Broadway, Denver, CO 80209",
           "country_code": "US",
           "name": "Mutiny Comics"
@@ -1013,7 +1013,7 @@
         "date": "2024-06-20T00:53:42Z",
         "google_maps_url": "http://maps.google.com/?cid=11733133982540550552",
         "location": {
-          "loc_type": "Store",
+          "loc_type": "Shop",
           "address": "2526 E Colfax Ave, Denver, CO 80206",
           "country_code": "US",
           "name": "Tattered Cover Book Store & Café Colfax"
@@ -1033,7 +1033,7 @@
         "date": "2024-06-20T00:53:26Z",
         "google_maps_url": "http://maps.google.com/?cid=4691566823465343797",
         "location": {
-          "loc_type": "Store",
+          "loc_type": "Shop",
           "address": "4620 E 23rd Ave, Denver, CO 80207",
           "country_code": "US",
           "name": "Park Hill Community Bookstore"
@@ -1053,7 +1053,7 @@
         "date": "2024-06-20T00:53:22Z",
         "google_maps_url": "http://maps.google.com/?cid=3847666533383270520",
         "location": {
-          "loc_type": "Store",
+          "loc_type": "Shop",
           "address": "316 S Broadway, Denver, CO 80209",
           "country_code": "US",
           "name": "Broadway Book Mall"
@@ -1073,7 +1073,7 @@
         "date": "2024-06-20T00:53:14Z",
         "google_maps_url": "http://maps.google.com/?cid=13458548976317255853",
         "location": {
-          "loc_type": "Store",
+          "loc_type": "Shop",
           "address": "300 E Colfax Ave, Denver, CO 80203",
           "country_code": "US",
           "name": "Capitol Hill Books"
@@ -1093,7 +1093,7 @@
         "date": "2024-06-20T00:53:05Z",
         "google_maps_url": "http://maps.google.com/?cid=14461248301651835259",
         "location": {
-          "loc_type": "Store",
+          "loc_type": "Shop",
           "address": "624 E 13th Ave, Denver, CO 80203",
           "country_code": "US",
           "name": "Kilgore Books"
@@ -1113,7 +1113,7 @@
         "date": "2024-06-20T00:52:33Z",
         "google_maps_url": "http://maps.google.com/?cid=17250947195697238552",
         "location": {
-          "loc_type": "Store",
+          "loc_type": "Shop",
           "address": "2301 7th St, Denver, CO 80211",
           "country_code": "US",
           "name": "Confluence Kayak & Ski"
@@ -1553,7 +1553,7 @@
         "date": "2024-03-20T17:00:54Z",
         "google_maps_url": "http://maps.google.com/?cid=4863888937512345601",
         "location": {
-          "loc_type": "Store",
+          "loc_type": "Shop",
           "address": "2401 15th St #100, Denver, CO 80202",
           "country_code": "US",
           "name": "Wilderness Exchange Unlimited"
@@ -2513,7 +2513,7 @@
         "date": "2022-01-21T03:34:30Z",
         "google_maps_url": "http://maps.google.com/?cid=310669054245567003",
         "location": {
-          "loc_type": "Store",
+          "loc_type": "Shop",
           "address": "3326 Tejon St, Denver, CO 80211",
           "country_code": "US",
           "name": "Western Daughters Butcher Shoppe"
@@ -2593,7 +2593,7 @@
         "date": "2022-01-13T23:56:39Z",
         "google_maps_url": "http://maps.google.com/?cid=9641399843303640816",
         "location": {
-          "loc_type": "Store",
+          "loc_type": "Shop",
           "address": "4621 E 23rd Ave, Denver, CO 80207",
           "country_code": "US",
           "name": "Spinelli's Market"
@@ -3971,7 +3971,7 @@
         "date": "2019-04-21T22:20:38Z",
         "google_maps_url": "http://maps.google.com/?cid=11089214331993043411",
         "location": {
-          "loc_type": "Store",
+          "loc_type": "Shop",
           "address": "3457 W 32nd Ave, Denver, CO 80211",
           "country_code": "US",
           "name": "Seafood Landing"
