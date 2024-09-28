@@ -49,7 +49,12 @@ export default function MyMap() {
         new mapboxgl.Marker(el)
           .setLngLat([marker.geometry.coordinates[0], marker.geometry.coordinates[1]])
           .setPopup(new mapboxgl.Popup().setHTML(
-            `<div class="pop-up"><h3>${marker.properties.location.name}</h3><p>${marker.properties.location.address}</p></div>`
+            `<div class="pop-up">
+              <h3>${marker.properties.location.name}</h3>
+              <p>${marker.properties.location.address.split(',')[0]}</p>
+              <img src=${marker.properties.photo_url} alt="${marker.properties.location.name} Photo" width="200" height="150">
+              <p>${marker.properties.editorial_summary?.overview || "Coming Soon"}</p>
+            </div>`
           ))
           .addTo(map);
       }

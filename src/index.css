@@ -97,11 +97,21 @@ h3 {
   background-image: url('/public/icons/all.png');
 }
 
+.pop-up {
+  align-items: center;
+  text-align: center;
+}
+
 .pop-up h3 {
   font-family: "Sansita Swashed", system-ui;
   font-optical-sizing: auto;
   font-weight: 800;
   font-style: normal;
+}
+
+.pop-up img {
+  object-fit: cover;
+  overflow: hidden;
 }
 
 .key-box {
