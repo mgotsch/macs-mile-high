@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@300..900&family=Anton&family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Sansita+Swashed:wght@300..900&display=swap');
 
 body {
   margin: 0;
@@ -102,16 +102,36 @@ h3 {
   text-align: center;
 }
 
+.pop-up .mapboxgl-popup-content {
+  background-color: #82caba;
+  color: #31666a;
+}
+
 .pop-up h3 {
   font-family: "Sansita Swashed", system-ui;
   font-optical-sizing: auto;
   font-weight: 800;
   font-style: normal;
+  font-size: 18px;
+  margin: 10px 0 0 0;
 }
 
-.pop-up img {
+.pop-up p {
+  font-family: "Oswald", system-ui;
+}
+
+.pop-up .location-line {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0;
+}
+
+.pop-up .location-pic {
   object-fit: cover;
   overflow: hidden;
+  box-shadow: 0 1px 2px rgba(0,0,0,.1);
+  border-radius: 3px;
 }
 
 .key-box {
@@ -139,8 +159,8 @@ h3 {
   justify-content: space-between;
   align-items: center;
   font-weight: bold;
-  margin-bottom: 10px;
-  font-size:18px;
+  margin-bottom: 5px;
+  font-size:22px;
 }
 
 .arrow-box {
@@ -160,7 +180,7 @@ h3 {
 .key-item {
   display: flex;
   align-items: center;
-  font-size: 16px;
+  font-size: 18px;
   cursor: pointer;
 }
 
