@@ -26,8 +26,8 @@ export default function MyMap() {
   useEffect(() => {
      // Set bounds to Denver, Colorado.
     const bounds = [
-      [-106, 39.5],
-      [-104, 40]
+      [-105.25, 39.5],
+      [-104.75, 40]
     ];  
 
     const map = new mapboxgl.Map({
