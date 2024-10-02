@@ -160,7 +160,7 @@ h3 {
   align-items: center;
   font-weight: bold;
   margin-bottom: 5px;
-  font-size:22px;
+  font-size: 18px;
 }
 
 .arrow-box {
@@ -180,7 +180,7 @@ h3 {
 .key-item {
   display: flex;
   align-items: center;
-  font-size: 18px;
+  font-size: 16px;
   cursor: pointer;
 }
 
