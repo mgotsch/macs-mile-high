@@ -4,5 +4,6 @@
 // learn more: https://github.com/testing-library/jest-dom
 import '@testing-library/jest-dom';
 import { TextEncoder } from 'node:util'
+import 'text-encoding';
 
 global.TextEncoder = TextEncoder
