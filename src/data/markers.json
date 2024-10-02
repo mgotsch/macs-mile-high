@@ -2126,6 +2126,10 @@
           "country_code": "US",
           "name": "Tonantzin Casa de Café"
         },
+        "editorial_summary": {
+          "language": "en",
+          "overview": "Coffee house celebrationg the indigenous cultures of the Southwest US and Latin America. Try out the horchatta latte, es delicioso"
+        },
         "opening_hours": {
           "open_now": true,
           "periods": [
@@ -4214,6 +4218,10 @@
           "address": "925 E 17th Ave, Denver, CO 80218",
           "country_code": "US",
           "name": "Plant Magic Cafe"
+        },
+        "editorial_summary": {
+          "language": "en",
+          "overview": "Heady coffeeshop and fungi haven in an old North Cap Hill mansion! Cool, hip place to spend an afternoon."
         },
         "opening_hours": {
           "open_now": true,
@@ -7157,7 +7165,12 @@
           "address": "6550 Gateway Rd, Commerce City, CO 80022",
           "country_code": "US",
           "name": "Rocky Mountain Arsenal National Wildlife Refuge"
-        }
+        },
+        "editorial_summary": {
+          "language": "en",
+          "overview": "Buffalo with a Denver backdrop... what's better than this??"
+        },
+        "photo_url": "https://www.fws.gov/sites/default/files/styles/banner_image_xl/public/banner_images/2021-06/Elisa%20Dahlberg%20resized%20%2840%29.jpg.webp?h=e981ee2d&itok=xY2TyK6I"
       },
       "type": "Feature"
     },
@@ -8139,6 +8152,10 @@
           "address": "Denver, CO 80218",
           "country_code": "US",
           "name": "Cheesman Park"
+        },
+        "editorial_summary": {
+          "language": "en",
+          "overview": "A wonderful patch of green in the middle of Cap Hill. Great for a park hang or watching some wild wooks around the gazeebo"
         },
         "photos": [
           {
@@ -11072,6 +11089,10 @@
           "address": "2001 Colorado Blvd, Denver, CO 80205",
           "country_code": "US",
           "name": "City Park"
+        },
+        "editorial_summary": {
+          "language": "en",
+          "overview": "Incredible park with a lake, a walking/biking path, summer Jazz concerts, and a killer view out to the skyline and mountains."
         },
         "photos": [
           {
@@ -16181,6 +16202,10 @@
           "country_code": "US",
           "name": "Timeo's Theater Bar"
         },
+        "editorial_summary": {
+          "language": "en",
+          "overview": "Little hole in the wall owned an run by a Denver civil rights champion. The service isn't fast (he and his wife run the bar) but it's adorable and the house band rocks!"
+        },
         "opening_hours": {
           "open_now": true,
           "periods": [
@@ -18074,6 +18099,10 @@
           "address": "8001 W 59th Ave, Arvada, CO 80004",
           "country_code": "US",
           "name": "Memorial Park and Johnny Roberts Disc Golf Course"
+        },
+        "editorial_summary": {
+          "language": "en",
+          "overview": "Wanna play a little disc, bro?"
         },
         "opening_hours": {
           "open_now": true,
@@ -22509,6 +22538,10 @@
           "country_code": "US",
           "name": "TeaLee's Teahouse & Bookstore"
         },
+        "editorial_summary": {
+          "language": "en",
+          "overview": "Full tea service upstairs and a cute little basement bookstore? Didn't think I'd come across it but love it now that I have!"
+        },
         "opening_hours": {
           "open_now": true,
           "periods": [
@@ -24367,6 +24400,10 @@
           "address": "3910 W Colfax Ave, Denver, CO 80204",
           "country_code": "US",
           "name": "Classic Eats Delicatessen"
+        },
+        "editorial_summary": {
+          "language": "en",
+          "overview": "Their breakfast sandwiches are the ultimate hangover killer. Get mine on a croissant, greasy but amazing."
         },
         "photos": [
           {
@@ -27747,6 +27784,10 @@
           "country_code": "US",
           "name": "New Saigon Bakery and Deli"
         },
+        "editorial_summary": {
+          "language": "en",
+          "overview": "Sorry Baker's Palace... this is where I go for my vietnamese sammy fix! Big taste, reasonable price!"
+        },
         "opening_hours": {
           "open_now": true,
           "periods": [
@@ -30261,6 +30302,10 @@
           "country_code": "US",
           "name": "Gyu-Kaku Japanese BBQ"
         },
+        "editorial_summary": {
+          "language": "en",
+          "overview": "Delicious Japanese BBQ and some great rice bowls too!"
+        },
         "opening_hours": {
           "open_now": true,
           "periods": [
@@ -30974,195 +31019,6 @@
         ],
         "rating": 4.8,
         "photo_url": "https://lh3.googleusercontent.com/places/ANXAkqGrZNWdUxhesLBSpwGUaE7sKsPgH2t7hGzPfD9ln6CcXf8GfylccfZq5oanzB_abvELIvAtzSlCfJ5-SrwsmgFvE2vJaxEZBRA=s1600-w400"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -104.9893771,
-          39.711594
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "date": "2019-11-20T21:28:51Z",
-        "google_maps_url": "http://maps.google.com/?cid=4631884486484143447",
-        "location": {
-          "loc_type": "Restaurant",
-          "address": "77 W Alameda Ave, Denver, CO 80223",
-          "country_code": "US",
-          "name": "El Nopalito Mexican Food"
-        },
-        "opening_hours": {
-          "open_now": true,
-          "periods": [
-            {
-              "close": {
-                "day": 0,
-                "time": "1600"
-              },
-              "open": {
-                "day": 0,
-                "time": "0700"
-              }
-            },
-            {
-              "close": {
-                "day": 1,
-                "time": "1900"
-              },
-              "open": {
-                "day": 1,
-                "time": "0700"
-              }
-            },
-            {
-              "close": {
-                "day": 2,
-                "time": "1600"
-              },
-              "open": {
-                "day": 2,
-                "time": "0700"
-              }
-            },
-            {
-              "close": {
-                "day": 3,
-                "time": "1900"
-              },
-              "open": {
-                "day": 3,
-                "time": "0700"
-              }
-            },
-            {
-              "close": {
-                "day": 4,
-                "time": "1900"
-              },
-              "open": {
-                "day": 4,
-                "time": "0700"
-              }
-            },
-            {
-              "close": {
-                "day": 5,
-                "time": "1900"
-              },
-              "open": {
-                "day": 5,
-                "time": "0700"
-              }
-            },
-            {
-              "close": {
-                "day": 6,
-                "time": "1700"
-              },
-              "open": {
-                "day": 6,
-                "time": "0700"
-              }
-            }
-          ],
-          "weekday_text": [
-            "Monday: 7:00 AM – 7:00 PM",
-            "Tuesday: 7:00 AM – 4:00 PM",
-            "Wednesday: 7:00 AM – 7:00 PM",
-            "Thursday: 7:00 AM – 7:00 PM",
-            "Friday: 7:00 AM – 7:00 PM",
-            "Saturday: 7:00 AM – 5:00 PM",
-            "Sunday: 7:00 AM – 4:00 PM"
-          ]
-        },
-        "photos": [
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/107325816999573482515\">El Nopalito Mexican Food</a>"
-            ],
-            "photo_reference": "AXCi2Q4q8iq0_EmEkygqTJzBNb3-_yoDm2u29u9PphqroGgY9AL_WCSHyR8pWLeEGJdpaBj9z3D2ms9g5R99kWrNY2f1F3VaE48ZG5q1VlIrd23F7o0LChE5RgudMCpZbQfQ3Pl6rdseAHwtdCT0H8y-8v4dHrXcHcUec_8UPnz7GnaLTMqj",
-            "width": 4032
-          },
-          {
-            "height": 4032,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/107325816999573482515\">El Nopalito Mexican Food</a>"
-            ],
-            "photo_reference": "AXCi2Q4CAxXqiNzjMwD0uTuD5SzISdzK_cesnEFPkMPimPcjjgynbXxjh94_FqA6wiWrPg-3aixqRgU-W7I07-ClxSrsTmLCVp5xpXohuFD1TMTRrIxDp1PiwIMfnP5kpU_PBKQ0CYx6-s0WKXvzGwWYP_1H_sxfSYgxWU_gQBwfLzNtzcvH",
-            "width": 3024
-          },
-          {
-            "height": 5472,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104909652761044417543\">Chris Aubrecht</a>"
-            ],
-            "photo_reference": "AXCi2Q5DvPPCC3iA3Zp20P8Y6QWHTCEaDzUrIeE6ryoSUnSpmClX5UF46Zoy9jOGGJK1-D6uxN_7xWxfk-F3jsY7wRgF8c38WvCwxUsIOlh2DZySJPSXRg2ID24Qh7pNcTgVYOY1D7zJ7lqFlRUtZOOxKNWE8K22Zr7iV_Q48fmhUrPuefo",
-            "width": 7296
-          },
-          {
-            "height": 4032,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/107325816999573482515\">El Nopalito Mexican Food</a>"
-            ],
-            "photo_reference": "AXCi2Q7bqfpNUpHC6rSsPYrtd7y4iCXDcnhNN06LmqSusiBmQgMhvnbht6OKi2ONeyNfZrlC5-GUwXDQfQkYyzKVIPKOWSokFrGNbexhW2HeULbiAxKHWODDeoeoTyKBMZcyiiCsBJnETWpPGtLNQTzn-fAS3i5Ywy5RkGPzI5w-Yl32-F70",
-            "width": 3024
-          },
-          {
-            "height": 1944,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111803813969092399458\">Joaquín Rascon</a>"
-            ],
-            "photo_reference": "AXCi2Q6lZDicmg7ygUVNUYgxDFQB05Lz-zc__bpu-U7R8Q7lhTgTzKIa1ejXA0PJfwJGdDZz28epd_UiNhaZC34iF-aF7WioMOdZFzUX7kX3ljRFW51mRb7_GtPTNO0_E1tigJf6oM1JV9EHfKiGoXzuOx-F6gX4ouAgQ5WT9ZqxCpbuO0nU",
-            "width": 2592
-          },
-          {
-            "height": 4048,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110359236832725360366\">Josh Calkins</a>"
-            ],
-            "photo_reference": "AXCi2Q4e-f8SjASmiHegZ2sp5S_bs1dfwnCuoDFfHBHxHVLMw3XKpBfGsYK1GoA7YlQ7oWY6Dov35ELxRTg95vVfYycACzsAJ-QVo-QvMtZc_frHS2_Zr0xbN1QSpvPGWFBsPmQICNmvuHVV_iEUv3ngoV3JqCQXjbA6xDSE0O5tTxwRqn-N",
-            "width": 3036
-          },
-          {
-            "height": 2268,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100817498237024380521\">Simonas Lukošius</a>"
-            ],
-            "photo_reference": "AXCi2Q4NPd4vCAhCEXCr65lEU4FEdehMBrULwoLh3colrMqYM50NoAbQnzjb1ypPFLE5r5CYjkgWZy5-noJ18TasxQ_1tn1EwcKZN4dH_ETpIqCKvfERBB4iUpbakPtKpM4XEa_FAohOJ-hJanY2eP1cTPJq2CER__fFTXe1j0V5d4-aNIYv",
-            "width": 4032
-          },
-          {
-            "height": 4000,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102624096289889016101\">Jose Grageola</a>"
-            ],
-            "photo_reference": "AXCi2Q6yT06QDeX9WlgZqFPku6BYO6KHwzq-JzuB8rtzE0IbONpMkhHaTeAFaMczlbwEuAJ8XtDkKMeDdzkRpeqcfFSTTe4MDCgRNI-mhHfDuLkUv65l5w1MyC1WwDYSnwcqMCORp13JDdpN04Ztv0Ttyh1bRV-kqbpH93XjSI1GY8YX1N_w",
-            "width": 3000
-          },
-          {
-            "height": 2322,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104028313824541552892\">Joshua Jacobs</a>"
-            ],
-            "photo_reference": "AXCi2Q7-18nMwbdQ6tXM4BctGAlMYyG0ovOFk9DOm4Yk-1aApVitfuIlG2KKcZRWz_Z02eI9oRtFNuWmP1l4euyFiP3IHacqflILo6L_NqxbCvkQKul2WDFIaSp-wZ-RsA1GG4K60uh_sRMnkMT-vgG51_KGuczEJbuuQwmYaeNG-ACkSuCV",
-            "width": 4128
-          },
-          {
-            "height": 2268,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104545608095765548349\">Emily Goodin</a>"
-            ],
-            "photo_reference": "AXCi2Q7WynDKTQcBv3yLm_qNECt_Ei31SDr2vSMEWdt-4YjI5IqpvNT355ponqKo728qj0HbtFtSBPDdx8xrTuLvcUie9xX7wRlip0aH9lRJDKOiV4x02jLZwgFOLdK-OmSKgjiXJLVmkVNIVT3TgwRGyehdBGskQ9mGtLeMue43iV9gZZmy",
-            "width": 4032
-          }
-        ],
-        "price_level": 1,
-        "rating": 4.5,
-        "photo_url": "https://lh3.googleusercontent.com/places/ANXAkqFHdYaVw-2uTdq5nv8bgZmB2MWLaCXkycygpGBxOTKOWMzH-mAE9yjrtY0aqOPu_EWQCam_xv7Al35zvEMltAGuSpyIw6e4F6Y=s1600-w400"
       },
       "type": "Feature"
     },
@@ -34027,6 +33883,10 @@
           "country_code": "US",
           "name": "Baker's Palace"
         },
+        "editorial_summary": {
+          "language": "en",
+          "overview": "They don't call Federal 'Little Vietnam' for nothing! In the race for best bahn mi around."
+        },
         "opening_hours": {
           "open_now": true,
           "periods": [
@@ -36468,6 +36328,10 @@
           "address": "555 Santa Fe Dr, Denver, CO 80204",
           "name": "Denver Tool Library | Lending, Classes & Workshop"
         },
+        "editorial_summary": {
+          "language": "en",
+          "overview": "Want to be a handy person but don't want to financially commit in the tools? They've got you covered here + can provide lessons on how to use them, can't reccomend enough!"
+        },
         "opening_hours": {
           "open_now": true,
           "periods": [
@@ -36625,6 +36489,10 @@
           "address": "3457 W 32nd Ave, Denver, CO 80211",
           "country_code": "US",
           "name": "Seafood Landing"
+        },
+        "editorial_summary": {
+          "language": "en",
+          "overview": "High quality, sushi grade fish in a landlocked state. That's a needle in the haystack!"
         },
         "opening_hours": {
           "open_now": true,
@@ -38136,6 +38004,2035 @@
         ],
         "rating": 4.6,
         "photo_url": "https://lh3.googleusercontent.com/places/ANXAkqF02c3g9Uh35OzXc4oV5f1uq5ibfXNxLLws3eXDE2d68XfOhMyKQRkf-jKFYynWELPjETUwlvAxUqvYDNv1Cd7zYuJzsQXEC4I=s1600-w400"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.987272,
+          39.7175995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-10-02T19:33:18Z",
+        "google_maps_url": "http://maps.google.com/?cid=13780724737453683315",
+        "location": {
+          "loc_type": "Sweets",
+          "address": "52 Broadway, Denver, CO 80203, United States",
+          "country_code": "US",
+          "name": "Sweet Action"
+        },
+        "editorial_summary": {
+          "language": "en",
+          "overview": "Unpretentious ice cream shop with a changing selection of inventive flavors, plus vegan options."
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "0000"
+              },
+              "open": {
+                "day": 0,
+                "time": "1200"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "0000"
+              },
+              "open": {
+                "day": 1,
+                "time": "1200"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "0000"
+              },
+              "open": {
+                "day": 2,
+                "time": "1200"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "0000"
+              },
+              "open": {
+                "day": 3,
+                "time": "1200"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "0000"
+              },
+              "open": {
+                "day": 4,
+                "time": "1200"
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "0000"
+              },
+              "open": {
+                "day": 5,
+                "time": "1200"
+              }
+            },
+            {
+              "close": {
+                "day": 0,
+                "time": "0000"
+              },
+              "open": {
+                "day": 6,
+                "time": "1200"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Monday: 12:00 PM – 12:00 AM",
+            "Tuesday: 12:00 PM – 12:00 AM",
+            "Wednesday: 12:00 PM – 12:00 AM",
+            "Thursday: 12:00 PM – 12:00 AM",
+            "Friday: 12:00 PM – 12:00 AM",
+            "Saturday: 12:00 PM – 12:00 AM",
+            "Sunday: 12:00 PM – 12:00 AM"
+          ]
+        },
+        "photos": [
+          {
+            "height": 4000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105980724991420817851\">Sweet Action</a>"
+            ],
+            "photo_reference": "AXCi2Q4N4ZjOgAAGqwEy35sUakR4lnkcghXxfeK9M7uLWKOBexiG5cOfVW4-baiBdl3KIMdcZf48KuqAvejwNCZAC35GoW8WtemtSaT5DRNMqMWNF8m-FALtzRTk_ObfoVoEb1jhZ8Fo0mQL_HLxBPVeW1wbgr93CboF23hhHSfFCjhNt7Iz",
+            "width": 6000
+          },
+          {
+            "height": 640,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105980724991420817851\">Sweet Action</a>"
+            ],
+            "photo_reference": "AXCi2Q7PNV-qi19Nwt6E9kvyJdu9VbDqIPLmeAqfU4B2AJLj0qKsGVwCeDP9r9fSrxcinFAgTRW0mtYWYQWvdksLNl-FIDbtlDIpt5IZPcYp8Zp5YjJtizmqfM0ud8BwNkppoFQ1qHGdKxN7jB-FeQPa3dkVtFXPWDWbGtRm04xepYaJuu57",
+            "width": 566
+          },
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110494684330844191328\">Quinn M</a>"
+            ],
+            "photo_reference": "AXCi2Q7nBgFGglGnxh0LJCDSrjim_S4AaQc5qJsY8RI8mLc9a69O2zqPswHSPKS9F6ANzSefGxRHSrVUY0f3VhfcGqgudGvDYwTny9FZBcO4nqD4awxlpk5Kc8GQAl2dLOSdZw4daqXlBfBYshs_zc5OKtfYPQzulwI5QAcptYAaNPDESL8j",
+            "width": 3024
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105850601604412881087\">Lisa J. Shultz</a>"
+            ],
+            "photo_reference": "AXCi2Q71bW37KC6sEhFloD-42WVhYSIEoyGxrrhsN1YnLQxBCCjMk9ON__uSYg9H6_PASgJ9WVPNlXDjCjMI1tpyjWRrznRIEoPVY-akLbwcoyeU9QZC-6VbCNvAQKt_8hA2ehI02YvswbhtQcW-RrBME25fihEqd_m2QSGK9hNpQm_FUm4O",
+            "width": 4032
+          },
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113475730287023362870\">Carter Philbrick</a>"
+            ],
+            "photo_reference": "AXCi2Q68oAWJ4GYuJT6CFf3sjbnmiVwzy0DbsCocenRwZ-dtejiCV7JHW-hH57qJwXpUxI450iYV45l1Jw30jqIRM1e3ryofAKMFhGo6m9RxoMGbwRBf_hUigycoC95GVdYMLv9SVEI5RpdQegy9gk27AbonhnrA_SW9Fa0K4c7XUnDoUvX9",
+            "width": 3024
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110253544182328206908\">Jeff Anders</a>"
+            ],
+            "photo_reference": "AXCi2Q7MvDTs2d74Anagw0QAi74M91NAplGD_1vXNeO5VsPsYlS3az1RjiqMypPD3laBd6Mb4HACnTbC-5uxluUHKqCV0zZ2431__VIwSF5Set6kfBBvjRFTNUolJ_WhjQiz-5oETrOvyBxhOFjYuytycJyYxVTk4Zq_vaPSQApyhf3xq5H9",
+            "width": 4032
+          },
+          {
+            "height": 2268,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100819225007719184428\">Adam Sattley</a>"
+            ],
+            "photo_reference": "AXCi2Q4Qx8hCh00jpG7BGu1OSr9_5Zl7CJjOli5ILXD-eOQRJljZh56flkKsgle9K2DRRdHgpc2PAZm0zd4tPbfh6QmtN-gB6r_z2IOJQodZBWSwmADc4L8YZPQrBXB5SItD00393s3ryMemY23cYN9ZkQ7Pg781-Jsews9GSJ0wsSjuqJT4",
+            "width": 4032
+          },
+          {
+            "height": 2592,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114558726213175037418\">Scott Walter</a>"
+            ],
+            "photo_reference": "AXCi2Q7IU0iN6mua81ki89uPhXR2aMvAKOo8pI13sJS0qoZ-3Ty4FX8W0wdUiZV3t73kJr9_0uNYZ3DtxjukkhkRrF7PIMpSlF5xR75y_rjHPqhZh3nvAhhlM2mRSH030l3bwA9G8piSfs9LVA_mHv7YFt125mJNouIsUI3t-ZwDLzZV8E0D",
+            "width": 4608
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105850601604412881087\">Lisa J. Shultz</a>"
+            ],
+            "photo_reference": "AXCi2Q55Rt0BLTn8v-SiFM-KHSMSl-_hFk4JL7wQ1ayyMI1ID3NMPSc4Tr7V6PH44OGT-MkYTc-cGxcRSqsKfKqi8iDBSE3mBU14MhN22A46MM6iNFxVlw68dqcGb7Ahj7m1iBxH1Ua5Eo1uwxiHyyIHT62qOeG1WoknuKFPOYe3-CWqhPYk",
+            "width": 4032
+          },
+          {
+            "height": 4080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109244565389314355307\">Hannah</a>"
+            ],
+            "photo_reference": "AXCi2Q5DmOrUOXyv-wCpNZ73jyxTszpmuo9OzVQcjedceeORT_xpLLAr2oQ9z9aoJFaZ26143T5gJp755CWCKSJE-evAZ9xli7YD4GC7iB_qaXzGAAp2Jr6xFTs8i5CIWQ6xXPxWDGgtx_FWIMSbaC1GOfMKQq7xApSZYhQe--sNFlfSB64f",
+            "width": 3072
+          }
+        ],
+        "price_level": 1,
+        "rating": 4.6,
+        "photo_url": "https://lh3.googleusercontent.com/places/ANXAkqGJXiQSZBoqklVDShFWKQyjCe4Fr2WYe0HICNoIbQKAgDMeHXFJGt8LDPTjiViAY5rrOvj73e1Wf6CoTfEGBK68MnsYTBfRmhk=s1600-w400"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9861197,
+          39.7576532
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-10-02T19:30:41Z",
+        "google_maps_url": "http://maps.google.com/?cid=2415740474531585301",
+        "location": {
+          "loc_type": "Shop",
+          "address": "Topo Designs Flagship Store, 2500 Larimer St, Denver, CO 80205, United States",
+          "country_code": "US",
+          "name": "Topo Designs Flagship Store"
+        },
+        "editorial_summary": {
+          "language": "en",
+          "overview": "The flagship store for Topo's high-design, colorful, USA-made outdoor gear, apparel & bags."
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 0,
+                "time": "1700"
+              },
+              "open": {
+                "day": 0,
+                "time": "1100"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1800"
+              },
+              "open": {
+                "day": 1,
+                "time": "1100"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800"
+              },
+              "open": {
+                "day": 2,
+                "time": "1100"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800"
+              },
+              "open": {
+                "day": 3,
+                "time": "1100"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800"
+              },
+              "open": {
+                "day": 4,
+                "time": "1100"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800"
+              },
+              "open": {
+                "day": 5,
+                "time": "1100"
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1800"
+              },
+              "open": {
+                "day": 6,
+                "time": "1100"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Monday: 11:00 AM – 6:00 PM",
+            "Tuesday: 11:00 AM – 6:00 PM",
+            "Wednesday: 11:00 AM – 6:00 PM",
+            "Thursday: 11:00 AM – 6:00 PM",
+            "Friday: 11:00 AM – 6:00 PM",
+            "Saturday: 11:00 AM – 6:00 PM",
+            "Sunday: 11:00 AM – 5:00 PM"
+          ]
+        },
+        "photos": [
+          {
+            "height": 550,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107189079215801586570\">Josh Deiss</a>"
+            ],
+            "photo_reference": "AXCi2Q7L5wksmRMvn6mWwnTmJlP1Gyys8sZ2x4kov0qsptthlOXALrP5MxEW_l3D1Pv4tsMXhWYdBqTJdfExyZdo1cuW2xUsU6n_Rnc1khf05jKdrfhdseLONyC9ytAxVXZc8L-ktNUXNbW5B8Ks13DH8jHppyRshffrjGxWr_eOnrCRbGJ1",
+            "width": 1000
+          },
+          {
+            "height": 550,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114203091359576410235\">Topo Designs Flagship Store</a>"
+            ],
+            "photo_reference": "AXCi2Q5udFLnIHdW5mul6GH4lfY3zwOndnyXpHTWAAkcT8iRtQm6BXd_gzGF3XvsJJSeVlCMygQhLX6jntStpFthWrIaQWV0U5T26JxL98c0QeXSXI711t4SNrBjQ7jaRsytC4XnFFxseXQ8HLp6c37TuY3G7q_GGeX5Oao14WOYhNt_n96z",
+            "width": 1000
+          },
+          {
+            "height": 550,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107189079215801586570\">Josh Deiss</a>"
+            ],
+            "photo_reference": "AXCi2Q6i3azgiV1bqcy5DMmOU4UacZ2HrL9Dwh2SZhMwSm39nycMDBbJeSigMUg3HQEdT_E9EYf2owxbfyAZQSZ7chbCe6K_nWa6AOXIRZXogDqNjifnpUVEdlve8IvdtmdzgYLAa0myB22reknkVdN3KDw2vF2dai_Yj0g2YXTWSia15421",
+            "width": 1000
+          },
+          {
+            "height": 2048,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114203091359576410235\">Topo Designs Flagship Store</a>"
+            ],
+            "photo_reference": "AXCi2Q51uOZvpGkbiOBbEvba7I5snpkZ1JJxBjTy6AOWPpcQxpoU8QOMa4eu--CmXGkzegvFeC0frdny0UNUEjayNcBzI0VYjAB-hacbLlOWnmDpN90yn6afl5qaBKHAlL8XZRu2J41hm642T0vANKTxmzb-mwrmp-dedl8g13SqjaMxZGxi",
+            "width": 1536
+          },
+          {
+            "height": 2847,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113188181630305855164\">Vonn Voyage</a>"
+            ],
+            "photo_reference": "AXCi2Q4VXSe41xYGPksxLkkrKtxyZOg0WEipvyiJCiLFvBXU6-ElCUNJtZh0BselyWCCNn3M5Ki20LbAozNsXoecd27AiuqwQRwzLFMcRq_YBup8p5jlXT1v684LFk5xL-POU8jB6uwnahk5bkg0la32txeRtO9cuA8lwk10gAQxPsr0FxZb",
+            "width": 1880
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113908303612740308331\">Brianna Grimm</a>"
+            ],
+            "photo_reference": "AXCi2Q6BMbTUrNDlGi0NemYEsmVO0tiThGhxrc_uTNiyo_tbip_XOyND8B-GufkWDS108ZONjzzgvj4T978MRrTRPriS6FtLN_Zr-MVu4QNwyDACcawhy2eWJdyivKzS8j2rUhzYoA9X94AwJs8dUlFi-mMfwXRvuTCI9s5mzcnZWG4jicHs",
+            "width": 4032
+          },
+          {
+            "height": 1024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114203091359576410235\">Topo Designs Flagship Store</a>"
+            ],
+            "photo_reference": "AXCi2Q7NppLE3Xm-VL2LSKs3IC6xwOplmhrfoJCwi1y-PRkyTmQ3yqV1kKNhl5IbJ73fcDcDxphIuj3Np21yHy3R_UI2eHPQAZTjmP6Rh4vCJtIV_In9XFgEgLVEOx1YRxtmeBxxAnDTh9V0v58-OwyJXJOLA-ubQm0t7Ss_uknXyAdKHJYv",
+            "width": 768
+          },
+          {
+            "height": 720,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112980664932477114549\">Y Sati</a>"
+            ],
+            "photo_reference": "AXCi2Q4SG7LuJd50hp7A8HIp_KhiTDXOSmjlyzijP8Jbgbv0DhHtJEbV6NawKR9PnjaxZXp_SJLJ_4rjBZ0u4JulMNfiocTUk7c6ewMMqpPAn0zrDt1ryuDjbF3oEcaQThl9rtv-A2yuVQoUud7cHqoOIVgbbU348Nm7psJ3jcwMm12fCcY",
+            "width": 1280
+          },
+          {
+            "height": 2268,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100912195023657244371\">hey soda cola</a>"
+            ],
+            "photo_reference": "AXCi2Q5vzbSKc52FwQ-W8xX8uRwq6d-T2UnqJyk0hZIYHQQtr0i2aZfe7DFQh3kOBVnPGKVpVlT_kRrCPjp-KJHLu5fv77kVaMmwoYIVR3v9b-dG2XDDkZN-OsCEHowS0YiAcf95dFV4biilLXs1eQVS5MsKgSmWeKJ-Fr7o-gROzEqqqdmP",
+            "width": 4032
+          },
+          {
+            "height": 2592,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116768910757570553345\">Nick Nicholson</a>"
+            ],
+            "photo_reference": "AXCi2Q4rZAuVhnISgpxPDNfuv1C-cgif-6bnXeL-jG2yGwdsb2qzzQ2g7tM4tW0oIfgamuXOgFQw9Wbm9uSaVRAPaw5WNDm6whuxwAntiCxfdN2V2MGmxZ3pqkGE1v3MugqrBxr-CL9HyvHgtGiKXRn6BYxh-jhbZsMgmDogE6GvauhOcsNC",
+            "width": 1944
+          }
+        ],
+        "rating": 4.6,
+        "photo_url": "https://lh3.googleusercontent.com/places/ANXAkqFbNo8R8snXEAj25k7e4X7jvLsud3HMHG-d6rTFVy92XOWOfeD84f3ebPsLrtO4y__xYoRhmN7q2Vuh2Tumcg6Rbod4vgdlRq4=s1600-w400"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9987991,
+          39.7294731
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-10-02T19:28:56Z",
+        "google_maps_url": "http://maps.google.com/?cid=16145508101472834638",
+        "location": {
+          "loc_type": "Shop",
+          "address": "825 Santa Fe Dr, Denver, CO 80204, United States",
+          "country_code": "US",
+          "name": "Strawberry Mountain"
+        },
+        "editorial_summary": {
+          "language": "en",
+          "overview": "Curated vintage with a price tag to match, but worth checking out all the same!"
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 0,
+                "time": "1900"
+              },
+              "open": {
+                "day": 0,
+                "time": "1100"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1900"
+              },
+              "open": {
+                "day": 1,
+                "time": "1100"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1900"
+              },
+              "open": {
+                "day": 2,
+                "time": "1100"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1900"
+              },
+              "open": {
+                "day": 3,
+                "time": "1100"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1900"
+              },
+              "open": {
+                "day": 4,
+                "time": "1100"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1900"
+              },
+              "open": {
+                "day": 5,
+                "time": "1100"
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1900"
+              },
+              "open": {
+                "day": 6,
+                "time": "1100"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Monday: 11:00 AM – 7:00 PM",
+            "Tuesday: 11:00 AM – 7:00 PM",
+            "Wednesday: 11:00 AM – 7:00 PM",
+            "Thursday: 11:00 AM – 7:00 PM",
+            "Friday: 11:00 AM – 7:00 PM",
+            "Saturday: 11:00 AM – 7:00 PM",
+            "Sunday: 11:00 AM – 7:00 PM"
+          ]
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110253544182328206908\">Jeff Anders</a>"
+            ],
+            "photo_reference": "AXCi2Q4t069OpRVN28DY8f30f3tTDPsRnXEris8n7UbBiPUJSb5kIpfuPaingU9RR5bEcG2KnbqwL3WGT6GY2m3Ius1vu0RbxmYN5SKMeZHTv132t4Krez-RPW2nrs3P5rLqUjD8NA3oNRUGmEMfLxPu55M41CKUVD9BaLrnz-VBNJTFfOzX",
+            "width": 4032
+          },
+          {
+            "height": 1067,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117169636426563631936\">Strawberry Mountain</a>"
+            ],
+            "photo_reference": "AXCi2Q4KTzJDnmzD095XlCPY3tBScTw2OYTbtA1-igqbQQ6P8Uo9D8-ePbYFveWCNPrjauDWc0YboiWFVCS3UsFcSh0llZ0-2me_URGyjM1FwhHM5ct7sl1P47vM-OWXuT5QgSJzR5DZCGGPEoDoS433KjfHGMOZltQvW7uStQpvsbbjAeNt",
+            "width": 1600
+          },
+          {
+            "height": 1067,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117169636426563631936\">Strawberry Mountain</a>"
+            ],
+            "photo_reference": "AXCi2Q4QjbOb3xVfdI2GE5yqe1fPkRG7dtCw0VhzrkjNnRBbMBZxxCxIMJ8xRCqD6K9jz1E06sFDEgI1JlislvCeEAqGelN4Zl4aMBowwU6NyzUgY3YKFA8WE13lxnD5UeuMyOWv3Ffo9sUyYuX_3_sRSOPD3Q85-JAyIIANfA17clccyMkH",
+            "width": 1600
+          },
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110767615971351654818\">Luis Salado</a>"
+            ],
+            "photo_reference": "AXCi2Q60Sd8vx0kNQ5k_fvJxHlprp_Rf6sPoY1pYDw-KqE0cTnt0UOgIJFY896avGnBdNZsE8uA2TSs_pEPtwOMTNkzeDiAApkr-SmRWI8WmKp0_8ChTVwCS6aT_-q8cSP9107h5NMVODUDKGiAyIccVt8S2m0YLXgoOjL47rqZ8tb1jJwqs",
+            "width": 3024
+          },
+          {
+            "height": 1600,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117169636426563631936\">Strawberry Mountain</a>"
+            ],
+            "photo_reference": "AXCi2Q7tm9ue5I5Ybo1DD85JrWbHKLOjcbNOK_fgg1Tq1a8Z3MpUxFB9Z1XCtorej79ibgB_-DSZ_8xXh1OdKR6I3jm_bJjkefi3_ACbwN6JvAuZ9c9oJwGTk5MTq4diC5CbP-v-qiLrTOQVKFK4h_VWFZ_4ma_AvHD2A_w9c19iRTSm2W8d",
+            "width": 1067
+          },
+          {
+            "height": 1600,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117169636426563631936\">Strawberry Mountain</a>"
+            ],
+            "photo_reference": "AXCi2Q5jnySYlImRtZE5xtuNw8pXe55vv5f0bzu24Q_YTuzB_NiWwCp0mAGh56eraRsJd9w3aTjQuVLToA92IfD6MM2ITVl-SXUyQko8XgsqVBQlA6TgtDb4q4OPc_s5_d0RBE1z8qbDiwLrG3YR4FrWNq275DhO86dQPKHznyRRgNdmPAXE",
+            "width": 1067
+          },
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117508555466411979467\">A</a>"
+            ],
+            "photo_reference": "AXCi2Q4kAjMngrBYh9yOyFtzu0zHtbLW-rJ90CaU9Mk3OoUa6xTS1M9wK4YGpFB2B39iH5UJg7721B3oqOXvNq8v0bCOTNbD55-eGbMxKuWPhsXdk7qmDuXQPVreTD1pRPJv_TP3bf2uU_dF6RsDXH1LPs3itvXd9lmzvNKcL38qoMzeB9uC",
+            "width": 3024
+          },
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113229080088797844277\">Taylor Morgan</a>"
+            ],
+            "photo_reference": "AXCi2Q7vi6Lqe6ggoegp-r_IjfJL4xGAwHdhP0EBDiO4j1ayaENTQejsjBJYybnKl_-WTS7C3TIdZH3J-qEKFJePWgAtFBPjwSp2CqqzD5wxfj4FtBycXkj87zpaI7lB5J8HHtuKySW1bsRqf2o3zC3RP4QzvTDdnqadXRNNh-IqLhCLZff2",
+            "width": 3024
+          },
+          {
+            "height": 1600,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117169636426563631936\">Strawberry Mountain</a>"
+            ],
+            "photo_reference": "AXCi2Q4xurrEIvidD4hXKecB_TDHlDscRRgtSZU9l7UFuLgZj2eq_Pk6JYnW7cKmvHSfTygPAhc-ZwGSuDnWXwlDTWW7b5SV4WnMaL-SQQ-oWAm7QX0a9nbQXhVnqO0PE44Rpp3hpx-p48qO9anuVvBTEH-bwg5sjwgi-KRme3Qg4VBcnV1e",
+            "width": 1067
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117169636426563631936\">Strawberry Mountain</a>"
+            ],
+            "photo_reference": "AXCi2Q6IqI-B1D37HnzHSKRwYCTjB_IY4LgFUet8l6jXrekdX03Zydg1_L-DEnqCLZqQjj0fBFHAS9rg088g0mIlm1HI5rFoRax8s6sCBpDBV8NZpt1E9xJBjyEoheFLZOciquA33j3fTV8eq3Yd7H2cLSad4xSq1Z-iA8iGahuQoKZtT_IN",
+            "width": 4032
+          }
+        ],
+        "rating": 4.9,
+        "photo_url": "https://lh3.googleusercontent.com/places/ANXAkqGg0ICyFgOjtVBkIc_tfpqmZAasQHOX49GNgr2dNX4-xJF6QdsnkpiIe6uJfJRq8B9nIlQ3wkpG0gd2wx8g_58O5HGz5MM4Xog=s1600-w400"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9665234,
+          39.7434368
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-10-02T19:27:17Z",
+        "google_maps_url": "http://maps.google.com/?cid=10741298653711054524",
+        "location": {
+          "loc_type": "Coffeeshop",
+          "address": "1725 E 17th Ave, Denver, CO 80218, United States",
+          "country_code": "US",
+          "name": "The Weathervane Cafe"
+        },
+        "editorial_summary": {
+          "language": "en",
+          "overview": "Coffeehouse serving espresso drinks, breakfast & lunch fare, plus sweets, in a quaint, funky space."
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 0,
+                "time": "1500"
+              },
+              "open": {
+                "day": 0,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1500"
+              },
+              "open": {
+                "day": 1,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1500"
+              },
+              "open": {
+                "day": 2,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1500"
+              },
+              "open": {
+                "day": 3,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1500"
+              },
+              "open": {
+                "day": 4,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1500"
+              },
+              "open": {
+                "day": 5,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1500"
+              },
+              "open": {
+                "day": 6,
+                "time": "0800"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Monday: 8:00 AM – 3:00 PM",
+            "Tuesday: 8:00 AM – 3:00 PM",
+            "Wednesday: 8:00 AM – 3:00 PM",
+            "Thursday: 8:00 AM – 3:00 PM",
+            "Friday: 8:00 AM – 3:00 PM",
+            "Saturday: 8:00 AM – 3:00 PM",
+            "Sunday: 8:00 AM – 3:00 PM"
+          ]
+        },
+        "photos": [
+          {
+            "height": 1284,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114715582320928111738\">The Weathervane Cafe</a>"
+            ],
+            "photo_reference": "AXCi2Q7OqZ088ClHhNaRYVrZ7PVIfdEgZGc8n9iQxhfNOdfisBCcActvsjyP0GnpGxrM5_iSMR-EoNdFbYBJeX5aQ8BaRr2gSxg7vPRtA23D7IbxQWSvSKONkIgUcRihfFox-GMZrsd9iotSzVlQg_ODnjAo8HjrCNQTFVcbIocFzWB2JAbf",
+            "width": 960
+          },
+          {
+            "height": 1080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114715582320928111738\">The Weathervane Cafe</a>"
+            ],
+            "photo_reference": "AXCi2Q4WTd2Ny-huFW61MPlDL5FSuoX4hXsU7HaLkUouQxlZdUL8MYOo2bjr4JMd6i88flIb1EXWbGC0E8kjNIjE9a6BdxLbyXvQKsDtwwQtV9QbQFkErHaJpkuy14gRab9sco4yYM7Vge5sPXhncCZ6FJaiKoSIZHO4EH7WFFkQPQJwUF7N",
+            "width": 1080
+          },
+          {
+            "height": 529,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114715582320928111738\">The Weathervane Cafe</a>"
+            ],
+            "photo_reference": "AXCi2Q6JCD2WBs1DpgyufPbqQ0XilJBbCLFcysLPg_9swC5dD0-Wc-j5EaDTTZ52aNce725HBIo168HRtW1fW0I8pd_CnniyFTb_bhOo85oekfpYMFAws0iyxva7XWiSX_ipNEwGkWKDOYszv1Pz1yO2nwrdZOPjvbyIEBUmvzm0Qs4SoUmI",
+            "width": 959
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106910820375194793768\">Ada</a>"
+            ],
+            "photo_reference": "AXCi2Q5WtN16j_HmG-YPMo_s1kjIXo5rZaYQz_x9YZi71YyGr9mBRExb7mzvQkEVpFddCfQ_xppjl0DHBEM5XR3HL-lHqslwsYtf5tarZqVsenlSQahsE0FpTKF4U3y-QYmfUtGb_COjtgrwhw1icHUXtqKu3dbqF7Np75RCes0_X4xHZSHu",
+            "width": 4032
+          },
+          {
+            "height": 2160,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114670624853917565857\">Naomie Heliodoro</a>"
+            ],
+            "photo_reference": "AXCi2Q6pMungzc1_exuk9ykr7xy76fj48fSOFQT5x_-YEWCxmvir9ZFEZj2Ma23RqX2G9aiwCHaghVr2NWuNTTs6cd0hZQu0BcchcCWBaVS52owbYLhb15SokYWQc3xfCRWeoQQoPnP_W63iTS-_riIPB1i_zBETeHjz0uL23xgkpZeqk11p",
+            "width": 3482
+          },
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117661307988981736915\">Kaitlyn Bell</a>"
+            ],
+            "photo_reference": "AXCi2Q7Nj16xO-ZWMRCUFv52mFJ2M2TdQjhZdvJgQ-LZl0q2cPCfEU-Mwv4FrN8BTkMXetAbVfJEcPlrUUM_RgWwC4460T1OYvFx8p4lwj6ZldQiPI6Klq4IyM_3JWYKu58-wUz_wYeFSR15yYJwowr_2ykI069E138sjGpc9YKb8Pr6y95o",
+            "width": 3024
+          },
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104739516147049456630\">Alec Paquin</a>"
+            ],
+            "photo_reference": "AXCi2Q68RPDZgrhNCVL1PPXskv_u5FwFLptCBAg_9iuRnXHm0fOCcugsrmlpI2kqsaS2vwb81KNqdE7FR4uQxrtWmFRQFy7TdA9Kx3fLORGCMVXDO7k8U12LE2FZ6z1bnpVcEi6D-5ht2ikeP0t95ap65kOrkqPtF3fHntkUQOFpfBcnAvpB",
+            "width": 3024
+          },
+          {
+            "height": 1000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112523062300001664669\">Leslie White</a>"
+            ],
+            "photo_reference": "AXCi2Q68HSNFnFHQAg-RrIhPob_xwIOZds5S8-fiLt6xOLKTyyHd6C87n4F8P1BWPPSL06GXaRULZC7X6jDynK0uxNIHngu3IyZMzif_xDq2-MJAWpEf59qmuO2SoP04dlNtI9iOk6jjnYgvF9iDvYKvkeXZNpJO6YvVx9qqsYTQh02izYzV",
+            "width": 750
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105068204070835675433\">Tris</a>"
+            ],
+            "photo_reference": "AXCi2Q6eGmXvmhK2M-KMlCTC3ngB5DO3oOHpB2XFUT4coRqXqSmnITK7ycfpMbP84-JSS13KT37yVeidA1cJ0PcLAL220Ls6Kyk8K1US9IIGdZSnz4kgpm4OFsE9q5vtUX49VhQfhzyefLJ-M0bJwoGwP_tyt1Mu61hIYZZGxHWUIDjImQgP",
+            "width": 4032
+          },
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104182811122766552642\">alysha bellamy</a>"
+            ],
+            "photo_reference": "AXCi2Q4EZWCcZ0x00CQLf4QIkw6zWCcAwyf2E60mc9V_QTyRzvoSb52cHxsif-C5NMhVtCSQkPWU-yaWOSZ8pSAghE7CbTSqXyMe9v1ZzalHM6gX8uveqDVA_CrfNy3OtC7YWEpSAPviosQ6OwVzr0T3iltswV6DyyqpQCdNAQ3CGcu5kwUz",
+            "width": 3024
+          }
+        ],
+        "price_level": 1,
+        "rating": 4.8,
+        "photo_url": "https://lh3.googleusercontent.com/places/ANXAkqFg-VGlp76tqwSJjXGFyHIxOWS8jcvBChMS3C0jrPW_JcrbCITBgKnF6uKyOJwqSd4B0fefQ4b7cgOjJQlwIAeMMyETrE9xaQQ=s1600-w400"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9530083,
+          39.6761139
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-10-02T19:25:24Z",
+        "google_maps_url": "http://maps.google.com/?cid=3517724101781207908",
+        "location": {
+          "loc_type": "Activity",
+          "address": "2930 E Warren Ave, Denver, CO 80210, United States",
+          "country_code": "US",
+          "name": "Chamberlin Observatory"
+        },
+        "editorial_summary": {
+          "language": "en",
+          "overview": "This Romanesque red sandstone observatory built in the 1890s offers regular public events."
+        },
+        "opening_hours": {
+          "open_now": false,
+          "periods": [
+            {
+              "close": {
+                "day": 6,
+                "time": "2030"
+              },
+              "open": {
+                "day": 6,
+                "time": "1800"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 6:00 – 8:30 PM",
+            "Sunday: Closed"
+          ]
+        },
+        "photos": [
+          {
+            "height": 3456,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110397753046806512319\">Todd Liebenow</a>"
+            ],
+            "photo_reference": "AXCi2Q5sHcpkTWw3oBBySKKUkqybpaRew9wx47q-AJ6WqzDRgMBPSsi_b6cPReHSRr5HKv544pT0_xgnABHNPLioYD4iW1jtqALgYzPV5P_IIiSfh0MyUv93tpzOqIkQ01Ov7ovl3GFULnNqwepLUb_Mu5Gd6lKcl6-OkPu4IGfZLsHNf5T-",
+            "width": 5184
+          },
+          {
+            "height": 3072,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113420588539357020433\">Nick Ortiz</a>"
+            ],
+            "photo_reference": "AXCi2Q6pfu5wc8BXCsbQuuhzzKmPnrApcZ3RST6-oHPe064bKlzgczJ2n9_DQ1T9G-vSw0CBtk_Yb2acFp52pnwhaTw2UUbXpwTYoc0HgrDxtuPygBSwy6-1Kr4xUe4tobkUlhqpI7WmNdn-LbYe8vMlQJ3uRRSXV-89imfGbOUxMZW80bvK",
+            "width": 4080
+          },
+          {
+            "height": 4000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117031708768496454258\">Cher Liu</a>"
+            ],
+            "photo_reference": "AXCi2Q6JPfb44eWUmC4uPI1wNW9Lmj3ec2bEJ-sytOztR-yFhEI4wGzRNyt0AifwKRqUx1S-arkAiKzpZN25QivaUVi7vF1IQDrHcprRncn1kqW8dsqqg0wFYM35tH8BcfCDfL5NWeehvwUng6vYLFxwAESIvyL6SIDUBLclvWkUgbe5vr3e",
+            "width": 3000
+          },
+          {
+            "height": 2460,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106562954678941175404\">TJ Romero</a>"
+            ],
+            "photo_reference": "AXCi2Q4RkmAvoWmrCCmzmAbqAJUtn2L6gE6IZX8BF_NfEhmNpeJtZy8ygqndcJvBYp4_yXF8nkEmp-p4r7dxWj7XwCSZWD1FKVPcYJvpUwmf3raT48T-fpHc9pIGUKqAgfLfkkhUKtBAS2IImAzHF6t-yVBFna2NAitseHEmP_Bs6UXf86I6",
+            "width": 3500
+          },
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114838921935996850622\">Michael Brooks</a>"
+            ],
+            "photo_reference": "AXCi2Q60VRuuTTtew2SPiwLsovqB08OiTOFUqKEx_VAzhTtbnQcYON0QhtNPyZiTmoaLH4iV1GBbz5uLsRVOGeq0ZDf3ds-aH8g_ay-V8aV9SoRvrTmEm-qXQ1jjtaWtYcrXm_KDg5ZTpMNJ0yUOmilx7zn4VzdPSl0Rv03h4eGLtt-VxKRi",
+            "width": 3264
+          },
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111641959914533512757\">Karla Cardozo</a>"
+            ],
+            "photo_reference": "AXCi2Q4RJYjBJlPVg67ji6rhnPytVFSc0m3SI1Uh0y3BH355ibmyWWEcil2Guh1BHSjRqZRUNGVyauyq3IC4uz2cvQjSF1hk6P5iqT9f6agG8Z3vvDAOP8gWx48kSEWOic40trKy5QhHypayDd90GuyQaccb_aeT9xA5WqQ3fV8arT3UdRi5",
+            "width": 3024
+          },
+          {
+            "height": 4080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102367372511607807905\">Jacob White</a>"
+            ],
+            "photo_reference": "AXCi2Q7BIWKfAsi1dPon3ke4yx43b8uCUO0370GnedZ2Cnu6vsH8FNQ9cYd6FB9j8XQxAz5ibWyFkuNBpLG1QnrhaqiKqHud_YSwT2y6j47jf5SNGPdGfbxS2lETFG1isLuKKiH3by3Tt2w34E_zILKNUVoU-MtcBmUQEtjFgPx8lVVZY0fx",
+            "width": 3072
+          },
+          {
+            "height": 4160,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101664988169701803369\">Alex S</a>"
+            ],
+            "photo_reference": "AXCi2Q6JRG8p_lSg8KhuYrIrQw5aQ2h6uwThKurqrn_foGuQRhdwAARpcPWvuyIfjvZ_ONkbcM0YhIfk9qqXzbMyUfcadSEWi5DMK5-imnWOb6PYtUUcXjr4uFflUg6AlN4DMnE6aNDg9LS6_KZeXu4crEMlIyDOj5ylNLl7teHluijf1HgW",
+            "width": 3120
+          },
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111351066276878883063\">Thiago Silveira</a>"
+            ],
+            "photo_reference": "AXCi2Q5uf1kO2tg8YOOOuYLLSOSCFJJF0Xa1h_ExHo7aZ7EmUkP892bQnTIny1gTD8YY9jHlPrutJTisJFVqIazP7QcOrclErMi9qKicH1DwrI6UlggndKgOAMYBzBunZl81Tm4t263p5yL-xlaeBtpmYifAJRbUfLGJDM6Q-efqSPwFaw3T",
+            "width": 3024
+          },
+          {
+            "height": 3264,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108360038331886092445\">David Douthett</a>"
+            ],
+            "photo_reference": "AXCi2Q68m9TbS_tHx9DHtOQ6le4V8-eq022RiME29uY-5G_lOO6VNJWNMbwr90lBwWbzeutGwXuumL4swkwqVqzf4mmz9omOdiYd7HH_5OWY8tBwkF59SAUAw9P7Ek2_PHGM3uRcoc39Ml-rpfB6Z9GMZjCMKNM0VNsnolvsz07qDXo8FL21",
+            "width": 1836
+          }
+        ],
+        "rating": 4.8,
+        "photo_url": "https://lh3.googleusercontent.com/places/ANXAkqFyGg0AX5CQ_KYEut2BVppJ5oWGPZSNrmZeIWvUj4aFO151YwzMMc4ADMoRLzcz-El9l2-fvOVkb1x8aivqFT9u4SzWtwoHID8=s1600-w400"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9661101,
+          39.7683418
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-10-02T19:25:00Z",
+        "google_maps_url": "http://maps.google.com/?cid=10947780925058470557",
+        "location": {
+          "loc_type": "Bar",
+          "address": "3701 N Williams St, Denver, CO 80205, United States",
+          "country_code": "US",
+          "name": "Yacht Club"
+        },
+        "editorial_summary": {
+          "language": "en",
+          "overview": "Snacks are served dim sum-style at this sleek cocktail lounge for spirit-based drinks, beer & wine."
+        },
+        "opening_hours": {
+          "open_now": false,
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "0200"
+              },
+              "open": {
+                "day": 0,
+                "time": "1600"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "0200"
+              },
+              "open": {
+                "day": 1,
+                "time": "1600"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "0200"
+              },
+              "open": {
+                "day": 3,
+                "time": "1600"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "0200"
+              },
+              "open": {
+                "day": 4,
+                "time": "1600"
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "0200"
+              },
+              "open": {
+                "day": 5,
+                "time": "1600"
+              }
+            },
+            {
+              "close": {
+                "day": 0,
+                "time": "0200"
+              },
+              "open": {
+                "day": 6,
+                "time": "1600"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Monday: 4:00 PM – 2:00 AM",
+            "Tuesday: Closed",
+            "Wednesday: 4:00 PM – 2:00 AM",
+            "Thursday: 4:00 PM – 2:00 AM",
+            "Friday: 4:00 PM – 2:00 AM",
+            "Saturday: 4:00 PM – 2:00 AM",
+            "Sunday: 4:00 PM – 2:00 AM"
+          ]
+        },
+        "photos": [
+          {
+            "height": 3000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104372336283933877175\">Andrew Schneider</a>"
+            ],
+            "photo_reference": "AXCi2Q6erhyD1JKtBX4nyzIrRLzMjMGk2hGoeveMA_npu6NUtWqQeXmeP-inWIq_7HSU5HDet0K__OPUZV1Z26NlTqCltwRA5Kv4aAtyY1Qp8IeqjbbPMYURKX-fevYUQXbOarIYE7znQRNaZIghR3EFytsM3HeXEFIvsAIPtUGrlXhzcMhF",
+            "width": 4000
+          },
+          {
+            "height": 1605,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108497121240442860523\">Yacht Club</a>"
+            ],
+            "photo_reference": "AXCi2Q4x2RexW1FlwTTtec8cc1mAs5gav0NuJ832nDt9Lhl7lpfQrc_YUxgrJjatV98anMM7gEqzChZHSfTJVD_sWiBwiO2OIXRC1F3I7jcS6gzcnw0Xc1YRewc45Zt46OGk2BOraC4b9W2-UEkzUgmCwqvkRsWqxRK6rlRCjCy2pFxSzg4W",
+            "width": 1284
+          },
+          {
+            "height": 5712,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114363170432305474163\">Bryant Palmer</a>"
+            ],
+            "photo_reference": "AXCi2Q6NmglKeG115DEhv65LJTpFRF8R2xLcaPQR28Rcj3c9Pz_M8MymiK0VCUEwDIoJ9BxHqOuC6hMlocfnJS7heDTZJzvFLOaHItXi1fNb9YQAz5vRqhP4hpHiVN9jlV7_RX52mXQJJ-SVa19l--CWDyHQYdXEZIsxB1NCu5rVdDp9Q0yz",
+            "width": 4284
+          },
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107212779212070858487\">Eric Yeeger</a>"
+            ],
+            "photo_reference": "AXCi2Q5q9NzBhvMT2SUNf5pgkYxuzoQWCXhf6R_l2AzhApGvfk5vtRoG15b933bNqrOQHJxqGGxQiyaaMuApg9naVKjkkfzplgN47IM3G6n8GMwuNp82DoTooSmbzpanChI0bcje_yjb-6_wZztJ6Uf-U_aPhyF4mmK6RUgdV-VTxOxOnAaL",
+            "width": 3024
+          },
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116830020924036576692\">Eli Kalen Boulder Realtor</a>"
+            ],
+            "photo_reference": "AXCi2Q4fopgsOVSYnT4DTO3FHrXN3MywirzRVMcLcKoAKy2Hq8MNIDT6PMesJUnBPNXaf_f7D0FKFwz81CarsAOMH006gaUkbTCIc8YIRuJ5bULH3h6Xyv12UpmaRq2Pv8mLZ411n1jKXTyzPbM9y3s5ZBfssqNztD7mv1zvx07snqPcQ1Iy",
+            "width": 3024
+          },
+          {
+            "height": 4284,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107692004417798737010\">Blake Coleman</a>"
+            ],
+            "photo_reference": "AXCi2Q6VNib6tFUMbh5c-B4MHlkm7XVEmcdYDCFRTVVeQHDFkLzQZv3BSuAHCKVRczHJFEJwCzEMFj19N7KtnOjNnoi2emcti5RET34pxqPosYiAKG4bd4GgCkhWuAbXhmjw7Jh_U-TvCeYkUMJ7iMvw4UI-3OXsHI57tGV1ySuT97msWk2p",
+            "width": 5712
+          },
+          {
+            "height": 5712,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114363170432305474163\">Bryant Palmer</a>"
+            ],
+            "photo_reference": "AXCi2Q6_Q_f3WKv-KDxx81P2N9nmM6TVt9wMjN3bP6CyvVhf_nX6rC8ALDfgTHsELCdKNVmKCvjNNmCTJhHCqIAsAxvz8grUBWMa6CAYSMnuWY31Gv08yE2P_E2_Mm6fE9n2H0kGzabqieQSOgapITcq4bi7Qd_UEcxLJzS64mPVzyRK6ixZ",
+            "width": 4284
+          },
+          {
+            "height": 4284,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107692004417798737010\">Blake Coleman</a>"
+            ],
+            "photo_reference": "AXCi2Q60snNkUJIOYKzPsX-N9KVhBecQkoAL6aUq_ktsY5dRrE63txUI_KpPMKBIZ-8Q4WxxAYrjYcihX2oeIm1GSSP7FFIwEDpLc4ttWvXoILHMRCZaHZ5H4Pcs-yqHqhU_KZZLDPrhKtuH6Vdt-3G_M7n6FDSgMT8EY7RmtD_TF6APKPPl",
+            "width": 5712
+          },
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114363170432305474163\">Bryant Palmer</a>"
+            ],
+            "photo_reference": "AXCi2Q6WQ5jv7kwhh_RP_ZPeMgdZ_ZPf04CNo_jQAWwqHHeK8_u0FNPytdvPdjqUH6bNHFqbjBgPcLOSUz0l6MdqlxXu55OFuYHJWXasWYC0VasKKVfM_k1FnjMxEI7AGSE5S2hcfzfpFnYkCuf6tLXdS0jomFXM2CQjzqSx1-olmv5UG0LF",
+            "width": 3024
+          },
+          {
+            "height": 3000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104372336283933877175\">Andrew Schneider</a>"
+            ],
+            "photo_reference": "AXCi2Q6CIt2FtFoJpkI16EUvCGF3EVZyYOI51_VRdF7jYOY12VKvydjLJg7BDWlCMVz_HRL9sIZBW0WjUDQCTCwpGJUFsVn5nnco9JshyhuuzLfzbMIsGsHzejSKQNtXA8dVQerdD37rFNwfzEZ9r4aTIGJv6ggjNCRab5UafwQXHX24EWpy",
+            "width": 4000
+          }
+        ],
+        "price_level": 2,
+        "rating": 4.7,
+        "photo_url": "https://lh3.googleusercontent.com/places/ANXAkqGpR0jAyPWXmsJQVfzH7aV6ZQGAGq0ILO2O8e2F3eROovW0bSSD4f2eRKJmuaN_X2m5-4LnG_0TJgiobKIqbRjcet1HYB7YE4I=s1600-w400"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9602871,
+          39.7643722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-10-02T19:24:50Z",
+        "google_maps_url": "http://maps.google.com/?cid=15263740631061679820",
+        "location": {
+          "loc_type": "Restaurant",
+          "address": "2222 Bruce Randolph Ave, Denver, CO 80205, United States",
+          "country_code": "US",
+          "name": "Nola Voodoo Tavern"
+        },
+        "editorial_summary": {
+          "language": "en",
+          "overview": "Hip watering hole with exposed brick, New Orleans–style dishes like gumbo & a laid-back vibe."
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 0,
+                "time": "1500"
+              },
+              "open": {
+                "day": 0,
+                "time": "1100"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2100"
+              },
+              "open": {
+                "day": 3,
+                "time": "1100"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2100"
+              },
+              "open": {
+                "day": 4,
+                "time": "1100"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "2200"
+              },
+              "open": {
+                "day": 5,
+                "time": "1100"
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "2200"
+              },
+              "open": {
+                "day": 6,
+                "time": "1100"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: 11:00 AM – 9:00 PM",
+            "Thursday: 11:00 AM – 9:00 PM",
+            "Friday: 11:00 AM – 10:00 PM",
+            "Saturday: 11:00 AM – 10:00 PM",
+            "Sunday: 11:00 AM – 3:00 PM"
+          ]
+        },
+        "photos": [
+          {
+            "height": 4480,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102399998460176001209\">Nola Voodoo Tavern</a>"
+            ],
+            "photo_reference": "AXCi2Q7QrY7rWfZ1tQ0ZV8ICoKazZz_SXF_nW6yIb9NBbNx5rT6q6Pe2PhdTKfLm81m_fQrC2HaRaCg6El7scCHpSyWkuuUj8nLJA-TFh1W5EWwRMLgMw0Qkj6VPMi_6E3XjlcHBFcRM773D8ysDN6EN6rszwgK7cspwkwZh1S5Rr2R8frNH",
+            "width": 6720
+          },
+          {
+            "height": 800,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102399998460176001209\">Nola Voodoo Tavern</a>"
+            ],
+            "photo_reference": "AXCi2Q5cPZ-Yvdt2ecHAgisTTlF1JSYWR2EPN5RWiYRWSA2lFyF3uviERNe3pQDqxgYoPozkn9f6MgRwgKJd2AHv-JOHK4if-iA6aLZcnb6TfY4gqKv_seMhJ1Hy2pK0YRru0u_p8x0vhIUL_h0OR6dH-wYK9THiP3L7sp8dMeLtyNWTH4eo",
+            "width": 800
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107212779212070858487\">Eric Yeeger</a>"
+            ],
+            "photo_reference": "AXCi2Q6uUA4pIppP3q5APrVXiMyi5KCjP9vTjjkIa5XkUA0Xv0p6xjBRhVuHXrT65rYIY4s-wJZxsXlSzSgSg8EqzRA1OmrBJyR1OveP9wa2Siy4Rvy2X3zoXIud71kn6iPwFlLMDfH2oqhrWQGE444KwcRZfXa6hx-7ea9wUhrRePR9706a",
+            "width": 4032
+          },
+          {
+            "height": 2399,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104054593750472890084\">Elizabeth Parks</a>"
+            ],
+            "photo_reference": "AXCi2Q71aBkC-HqAIEis4mIun1sxmgSQfRm2XI0zdoeKurQ54NQR-MZrqwfU7qdoJrqe8q-eqlIP5ZhNnLspgm75D2HGhFybNDC4oxNPzqfeOSzesWkkrzGGx2WLS1zwKn-LrzapY3GTrnUVPZC2crG25sORmVbW_O8MK_cCzJpeWgOxBute",
+            "width": 4032
+          },
+          {
+            "height": 3393,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103172742424630039799\">BY ALL MEANS</a>"
+            ],
+            "photo_reference": "AXCi2Q4PUwRfpdNOLgLyL4_ZeqnCDXN4YpQbLUm20UB9ws2GN6hy5YODsZE5SSW0CUOsttMxQG2L721KeogzF1PwTDYGtGDg9Bde0gkDAJcjmIZu6Lus3Io6pCC19gCdE74HbJf9vszepOlq0s2uAEZIJ0FdjsDNq4oUFFPSlJudZmdK7tVj",
+            "width": 2568
+          },
+          {
+            "height": 4480,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102399998460176001209\">Nola Voodoo Tavern</a>"
+            ],
+            "photo_reference": "AXCi2Q4iP-vuTP6R0JQ7wJBGKY03oKQdeCGtesFn2DIgKut0BStt6MIy9VhZiZSS_z3tI15xRxv24stLo2yyk1RLhYauyp7vuSICt0V86cqdor_axO5I8LVLDpEsMdoHczPuHRKWcoMQgusp202BIYTLdIFV2CqTT5o0vfEN_eNH1j4f0zjR",
+            "width": 6720
+          },
+          {
+            "height": 800,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102399998460176001209\">Nola Voodoo Tavern</a>"
+            ],
+            "photo_reference": "AXCi2Q4o7gK-9UXoweaZykrTrv3h2KrH392j111uiLYvLqJzJK1Kd9108qkTKbd6fJMP18BzvypqE47_0-ksFE5lzvjWEOw717iFwMQMpful6_LTkiEWe-Pf4Bk08VEaa-woYZSRkYlCsEvuRJ5YhpYzINTbL72iBNJOXR_DaCxgec8707nT",
+            "width": 800
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106989275366632502572\">Dr. Zapata</a>"
+            ],
+            "photo_reference": "AXCi2Q44S4NiO5BT7rqgPBdS-BzToXAw9aGYVWVVHKsU2O4gx4NzzVHqRocA_foRtfMVAl_50k4nsYITcwCuBJTiWQu8MEY2Drw6SBhsaJ4_MsPzDJh_UvjYFqT3_z7yWLMh6QCK6qUdZK_eM6KjJhKOoqlbiElWIbir5pgyJW-PzVar3z-v",
+            "width": 4032
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107212779212070858487\">Eric Yeeger</a>"
+            ],
+            "photo_reference": "AXCi2Q6agDutJ0VIehH0VEpzCNkbDS60H9VmwIL3cr0omfB-0rOYyxofVQMGu_w9Q0K-L7NBPU2BrjQvre-Gmh8p6xrv1ekU0aWeoLaQB-Yx7qlUFjylJJPHk5iQnUWSVNeBAruoLmhJCSKN3JX7-yBvzUNmIRRir_lIjdneWrCn9B8Y2O07",
+            "width": 4032
+          },
+          {
+            "height": 800,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102399998460176001209\">Nola Voodoo Tavern</a>"
+            ],
+            "photo_reference": "AXCi2Q5he0uHujCFlWcvo0Q1LXcgBBKuMc5RTO0C2DdVYTdxF_vDbd0l7UdNRB8OLf5Bt51B9_1K8dDcWU9SSFqzW9qb1c-5Q3YC6-QWj01a8A16OoFO_mf9Vgro6aEqYdm4UU2_4EzDyxuBogKopT8eQdXdwSfED954czkbjU9tjGkI4hnj",
+            "width": 800
+          }
+        ],
+        "price_level": 2,
+        "rating": 4.5,
+        "photo_url": "https://lh3.googleusercontent.com/places/ANXAkqH-mq8SAnEjgkIihfml4HMHyBbq1J0VN2j_V2tdg0RZpv6pf3COkdBtVDtqKwPS529YkhOO7tmQqfkuFts2wpn3EiW1V4aYEuQ=s1600-w400"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9885167,
+          39.7538083
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-10-02T19:22:11Z",
+        "google_maps_url": "http://maps.google.com/?cid=16728202394686972799",
+        "location": {
+          "loc_type": "Brewery",
+          "address": "2201 Arapahoe St, Denver, CO 80205, United States",
+          "country_code": "US",
+          "name": "Great Divide Brewing Co"
+        },
+        "editorial_summary": {
+          "language": "en",
+          "overview": "Intimate, lively joint offering tastes of their own brews, growlers to go & food truck options."
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 0,
+                "time": "2000"
+              },
+              "open": {
+                "day": 0,
+                "time": "1200"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "2000"
+              },
+              "open": {
+                "day": 1,
+                "time": "1200"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000"
+              },
+              "open": {
+                "day": 2,
+                "time": "1200"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2200"
+              },
+              "open": {
+                "day": 3,
+                "time": "1200"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2200"
+              },
+              "open": {
+                "day": 4,
+                "time": "1200"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "2200"
+              },
+              "open": {
+                "day": 5,
+                "time": "1200"
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "2200"
+              },
+              "open": {
+                "day": 6,
+                "time": "1200"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Monday: 12:00 – 8:00 PM",
+            "Tuesday: 12:00 – 8:00 PM",
+            "Wednesday: 12:00 – 10:00 PM",
+            "Thursday: 12:00 – 10:00 PM",
+            "Friday: 12:00 – 10:00 PM",
+            "Saturday: 12:00 – 10:00 PM",
+            "Sunday: 12:00 – 8:00 PM"
+          ]
+        },
+        "photos": [
+          {
+            "height": 4624,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111837859093533350358\">Andrew Jreige</a>"
+            ],
+            "photo_reference": "AXCi2Q4vND-HJ9pTTeOxajmf-tIVOlZiJXpBb6LrM1MPwAyTFkfv4VDjHjr6dDMKFZ87hp01NO-0XlRCWIsoUTRLzS1l_f1RFIqKCifwo-RkI2Mn6rJPBVA64aukgo6hkhSqFrP0BulYlrtSwzE0gHhO7NyEJi29A78ulFNeGAkQzaKygiVp",
+            "width": 3472
+          },
+          {
+            "height": 4284,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115148873658218927495\">Katie A.</a>"
+            ],
+            "photo_reference": "AXCi2Q4YgU7S-mdwqrJsc01aKgFTj45p1kv5T6oyJM4IWDLgUnnSxtVLJ5HmpUcBf8Xw3M24LreHbrCKDq69bnlC2COjvQt8HxiO-Lg3rBFYXpBiuXnpVQI2iK04VNTeqjdpVeXLFmRWajqV4V1_5lGhOHp2UxoVUOcH1siCCcShIC3kszmL",
+            "width": 5712
+          },
+          {
+            "height": 1365,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105515123977540470854\">Great Divide Brewing Co</a>"
+            ],
+            "photo_reference": "AXCi2Q4_fIQ_yg59Ah4TdI2CJPxNzHCz5qB5l8quONsDkjl3xGOvOPYonkLmt5BP4wK09L3IP2ZOM_sIugeWZalozVQReFxiUhEtkYek4SApvzYwWsUwYXGbgbT1N7QRnW7R1jSwlhS-Q3b3FzE1o_9FusRtvVP35V5SYChDdAHKMFjeQ6gN",
+            "width": 2048
+          },
+          {
+            "height": 3626,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102026212193806524135\">Ross Newman</a>"
+            ],
+            "photo_reference": "AXCi2Q75Bvp_N0rUW_SolsiK8n8oEQ9bMc7ah40EqDCsXpeOlSJifRT1sif5USprYoldu3dOXEWszyhkJ3fTbN4MreXUQhuhidxJZxqRhH6b_AlIlEg4VQlVXNssvF8FcTuIG5DMbsdXAS4UYEc2h8adQ0usOnwLOAftSsD38VFl2eGyl-lK",
+            "width": 2916
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111081346327329258469\">D Sh</a>"
+            ],
+            "photo_reference": "AXCi2Q6ZHGWMvixe5Kj7bO2Eid1R__ZxR9FjsP7idXiGWCRcUXIAitsZ7LXjlff5No-deLE9mVVqWtvqa8-uwL_az3dPQCdl0Z46EPFDmOVuAeTo9G2YvFiTtaMTM8MYhDXPmv7heL3orP1zbWmuYUTd69WaA6y9y77KfkpqeG44bO9OtjCe",
+            "width": 4032
+          },
+          {
+            "height": 3000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111471613074046010445\">Jessica Jacobs</a>"
+            ],
+            "photo_reference": "AXCi2Q4n86aYu0R-KQmzdmm-ghFTy9KJGnk3G_zrTI8hp3mXmvM5iP4qqwcW3Wl12K-dZo37bWIMVrPKKINYbmkV1RIfdC9YEElP5SfzOWJphZTn9HI68TZI_6GYldD9bdoSf2uigY2em4fxfhcYd8E-w8_9RDN6no0_XY51Qf5yZwgEZNGc",
+            "width": 4000
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107990697804454233968\">Seán Murphy</a>"
+            ],
+            "photo_reference": "AXCi2Q6TatoECXQGDFakO49l97mrMQWyj1gne8Yl5ubEva8hXGYZsewf0t2JDRwsmKMYKuVlnu3724FrXmXcPOMzhMOHi6Pglwi2HfRHmK1VEakH8xe6-QoNdKR-uuHr93d1fsgP-h8c70e4Y7GS9f3Qtr1AvWRtjtiWoh0UkMfwKf8uDgw6",
+            "width": 4032
+          },
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107540042965876872203\">Chay Leonard</a>"
+            ],
+            "photo_reference": "AXCi2Q7oiF4-mvLLKYLsCBKCq6gypzcNOipzUVu8ZTV8IkKew4_QdaeU3TB4uECYBkiwlv6YDrifeY7MKb6j_Vpgxz79aYosPtbSPN1P9QFzbOrsmECvdH7qDmwt5niZz8vXm8lhadQztBs0VryuL5MGWakKA1iE5mNJGnAlFOT2Zw9H5xl4",
+            "width": 3024
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115722371545041671990\">Travis Snyder</a>"
+            ],
+            "photo_reference": "AXCi2Q4pny7S8dD-ikVdChk2wKCqlgeVFIfvgmciNWXWBg1sA4jXuKSWBMa6v6waysVmYOviA50s0oLyi4SOwspXDgIBVOWgbXTqlllhZ-uR2SXmtElTGLy7C6dIxdXkys7tgCevUFJCy9JEHcXzhGfUa1Bw_-7bbVSKbYwltgVJObSrf9yh",
+            "width": 4032
+          },
+          {
+            "height": 1365,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105515123977540470854\">Great Divide Brewing Co</a>"
+            ],
+            "photo_reference": "AXCi2Q4KQTVB1hawD9FuytuIaD6vb4iuxkel4CWMxqaApWUkZhLLEdI-b_hYi6AY8OaQhqMOJ3g_g7pt-HEwldrUAAw2-vaWF6vebo-ycYf1hwFp6QdDkUPOveTVla3_br-DLPK6GjKDQ403OsBwRKsDw0fnLO0DczTVooqTVkQFx7Ej5Uba",
+            "width": 2048
+          }
+        ],
+        "price_level": 2,
+        "rating": 4.6,
+        "photo_url": "https://lh3.googleusercontent.com/places/ANXAkqGh5H04TYx7Xp-HFKOd5LfghFvW3ADo7wXWi4tKxT0uJXK7fJn03S0dN9Ynum0gmdbAxolb32DovaMzx0rJxH8uJlJ1UWMAAVE=s1600-w400"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9984666,
+          39.723941
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-10-02T19:20:53Z",
+        "google_maps_url": "http://maps.google.com/?cid=5992583103707764478",
+        "location": {
+          "loc_type": "Brewery",
+          "address": "490 Santa Fe Dr, Denver, CO 80204, United States",
+          "country_code": "US",
+          "name": "Black Sky Brewery"
+        },
+        "editorial_summary": {
+          "language": "en",
+          "overview": "Craft brewery offering a range of offbeat house beers, plus a pub food menu & live music."
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 0,
+                "time": "2100"
+              },
+              "open": {
+                "day": 0,
+                "time": "1200"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "2200"
+              },
+              "open": {
+                "day": 1,
+                "time": "1100"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2200"
+              },
+              "open": {
+                "day": 2,
+                "time": "1100"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2200"
+              },
+              "open": {
+                "day": 3,
+                "time": "1100"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2200"
+              },
+              "open": {
+                "day": 4,
+                "time": "1100"
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "0200"
+              },
+              "open": {
+                "day": 5,
+                "time": "1100"
+              }
+            },
+            {
+              "close": {
+                "day": 0,
+                "time": "0200"
+              },
+              "open": {
+                "day": 6,
+                "time": "1100"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Monday: 11:00 AM – 10:00 PM",
+            "Tuesday: 11:00 AM – 10:00 PM",
+            "Wednesday: 11:00 AM – 10:00 PM",
+            "Thursday: 11:00 AM – 10:00 PM",
+            "Friday: 11:00 AM – 2:00 AM",
+            "Saturday: 11:00 AM – 2:00 AM",
+            "Sunday: 12:00 – 9:00 PM"
+          ]
+        },
+        "photos": [
+          {
+            "height": 720,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102975084244215413246\">Black Sky Brewery</a>"
+            ],
+            "photo_reference": "AXCi2Q6mx8SWumzbZ48Srob7_PYYZuPIDKMMAUBHLs3HmrCywXjLIn6r8Br_nYxB-pGRIzikB-NjpygCnEvXRMFSTjTHKWe_tWGLvUeOvepjYhe6k-hWItk5lkAPNIQMuf7YWT6TJxFJMfyU73di5lq-x22KnshPJy1QjuluMwU-wjAajG-G",
+            "width": 960
+          },
+          {
+            "height": 720,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102975084244215413246\">Black Sky Brewery</a>"
+            ],
+            "photo_reference": "AXCi2Q6XqyNt0CFuKmW6uQiuFQHvQUxuhfV1WZV2mvbEMngK1Y1jR38SZmxc1JP0X9EBlHbLpXrItl7iug6tCY7k-8cmcQOTXwMKyspP0jHEj-Oy6mSpTo-MmcRoNojgVg-Dt3jr0ZmmXPZK7x1LsZdiJkiIGqrSvjuK057vS98JSfzMdUug",
+            "width": 960
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103434363908044049355\">SouTex Traveler</a>"
+            ],
+            "photo_reference": "AXCi2Q4tOKtME-ND8NOncFidHFwLAaDOS4VTwRrjZC5FBhXZl8AfOjXnORvY5AvsGVQlvyS6DCymUdl0pHuZLp0STPMgE7a6dN7z5rVYivpcJ_B6sG8W-qwYJwyInTVAmTm8tLk5bhaEgOcJT1u9JFFduCX2BoaWZrtA-iz8ClMC3kHVjV4n",
+            "width": 4032
+          },
+          {
+            "height": 6144,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/118092867088694301275\">Jeremy</a>"
+            ],
+            "photo_reference": "AXCi2Q7ghKlcqHNnmRrIu5CSqjhCVqRav8sEds1gwgsEjaMBoIWKR65YNsoEVpM6I18R3qQpYa-0opFq9Wd-wQtnxbA_5Of8PA4v8NUlZb47-49-MN7yCgAAwVsfT1E2hkWsS2ewJVMGkcZKoNTqerdTO2jBfEwId9RD-xZhomXzfE_z-45G",
+            "width": 8160
+          },
+          {
+            "height": 4000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110996032558762395108\">William Eric</a>"
+            ],
+            "photo_reference": "AXCi2Q6RGWNYXpsMxvi7fklxvQjWFK7WVNQKqYO02gLaAYdxWIYHsn-j8UsOVgPH6OLD3UAkOHHif-nnZHdUibW8opSOtQES4F9zt9AlXSY9avXcZ8nCWHVjY2xPqfIhHd2TPXCfcwKOVKWYYp-xnLJBZ5dKGTC8ou5iiJq7k9MCW9CDQNae",
+            "width": 3000
+          },
+          {
+            "height": 3072,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106562740150082418193\">Lynsey Bedrosian</a>"
+            ],
+            "photo_reference": "AXCi2Q6uuH86nUYcfL91AbazW69rZDZQb44Fm8kt1KjpZiz3rKWmF_3e1iDBPJtTsFEm4iDZBLEC7_Y0B87nqX0CleEHLxjb7_DVrWL7Zj74bWZsPoNWMszxnb5jJIoIkuADdW56xQ0jP8tfU-PdlPeaBlEekqIukAAntCGRPav7DCCt8etr",
+            "width": 4080
+          },
+          {
+            "height": 5712,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103426712401420609259\">Peter Horton</a>"
+            ],
+            "photo_reference": "AXCi2Q4AqC3CNJZiDURi0Zae6er7dsXrY-vw4sbphQx-b23JDqghEe8auzcS9MdGT0uax5etxfaK7XZvhVFTly-hm2kvrbQgw6eFOJ4Gi98EdpNJQaS1n7fJl12t4_VFm5EozeIOwelrU3954eJKEP7mqSE45jjrw3Y-3kxEIP5uyHWNmRHo",
+            "width": 4284
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109898123673789198136\">Lisa Koza</a>"
+            ],
+            "photo_reference": "AXCi2Q477GEgXHcu9b3-_cMQyggKcTfPeNzntlMdQmFkmcVqrkEEL8WhZ84KpiufHnJvBhMonWInJ4EzS7tps_vUaJ4WozW58zbIDwMlYDYS9hcrGpwwQpPWx2yt64p_o_R37MqZ0n7Z2mEggmJxDkAyZ2qfSYhX8lLmXV1T4NqfL_1LcGJI",
+            "width": 4032
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110253544182328206908\">Jeff Anders</a>"
+            ],
+            "photo_reference": "AXCi2Q5v0ReQ_4vuYxMYwLqxAIb-kJHNsFf4twxgFT6PqMBfMFblWnbsBq8u1vfNf_I18Z0GmlcJsvIFzql0iTw_bIb7av5ZU_NONihRS84teusg4D6MFrlfw_WdhAC4UmbUxrL7xDAINTbfg_H2fw144h0GS-Kg051qEz_Lrq-iPLPDNUcq",
+            "width": 4032
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102748461440621025498\">carl eckel</a>"
+            ],
+            "photo_reference": "AXCi2Q58zfAwHk_hNSeuTardqC5kveD7Ue94RwKbgVUderMRZLdZOTABbTE1UtbH8UaSZyWr8kZE-Em90_TaJ4BolMUkWvvrRVNp8PZBABh4Em_OoY7Y996ytU6mxR1UaRuT2zLjtzJ9Oeb0RMvLcbwLwPGlZYPEVA1JWttNPr_p9s_MG9Y",
+            "width": 3024
+          }
+        ],
+        "price_level": 2,
+        "rating": 4.6,
+        "photo_url": "https://lh3.googleusercontent.com/places/ANXAkqG8qTB9LDXNM-Jatxb4zLG0ev9pTLSO3O_-gcJQ4pTMmWhALP7SoG8qq28zzDeXQuRt3sWb3-A-3TdYCIbkZ4_iM7AQ7N-uxVg=s1600-w400"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9871437,
+          39.6933943
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-10-02T19:20:24Z",
+        "google_maps_url": "http://maps.google.com/?cid=16183674414231428910",
+        "location": {
+          "loc_type": "Brewery",
+          "address": "1290 S Broadway, Denver, CO 80210, United States",
+          "country_code": "US",
+          "name": "Monolith Brewing"
+        },
+        "editorial_summary": {
+          "language": "en",
+          "overview": "Great vibe, great natural light, great beer. Have live music there sometimes too!"
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 0,
+                "time": "2100"
+              },
+              "open": {
+                "day": 0,
+                "time": "1200"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "2100"
+              },
+              "open": {
+                "day": 1,
+                "time": "1200"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2200"
+              },
+              "open": {
+                "day": 2,
+                "time": "1200"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2200"
+              },
+              "open": {
+                "day": 3,
+                "time": "1200"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2200"
+              },
+              "open": {
+                "day": 4,
+                "time": "1200"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "2200"
+              },
+              "open": {
+                "day": 5,
+                "time": "1200"
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "2200"
+              },
+              "open": {
+                "day": 6,
+                "time": "1200"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Monday: 12:00 – 9:00 PM",
+            "Tuesday: 12:00 – 10:00 PM",
+            "Wednesday: 12:00 – 10:00 PM",
+            "Thursday: 12:00 – 10:00 PM",
+            "Friday: 12:00 – 10:00 PM",
+            "Saturday: 12:00 – 10:00 PM",
+            "Sunday: 12:00 – 9:00 PM"
+          ]
+        },
+        "photos": [
+          {
+            "height": 1556,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105655510797285920954\">Monolith Brewing</a>"
+            ],
+            "photo_reference": "AXCi2Q7sjnu74d7pGnClvVGoIVfzDkYnPbZYq9cl7nHnP0TN0j1x6LuZovml4ja368YfdzPGwcZ2whsnUnD4udKj3_cHMQF9w33XOJxjnyDcamG1fRSy2-o5HOsw7vjyioFJ2TCLeFS93myFQtCwtrXGoejMHxRUhDltBynHUxdY9Ns5ksxE",
+            "width": 1171
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105655510797285920954\">Monolith Brewing</a>"
+            ],
+            "photo_reference": "AXCi2Q6FLIEdTIlDy9Ahns7YHylHo--2mnq9cdiKdIkSRWofXyF_-mH3FEc-xwFspu7YzowC70nEiY-0xhjSHSJrd4OM1dujdtvYfkm9hZT1Uia5Zlnh3K1NkJB8RaiHtDqcOTrqO3rXcrOvHmp2ZDe9XUnpZVgmOFUMh5deLlpeJJEF8mBu",
+            "width": 4032
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105655510797285920954\">Monolith Brewing</a>"
+            ],
+            "photo_reference": "AXCi2Q6xTVkJNlv_WnLu6_eFIkBwujo8AGO5hVMOYp8KcW44KbmVYE8Pc3H-SzeCWVI4dTfpKH47OatEiKrv85nNEsKWRc5OrnPaC9y7aTzi1zdIrNqJC9IR4FmHpqpW3Kc2A8CvPtfV5sgKDn4kWgTueKosBhdTsWe0EAwzOC9tGPLWCCKG",
+            "width": 4032
+          },
+          {
+            "height": 640,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116413059648105319709\">Ryan Monahan</a>"
+            ],
+            "photo_reference": "AXCi2Q7UfB_sVZ4o8WrMMr5Qdb71EaH6ysQqdQONrxzO0nfoCiczkPrXV2A2WHdJXl86MW0B2R0g6Jyk3u55ppeu3t1cr7TSYKTnMzbOipLdFqwjy2SmrF52o84VW6LSI6jXpDjHwbsfwtzeM-NEqGpbCabqqemUgJgvzwOHRuwbGQle_-yT",
+            "width": 480
+          },
+          {
+            "height": 2252,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116962700586185313039\">Julie Grey</a>"
+            ],
+            "photo_reference": "AXCi2Q4sHjmHF-DnYm-auoAla2eeiz3rB_RmXHASTZ_AdukIBb18haUChCMaCUgHLEemGRpIjSfqWGSV-0hNugVqAysmYkot3ol5_X0iUHLVfpbizjuxpZPQrJk06LuTYcUF8oH5KtUOxXBQKmW59nyXsFAVDzWo7Y6Gswy2p6HTBeZlchk6",
+            "width": 4000
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105655510797285920954\">Monolith Brewing</a>"
+            ],
+            "photo_reference": "AXCi2Q6jNfWetuoOMNYjC3_9HOLA98qSVFcFSAifhaNSie2fOotmEVli4FiW3hEL5Zx5UI1JXo2Y7tew92jTaVaE_8afOAGDYnXEQYGeYQ7XeD4HS0ouPgcZ9GrUv2nlAsL6VXumocmPXE6ja0AQj4hvukeWH3HXBC23JCNIYo_CoH33e36x",
+            "width": 4032
+          },
+          {
+            "height": 1200,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114159692492078546335\">Karl Stephen</a>"
+            ],
+            "photo_reference": "AXCi2Q7PXfTZnrMUrOEuEhvyR4fN6GnSatVQn6nKEurRavXZ34_NwGtW10el5MpUu9XdBKEG8NJBabo1dw5CCmCGeHDgb2D0ZaAtxqOJnCLP_w6rT_IdxqiiTUUqHOGELCglF4NpCS3HxcK5c8dsjTqcB553kWU1RWb2xaBF5Y_Y-Wa8DlGL",
+            "width": 1600
+          },
+          {
+            "height": 2252,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104113905832949014423\">Lee Hopkins</a>"
+            ],
+            "photo_reference": "AXCi2Q7pPUhpMcfwr8wrUjQEYaYUKUo9THI6f5E9lWTn8O2PEwO3XeJyUdGZ4WyMI76l5hX0oSheNl38xYvFxYgSF7wlUfU-yPJNYKkii4REfFbxf5kS1Pfl9WXA-Q-0ZvA3pMZOf815tRI36NlSR8A9bH7lxEaUo5RwuqSxL-gDP6nj4_B6",
+            "width": 4000
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105655510797285920954\">Monolith Brewing</a>"
+            ],
+            "photo_reference": "AXCi2Q6EcEzBDPUl-8kr4naTCu8RSWF56pBzki2_Y5QHzyo2fIoJ55LUuEe0pF3U_1CfsDKpPFEhm5Apo4uewsbq8BVJH6ibC7ysSrFO8wzRzfli2lihmYfs5QyGODOPQLsGScSRY3ZRHEQtnfWFCRPt5ceSjx9EsldQgJW6mqytnCeaE0TN",
+            "width": 4032
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105655510797285920954\">Monolith Brewing</a>"
+            ],
+            "photo_reference": "AXCi2Q53PXe1XALrBGbWZ9sgYqX9sLUYoSl37qhSDWuKsVjTWm5IPOfVrAv25vbNVnUFK2e8MUHc0m8PrAyQ6dIdB6er68AZ7NGuyo-BRKaFWkI1gePD_KYNJCjRgwmVL3qt6S6_Q1V5-bDDTO8ZHntF4ErnCI-dc62ny-QVpAwOhOpZA_yf",
+            "width": 4032
+          }
+        ],
+        "rating": 4.8,
+        "photo_url": "https://lh3.googleusercontent.com/places/ANXAkqGZvAorfOiSSJdJbRyCDZJu7bXYoWMKQxBKz7Ir7Lwym_qn3kI7f8U67O8IypYJvUzqRqXXR-tQZcvX0eQ4LLBfH7CL0zXIPRc=s1600-w400"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9728906,
+          39.7698031
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-10-02T19:19:52Z",
+        "google_maps_url": "http://maps.google.com/?cid=10588296308032417232",
+        "location": {
+          "loc_type": "Brewery",
+          "address": "3719 Walnut St, Denver, CO 80205, United States",
+          "country_code": "US",
+          "name": "Black Shirt Brewing Co and Craft Pizza Kitchen"
+        },
+        "editorial_summary": {
+          "language": "en",
+          "overview": "Taproom pouring an array of ales in homey surrounds with a spacious beer garden & live music."
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 0,
+                "time": "2200"
+              },
+              "open": {
+                "day": 0,
+                "time": "1100"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "2200"
+              },
+              "open": {
+                "day": 1,
+                "time": "1100"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2200"
+              },
+              "open": {
+                "day": 2,
+                "time": "1100"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2200"
+              },
+              "open": {
+                "day": 3,
+                "time": "1100"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2200"
+              },
+              "open": {
+                "day": 4,
+                "time": "1100"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "2200"
+              },
+              "open": {
+                "day": 5,
+                "time": "1100"
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "2200"
+              },
+              "open": {
+                "day": 6,
+                "time": "1100"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Monday: 11:00 AM – 10:00 PM",
+            "Tuesday: 11:00 AM – 10:00 PM",
+            "Wednesday: 11:00 AM – 10:00 PM",
+            "Thursday: 11:00 AM – 10:00 PM",
+            "Friday: 11:00 AM – 10:00 PM",
+            "Saturday: 11:00 AM – 10:00 PM",
+            "Sunday: 11:00 AM – 10:00 PM"
+          ]
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105613383305760651422\">Black Shirt Brewing Co and Craft Pizza Kitchen</a>"
+            ],
+            "photo_reference": "AXCi2Q5V7jtCmrFGZGvXK9wVUihsf5VMke_SuM4nGTfh4BLQM60tDkIOXnhWen6G7AubL0qw7odY-_BFfzMeErhf_qs6YWeL430-QY9__fuv8IEpyjpCngznyVhCneRWphY8OrRUSmc0rEsBPZyrbGkxdKUNQXp2XWGmlVFlAqKNO88VOP8T",
+            "width": 4032
+          },
+          {
+            "height": 3472,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114689891429744398705\">Michael Enright</a>"
+            ],
+            "photo_reference": "AXCi2Q5Eirh93JEIBeUevLB8cj7EfQ7E_17lI3EPdgNZrxu0p_ruoMJYYomJdtSnapZQKgVBwXP7PJWjdnNeftAnG-aKxZU4jdJj_8f9kMTzeMqUwkSPDi8YBHBl1dEYjuMc9GY4KRTdmClcz8FLDUSPyILUZGg6asOQHTFl4F3dTBr3llA",
+            "width": 4624
+          },
+          {
+            "height": 800,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105613383305760651422\">Black Shirt Brewing Co and Craft Pizza Kitchen</a>"
+            ],
+            "photo_reference": "AXCi2Q73IiKrQH3WDxcEgtzwk2k14XHTtT4y5SpvVb79UYbdu5-b-edG3D2YybPoVGJITBqKvNnFI6A_upWiVIvxCGPHyThe-TL2qN-TtcQgeGGyuliwfvbhNLXL0rVah8S2WcprX8mJCK5GYKwzVtkqWiEvgBHH24jSoIT-RNzDldp1I61t",
+            "width": 800
+          },
+          {
+            "height": 3000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/118426734820822485758\">Kelly Bullington</a>"
+            ],
+            "photo_reference": "AXCi2Q5Hwp4Rdf3Q0mC1dEVsvevKsWUntC_FEsgdKxBJV-fZ04e58io4i8CABpCZ9mVS2JaFiFgvUkZApFu8P7qEGFMkhh5fR4nGZ2YQo7AJlkgy-8vuWR7FEdA5sAmwJQbPxxeIPsZnIT4me8v-yBM38K2Te-5jjGH-c7uYldOCyVbLo762",
+            "width": 3000
+          },
+          {
+            "height": 3472,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114689891429744398705\">Michael Enright</a>"
+            ],
+            "photo_reference": "AXCi2Q7LIzu_5AK4qhx0NGoD-vu3D7oLJ-T1UNIbQQQALO1jPmTdlLV87wHe4OCXPRYQ9ScOjAXC05gAw04ZN3U5rLCEsDyPTxQpolob2OVsHOHBuiY9cnojpjkOqLjzDD1xZO9BIVLR16I4XCJfUp0TNZmA5zaYIONBDpxyMJfv_ck_gwE",
+            "width": 4624
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113489901000608375809\">Alex Moffitt</a>"
+            ],
+            "photo_reference": "AXCi2Q7rOrcG2srYQTn_ooSuK-4gSzCou5coBK5nwfFE6wpayOox_3rk3MJOSlkPlja9ArTk6G9HYzNDNd9XfuYXLgdzslKONWq2SU8OwZXHZ-z4q5itWk8V5jSFopQX2JqsIwQA9N46XUd95R92JoMScvyTxnTf6C_ugbfIaFPEvO6XwKY8",
+            "width": 4032
+          },
+          {
+            "height": 6752,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104291451435881522519\">Aaron Smith</a>"
+            ],
+            "photo_reference": "AXCi2Q6JqBvmrmRQNTm1yw82lQ5IzxlM9YqYcfCxpECVa8lt7HhlH_BMi2CXRrBD6jiT0KloDydeWJQ3_kaFJGdiyLWpfhBYU0tnFjUWwnD6kaLLS41e33NA5m21Ll4WK5vQ7JStkKVXFU-6j28evKs1X80Z_fdJlgsJDKKY3Zj6xJZNvWOw",
+            "width": 12000
+          },
+          {
+            "height": 6752,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104291451435881522519\">Aaron Smith</a>"
+            ],
+            "photo_reference": "AXCi2Q5q-QAHGvN2AqIf0R2k4dE9vBT9T7M9d0apa2b0RFvfLEAYmH-idVH5h0v8cgCjbklXRIKalF0Wmi-N-KWTsdg8RKn95-reu2X4uPKOz6rn0dyYtKOr3qrwdNPCq-Y6_UxdeCZsYcRBOaMFhtCkzQ2jK_Mo7a66p-0vZ3Ozd28O3fbH",
+            "width": 12000
+          },
+          {
+            "height": 4048,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112774503061238825394\">Cliff F</a>"
+            ],
+            "photo_reference": "AXCi2Q7T68rcfonFmzuhiKEqDlDTfveQ5udabHD-Jih-b5ZmFUBcnuF0L6CorKqMO-cVUrxgSQ8nm5kiQMgw73R_H96J6ZmxCGZt-DPhx6GYJ4ZLiopoftGFqUrSJ7ldKAeqJlFm7hOE-sklaS6e0hfD2ArJfdHglqbg1wxyRuknnZT5PuBJ",
+            "width": 3036
+          },
+          {
+            "height": 800,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105613383305760651422\">Black Shirt Brewing Co and Craft Pizza Kitchen</a>"
+            ],
+            "photo_reference": "AXCi2Q6R8sBIVQf9GuyXZhXP8EhZv2ORaYPwaVrc7LriZHgF7WYvzpb3dDNJwXNhrZi9o7gnTaz0h2WYjZd7xSh_f2UcBxkxa5RqvczqJX2o6wrpogDv0a7eZKJzlS2wBCXEIBAaXIOjd3U1E1jUdvlr5tf-hQvfLUj_1I7Ja2MwVzx7szC8",
+            "width": 800
+          }
+        ],
+        "price_level": 2,
+        "rating": 4.6,
+        "photo_url": "https://lh3.googleusercontent.com/places/ANXAkqFYpyCWRJeePVePCm6f8bi2yflcU75NjP7ruFbH6i-c9k9zLHJt1jB-VfA8UYo0qz1REojoo_WlL5RGi7pKhi4G_SWiGOkEGno=s1600-w400"
       },
       "type": "Feature"
     }
