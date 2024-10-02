@@ -2126,6 +2126,10 @@
           "country_code": "US",
           "name": "Tonantzin Casa de Café"
         },
+        "editorial_summary": {
+          "language": "en",
+          "overview": "Coffee house celebrationg the indigenous cultures of the Southwest US and Latin America. Try out the horchatta latte, es delicioso"
+        },
         "opening_hours": {
           "open_now": true,
           "periods": [
@@ -4214,6 +4218,10 @@
           "address": "925 E 17th Ave, Denver, CO 80218",
           "country_code": "US",
           "name": "Plant Magic Cafe"
+        },
+        "editorial_summary": {
+          "language": "en",
+          "overview": "Heady coffeeshop and fungi haven in an old North Cap Hill mansion! Cool, hip place to spend an afternoon."
         },
         "opening_hours": {
           "open_now": true,
@@ -7157,7 +7165,12 @@
           "address": "6550 Gateway Rd, Commerce City, CO 80022",
           "country_code": "US",
           "name": "Rocky Mountain Arsenal National Wildlife Refuge"
-        }
+        },
+        "editorial_summary": {
+          "language": "en",
+          "overview": "Buffalo with a Denver backdrop... what's better than this??"
+        },
+        "photo_url": "https://www.fws.gov/sites/default/files/styles/banner_image_xl/public/banner_images/2021-06/Elisa%20Dahlberg%20resized%20%2840%29.jpg.webp?h=e981ee2d&itok=xY2TyK6I"
       },
       "type": "Feature"
     },
@@ -8139,6 +8152,10 @@
           "address": "Denver, CO 80218",
           "country_code": "US",
           "name": "Cheesman Park"
+        },
+        "editorial_summary": {
+          "language": "en",
+          "overview": "A wonderful patch of green in the middle of Cap Hill. Great for a park hang or watching some wild wooks around the gazeebo"
         },
         "photos": [
           {
@@ -11072,6 +11089,10 @@
           "address": "2001 Colorado Blvd, Denver, CO 80205",
           "country_code": "US",
           "name": "City Park"
+        },
+        "editorial_summary": {
+          "language": "en",
+          "overview": "Incredible park with a lake, a walking/biking path, summer Jazz concerts, and a killer view out to the skyline and mountains."
         },
         "photos": [
           {
@@ -16181,6 +16202,10 @@
           "country_code": "US",
           "name": "Timeo's Theater Bar"
         },
+        "editorial_summary": {
+          "language": "en",
+          "overview": "Little hole in the wall owned an run by a Denver civil rights champion. The service isn't fast (he and his wife run the bar) but it's adorable and the house band rocks!"
+        },
         "opening_hours": {
           "open_now": true,
           "periods": [
@@ -18074,6 +18099,10 @@
           "address": "8001 W 59th Ave, Arvada, CO 80004",
           "country_code": "US",
           "name": "Memorial Park and Johnny Roberts Disc Golf Course"
+        },
+        "editorial_summary": {
+          "language": "en",
+          "overview": "Wanna play a little disc, bro?"
         },
         "opening_hours": {
           "open_now": true,
@@ -22509,6 +22538,10 @@
           "country_code": "US",
           "name": "TeaLee's Teahouse & Bookstore"
         },
+        "editorial_summary": {
+          "language": "en",
+          "overview": "Full tea service upstairs and a cute little basement bookstore? Didn't think I'd come across it but love it now that I have!"
+        },
         "opening_hours": {
           "open_now": true,
           "periods": [
@@ -24367,6 +24400,10 @@
           "address": "3910 W Colfax Ave, Denver, CO 80204",
           "country_code": "US",
           "name": "Classic Eats Delicatessen"
+        },
+        "editorial_summary": {
+          "language": "en",
+          "overview": "Their breakfast sandwiches are the ultimate hangover killer. Get mine on a croissant, greasy but amazing."
         },
         "photos": [
           {
@@ -27747,6 +27784,10 @@
           "country_code": "US",
           "name": "New Saigon Bakery and Deli"
         },
+        "editorial_summary": {
+          "language": "en",
+          "overview": "Sorry Baker's Palace... this is where I go for my vietnamese sammy fix! Big taste, reasonable price!"
+        },
         "opening_hours": {
           "open_now": true,
           "periods": [
@@ -30261,6 +30302,10 @@
           "country_code": "US",
           "name": "Gyu-Kaku Japanese BBQ"
         },
+        "editorial_summary": {
+          "language": "en",
+          "overview": "Delicious Japanese BBQ and some great rice bowls too!"
+        },
         "opening_hours": {
           "open_now": true,
           "periods": [
@@ -30974,195 +31019,6 @@
         ],
         "rating": 4.8,
         "photo_url": "https://lh3.googleusercontent.com/places/ANXAkqGrZNWdUxhesLBSpwGUaE7sKsPgH2t7hGzPfD9ln6CcXf8GfylccfZq5oanzB_abvELIvAtzSlCfJ5-SrwsmgFvE2vJaxEZBRA=s1600-w400"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -104.9893771,
-          39.711594
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "date": "2019-11-20T21:28:51Z",
-        "google_maps_url": "http://maps.google.com/?cid=4631884486484143447",
-        "location": {
-          "loc_type": "Restaurant",
-          "address": "77 W Alameda Ave, Denver, CO 80223",
-          "country_code": "US",
-          "name": "El Nopalito Mexican Food"
-        },
-        "opening_hours": {
-          "open_now": true,
-          "periods": [
-            {
-              "close": {
-                "day": 0,
-                "time": "1600"
-              },
-              "open": {
-                "day": 0,
-                "time": "0700"
-              }
-            },
-            {
-              "close": {
-                "day": 1,
-                "time": "1900"
-              },
-              "open": {
-                "day": 1,
-                "time": "0700"
-              }
-            },
-            {
-              "close": {
-                "day": 2,
-                "time": "1600"
-              },
-              "open": {
-                "day": 2,
-                "time": "0700"
-              }
-            },
-            {
-              "close": {
-                "day": 3,
-                "time": "1900"
-              },
-              "open": {
-                "day": 3,
-                "time": "0700"
-              }
-            },
-            {
-              "close": {
-                "day": 4,
-                "time": "1900"
-              },
-              "open": {
-                "day": 4,
-                "time": "0700"
-              }
-            },
-            {
-              "close": {
-                "day": 5,
-                "time": "1900"
-              },
-              "open": {
-                "day": 5,
-                "time": "0700"
-              }
-            },
-            {
-              "close": {
-                "day": 6,
-                "time": "1700"
-              },
-              "open": {
-                "day": 6,
-                "time": "0700"
-              }
-            }
-          ],
-          "weekday_text": [
-            "Monday: 7:00 AM – 7:00 PM",
-            "Tuesday: 7:00 AM – 4:00 PM",
-            "Wednesday: 7:00 AM – 7:00 PM",
-            "Thursday: 7:00 AM – 7:00 PM",
-            "Friday: 7:00 AM – 7:00 PM",
-            "Saturday: 7:00 AM – 5:00 PM",
-            "Sunday: 7:00 AM – 4:00 PM"
-          ]
-        },
-        "photos": [
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/107325816999573482515\">El Nopalito Mexican Food</a>"
-            ],
-            "photo_reference": "AXCi2Q4q8iq0_EmEkygqTJzBNb3-_yoDm2u29u9PphqroGgY9AL_WCSHyR8pWLeEGJdpaBj9z3D2ms9g5R99kWrNY2f1F3VaE48ZG5q1VlIrd23F7o0LChE5RgudMCpZbQfQ3Pl6rdseAHwtdCT0H8y-8v4dHrXcHcUec_8UPnz7GnaLTMqj",
-            "width": 4032
-          },
-          {
-            "height": 4032,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/107325816999573482515\">El Nopalito Mexican Food</a>"
-            ],
-            "photo_reference": "AXCi2Q4CAxXqiNzjMwD0uTuD5SzISdzK_cesnEFPkMPimPcjjgynbXxjh94_FqA6wiWrPg-3aixqRgU-W7I07-ClxSrsTmLCVp5xpXohuFD1TMTRrIxDp1PiwIMfnP5kpU_PBKQ0CYx6-s0WKXvzGwWYP_1H_sxfSYgxWU_gQBwfLzNtzcvH",
-            "width": 3024
-          },
-          {
-            "height": 5472,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104909652761044417543\">Chris Aubrecht</a>"
-            ],
-            "photo_reference": "AXCi2Q5DvPPCC3iA3Zp20P8Y6QWHTCEaDzUrIeE6ryoSUnSpmClX5UF46Zoy9jOGGJK1-D6uxN_7xWxfk-F3jsY7wRgF8c38WvCwxUsIOlh2DZySJPSXRg2ID24Qh7pNcTgVYOY1D7zJ7lqFlRUtZOOxKNWE8K22Zr7iV_Q48fmhUrPuefo",
-            "width": 7296
-          },
-          {
-            "height": 4032,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/107325816999573482515\">El Nopalito Mexican Food</a>"
-            ],
-            "photo_reference": "AXCi2Q7bqfpNUpHC6rSsPYrtd7y4iCXDcnhNN06LmqSusiBmQgMhvnbht6OKi2ONeyNfZrlC5-GUwXDQfQkYyzKVIPKOWSokFrGNbexhW2HeULbiAxKHWODDeoeoTyKBMZcyiiCsBJnETWpPGtLNQTzn-fAS3i5Ywy5RkGPzI5w-Yl32-F70",
-            "width": 3024
-          },
-          {
-            "height": 1944,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111803813969092399458\">Joaquín Rascon</a>"
-            ],
-            "photo_reference": "AXCi2Q6lZDicmg7ygUVNUYgxDFQB05Lz-zc__bpu-U7R8Q7lhTgTzKIa1ejXA0PJfwJGdDZz28epd_UiNhaZC34iF-aF7WioMOdZFzUX7kX3ljRFW51mRb7_GtPTNO0_E1tigJf6oM1JV9EHfKiGoXzuOx-F6gX4ouAgQ5WT9ZqxCpbuO0nU",
-            "width": 2592
-          },
-          {
-            "height": 4048,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110359236832725360366\">Josh Calkins</a>"
-            ],
-            "photo_reference": "AXCi2Q4e-f8SjASmiHegZ2sp5S_bs1dfwnCuoDFfHBHxHVLMw3XKpBfGsYK1GoA7YlQ7oWY6Dov35ELxRTg95vVfYycACzsAJ-QVo-QvMtZc_frHS2_Zr0xbN1QSpvPGWFBsPmQICNmvuHVV_iEUv3ngoV3JqCQXjbA6xDSE0O5tTxwRqn-N",
-            "width": 3036
-          },
-          {
-            "height": 2268,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100817498237024380521\">Simonas Lukošius</a>"
-            ],
-            "photo_reference": "AXCi2Q4NPd4vCAhCEXCr65lEU4FEdehMBrULwoLh3colrMqYM50NoAbQnzjb1ypPFLE5r5CYjkgWZy5-noJ18TasxQ_1tn1EwcKZN4dH_ETpIqCKvfERBB4iUpbakPtKpM4XEa_FAohOJ-hJanY2eP1cTPJq2CER__fFTXe1j0V5d4-aNIYv",
-            "width": 4032
-          },
-          {
-            "height": 4000,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102624096289889016101\">Jose Grageola</a>"
-            ],
-            "photo_reference": "AXCi2Q6yT06QDeX9WlgZqFPku6BYO6KHwzq-JzuB8rtzE0IbONpMkhHaTeAFaMczlbwEuAJ8XtDkKMeDdzkRpeqcfFSTTe4MDCgRNI-mhHfDuLkUv65l5w1MyC1WwDYSnwcqMCORp13JDdpN04Ztv0Ttyh1bRV-kqbpH93XjSI1GY8YX1N_w",
-            "width": 3000
-          },
-          {
-            "height": 2322,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104028313824541552892\">Joshua Jacobs</a>"
-            ],
-            "photo_reference": "AXCi2Q7-18nMwbdQ6tXM4BctGAlMYyG0ovOFk9DOm4Yk-1aApVitfuIlG2KKcZRWz_Z02eI9oRtFNuWmP1l4euyFiP3IHacqflILo6L_NqxbCvkQKul2WDFIaSp-wZ-RsA1GG4K60uh_sRMnkMT-vgG51_KGuczEJbuuQwmYaeNG-ACkSuCV",
-            "width": 4128
-          },
-          {
-            "height": 2268,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104545608095765548349\">Emily Goodin</a>"
-            ],
-            "photo_reference": "AXCi2Q7WynDKTQcBv3yLm_qNECt_Ei31SDr2vSMEWdt-4YjI5IqpvNT355ponqKo728qj0HbtFtSBPDdx8xrTuLvcUie9xX7wRlip0aH9lRJDKOiV4x02jLZwgFOLdK-OmSKgjiXJLVmkVNIVT3TgwRGyehdBGskQ9mGtLeMue43iV9gZZmy",
-            "width": 4032
-          }
-        ],
-        "price_level": 1,
-        "rating": 4.5,
-        "photo_url": "https://lh3.googleusercontent.com/places/ANXAkqFHdYaVw-2uTdq5nv8bgZmB2MWLaCXkycygpGBxOTKOWMzH-mAE9yjrtY0aqOPu_EWQCam_xv7Al35zvEMltAGuSpyIw6e4F6Y=s1600-w400"
       },
       "type": "Feature"
     },
@@ -34027,6 +33883,10 @@
           "country_code": "US",
           "name": "Baker's Palace"
         },
+        "editorial_summary": {
+          "language": "en",
+          "overview": "They don't call Federal 'Little Vietnam' for nothing! In the race for best bahn mi around."
+        },
         "opening_hours": {
           "open_now": true,
           "periods": [
@@ -36468,6 +36328,10 @@
           "address": "555 Santa Fe Dr, Denver, CO 80204",
           "name": "Denver Tool Library | Lending, Classes & Workshop"
         },
+        "editorial_summary": {
+          "language": "en",
+          "overview": "Want to be a handy person but don't want to financially commit in the tools? They've got you covered here + can provide lessons on how to use them, can't reccomend enough!"
+        },
         "opening_hours": {
           "open_now": true,
           "periods": [
@@ -36625,6 +36489,10 @@
           "address": "3457 W 32nd Ave, Denver, CO 80211",
           "country_code": "US",
           "name": "Seafood Landing"
+        },
+        "editorial_summary": {
+          "language": "en",
+          "overview": "High quality, sushi grade fish in a landlocked state. That's a needle in the haystack!"
         },
         "opening_hours": {
           "open_now": true,
@@ -38335,185 +38203,6 @@
     {
       "geometry": {
         "coordinates": [
-          -104.9802243,
-          39.6886075
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "date": "2024-10-02T19:32:32Z",
-        "google_maps_url": "http://maps.google.com/?cid=5820521727277101188",
-        "location": {
-          "loc_type": "Sweets",
-          "address": "1540 S Pearl St, Denver, CO 80210, United States",
-          "country_code": "US",
-          "name": "Tokyo Premium Bakery"
-        },
-        "opening_hours": {
-          "open_now": true,
-          "periods": [
-            {
-              "close": {
-                "day": 0,
-                "time": "1600"
-              },
-              "open": {
-                "day": 0,
-                "time": "0600"
-              }
-            },
-            {
-              "close": {
-                "day": 2,
-                "time": "1600"
-              },
-              "open": {
-                "day": 2,
-                "time": "0600"
-              }
-            },
-            {
-              "close": {
-                "day": 3,
-                "time": "1600"
-              },
-              "open": {
-                "day": 3,
-                "time": "0600"
-              }
-            },
-            {
-              "close": {
-                "day": 4,
-                "time": "1600"
-              },
-              "open": {
-                "day": 4,
-                "time": "0600"
-              }
-            },
-            {
-              "close": {
-                "day": 5,
-                "time": "1600"
-              },
-              "open": {
-                "day": 5,
-                "time": "0600"
-              }
-            },
-            {
-              "close": {
-                "day": 6,
-                "time": "1600"
-              },
-              "open": {
-                "day": 6,
-                "time": "0600"
-              }
-            }
-          ],
-          "weekday_text": [
-            "Monday: Closed",
-            "Tuesday: 6:00 AM – 4:00 PM",
-            "Wednesday: 6:00 AM – 4:00 PM",
-            "Thursday: 6:00 AM – 4:00 PM",
-            "Friday: 6:00 AM – 4:00 PM",
-            "Saturday: 6:00 AM – 4:00 PM",
-            "Sunday: 6:00 AM – 4:00 PM"
-          ]
-        },
-        "photos": [
-          {
-            "height": 2252,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116863299873660624414\">John Nguyen</a>"
-            ],
-            "photo_reference": "AXCi2Q6IFDXfBpSM5kpTqZ5J86BaIZfaeyLO8We7_GFGvbqTmJb-Jx-IEOc_55KACXShNKs8upwxoVNPazDkKR6hgRFtd4x0L4_eHNUOWELJiFF2QWSo_ZePp-83oEm7AH7s3EWK_egR5BICe4fpHzOzJAyfgm1i9Ma_fOauACYHF5ipr8hc",
-            "width": 4000
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111974266589919908368\">Kate Hazen</a>"
-            ],
-            "photo_reference": "AXCi2Q4ghxFxr8MuyzvdnLxbTkK9Iy0sh-ymiljEpTmcS6RhwWBLuc4vSUvRyRZBjGIEwhIhmTTQwGrqgNGEdiGEhg8SwKlyFolwcCYmUcVppETKNqo1jQHuBA6I5scFG4arjuFP3erMKvJc1YABEkb2qo_fUYHLxhpfWGtVxAXNXU_Ld2k5",
-            "width": 4032
-          },
-          {
-            "height": 4032,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104639927188649628867\">Gul Ser</a>"
-            ],
-            "photo_reference": "AXCi2Q75klNJKSCFw1Wm3fmRgumeMJKptZLvrFN0LkVIZpm2s5pEhmf4VF-3ymfwFz6Iz2xW2-p1EBSOL9FR37fIr3cdrH8IrlMx2MwUtW__wwVnzsD17MpKtLR4MpCs20rRHywMGYMJS-Q3ZUb_XrQ8RyAE4GyRkRLKpTU6GgmN6qFqFWIf",
-            "width": 3024
-          },
-          {
-            "height": 2296,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117637756836365899373\">david stewart</a>"
-            ],
-            "photo_reference": "AXCi2Q7vopopuEJ480D9R17BUrI3TUsTyMyHQAomo4gytF2h1fW6kQ-Dgotk7g1cW0ONTnrk8QbGFTgdDCh2CP5jnpJH5WvzxerPNgHJD3YUq36LRm9Nf8FQlf5qAQBi5MY-X1ZBIo7RC2HGj8J20eqCMdcNsHunwpWuL_FJRQrLFKkJ8jQ3",
-            "width": 3062
-          },
-          {
-            "height": 2524,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117637756836365899373\">david stewart</a>"
-            ],
-            "photo_reference": "AXCi2Q6K8AKUQeH07SCruj-FFGNQdrpzQYBPdf89rX6exfg72YxxtsO46Pj-gx0MluoCx2vO-kV5wPCYsOaxhs0SzB5CP4pR7w2xrY5vrwm9swoeuQ4Li5e02jPmjgKFTkCtBBHnZidCCRsfSHw75rZZQdS-NtnAV4YHB3SKXpmODkbKr0u8",
-            "width": 3365
-          },
-          {
-            "height": 1966,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117637756836365899373\">david stewart</a>"
-            ],
-            "photo_reference": "AXCi2Q5AndzjUV_ozSDpQ2VmmAWOF1EmYFUVzLHBJgiZWpquLrYgVPdVMMW8esDDrOFK52wQWuuGQce3vAp3gfzu4913c5aCYocDd_HNNH4F55ruRiQxUE4DE4D7OyKZuVSfCTkR9dNqIcBg3MMo8tbTsm3-O77ZQXNgZoFg0UoHpQ9Zg8sa",
-            "width": 2621
-          },
-          {
-            "height": 1816,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108172240192829453558\">Robert N. Adams</a>"
-            ],
-            "photo_reference": "AXCi2Q7isBGABvmKheah5O7EvDnptOBmyg0JEeNJtGxyPN7lFAbUri1TP2VHsFpLAKFqU7qJt6wa6EeylRIzPGf1dhxWO5EIA4fWMJ0uQzgO8hde-tgB1061ZAk_o8gSzZVKl_TZLNjoWofAp-emlFTdP8TbtX4Cx_REO2UHWAUfK0JDYWh0",
-            "width": 1811
-          },
-          {
-            "height": 2656,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117637756836365899373\">david stewart</a>"
-            ],
-            "photo_reference": "AXCi2Q6HzouPuXxpNhGXhhmo1ofvuSa23ZJKd2kFn7y8259SUpp_fxG73GSzsGHov9Tw6JPkCDW4JyPhQsl4oUtcyFbiT7n6GliJCObaQa3emnmaDJeRSu7TZXXGiHtbz1PhGSEjU2X-qRSL2hiw3eoCe0GjLI9G-MxNKTODCNY0VC_Nou6D",
-            "width": 3541
-          },
-          {
-            "height": 4032,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100550734052781635375\">슈</a>"
-            ],
-            "photo_reference": "AXCi2Q4uOPiDzoYraXvgjwKGmeBqQjHYtVEVIlhAMKP8DemA6tBeyoHhgBxA-ADnNgFybd9LEhYANKEOpcLxT4rJg6B0qRjs1KetRev5eIrTIL1DkBqaIcg5gDEnOeu7a72iKVmNbGArX810Uy6Y7wkM5H_xSC8jCeVfoMvtqR3D1D5XzN1G",
-            "width": 3024
-          },
-          {
-            "height": 5712,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100340410546922420264\">Tanya Zislis</a>"
-            ],
-            "photo_reference": "AXCi2Q5Ki8hkFsqjQbEctHRlGK_m27ImuEt3ot3iPz9OInMixNBlRbltAF1fbhbpTrPfbv4xQLIi8jRtMCR8excL-b1crWdS1kfWAqRnMAnpHkwSiRi0l4Sq8RzFJE2Y2F1LZI1PyVBlCuByOB_fqYnnSATOjqdKLjQhcd1dvO2KTCNkhQDA",
-            "width": 3213
-          }
-        ],
-        "price_level": 2,
-        "rating": 4.8,
-        "photo_url": "https://lh3.googleusercontent.com/places/ANXAkqHYmx5yrUtkH-WDaE6AoQMDED1PuSJcYe_yPeKySpANJASleqm3w0M5Vp_wgrcmqwxhVUTekX00orUzToT_NFWeUZ8XOKN5p7Q=s1600-w400"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           -104.9861197,
           39.7576532
         ],
@@ -38719,6 +38408,10 @@
           "address": "825 Santa Fe Dr, Denver, CO 80204, United States",
           "country_code": "US",
           "name": "Strawberry Mountain"
+        },
+        "editorial_summary": {
+          "language": "en",
+          "overview": "Curated vintage with a price tag to match, but worth checking out all the same!"
         },
         "opening_hours": {
           "open_now": true,
@@ -39974,6 +39667,10 @@
           "address": "1290 S Broadway, Denver, CO 80210, United States",
           "country_code": "US",
           "name": "Monolith Brewing"
+        },
+        "editorial_summary": {
+          "language": "en",
+          "overview": "Great vibe, great natural light, great beer. Have live music there sometimes too!"
         },
         "opening_hours": {
           "open_now": true,
