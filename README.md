@@ -11,6 +11,7 @@
 - **Collapsible Filter**: Easily filter places by category using the filter box located in the bottom-right corner of the screen. Toggle all types with the 'All' option.
 - **Popups for More Info**: Clicking on any pin opens a popup with the name, address, image, and a description of the location (if available).
 - **Map Bounds**: The map is restricted to the greater Denver area to prevent accidental navigation away from the core focus area.
+- **Local Expertise**: I don't want to toot my own horn, but I've been around the block for a minute and love trying out new spots (and, apparently, compulsively saving them to Google Maps). If you find a spot on here that you don't like you're probably wrong!
 
 ## Hosting
 
