@@ -3,6 +3,9 @@ import mapboxgl from 'mapbox-gl';
 import 'mapbox-gl/dist/mapbox-gl.css';
 import markerData from '../data/markers.json';
 import KeyItem from './KeyItem';
+import arrowUpIcon from '../assets/icons/arrowUp.png';
+import arrowDownIcon from '../assets/icons/arrowDown.png';
+import locationIcon from '../assets/icons/locationIcon.png';
 
 mapboxgl.accessToken = process.env.REACT_APP_MAPBOX_API_KEY;
 const locationTypes = ['Bar', 'Park', 'Restaurant', 'Activity', 'Coffeeshop', 'Breakfast', 'Shop', 'Brewery', 'Sweets'];
@@ -52,7 +55,7 @@ export default function MyMap() {
             `<div>
               <h3>${marker.properties.location.name}</h3>
               <div class="location-line">
-                <img src="/icons/locationIcon.png" alt="Location Icon" width="20px" height="20px">
+                <img src=${locationIcon} alt="Location Icon" width="20px" height="20px">
                 <p>${marker.properties.location.address.split(',')[0]}</p>
               </div>
               <img src=${marker.properties.photo_url} alt="${marker.properties.location.name} Photo" width="200" height="150" class="location-pic">
@@ -89,7 +92,13 @@ export default function MyMap() {
     <div className={`key-box ${isMinimized ? 'minimized' : ''}`}>
       <div className="key-box-header">
         <span>Location Filters</span>
-        <button onClick={toggleMinimize} className= 'arrow-box'><img src={isMinimized ? '/icons/arrowUp.png' : '/icons/arrowDown.png'} alt='Arrow' style={{width:"25px"}}></img></button>
+        <button onClick={toggleMinimize} className='arrow-box'>
+          <img 
+            src={isMinimized ? arrowUpIcon : arrowDownIcon} 
+            alt='Arrow' 
+            style={{width: "25px"}}
+          />
+        </button>
       </div>
       {!isMinimized && (
         <div className="key-box-content">

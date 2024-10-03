@@ -1,3 +1,5 @@
+import transparentLogo from '../assets/logo/transparentLogo.png';
+
 export default function Header() {
   
   return (
@@ -7,7 +9,7 @@ export default function Header() {
           <a href="/">
             <img
               alt="MMH Logo"
-              src="./transparentLogo.png"
+              src={transparentLogo}
               width={125}
             />
           </a>
