@@ -13,9 +13,11 @@
 - **Map Bounds**: The map is restricted to the greater Denver area to prevent accidental navigation away from the core focus area.
 - **Local Expertise**: I don't want to toot my own horn, but I've been around the block for a minute and love trying out new spots (and, apparently, compulsively saving them to Google Maps). If you find a spot on here that you don't like you're probably wrong!
 
-## Hosting
+## Hosted Version
 
-Coming soon! Stay tuned for the hosted version of **Mac's Mile High**.
+The live version of Mac's Mile High is hosted using GitHub Pages and can be accessed [here](https://mgotsch.github.io/macs-mile-high/). 
+
+This deployment was automated using **GitHub Actions**, where a `node.js.yml` file was created to build and deploy the app to the hosted site.
 
 ## How the Dataset Was Created
 
@@ -27,6 +29,14 @@ To augment the data, I created a custom tool that:
 3. From the photos info, it takes the first `photo_reference` to generate a URL that is used in the app to display images.
 
 This tool can be found [here](https://github.com/mgotsch/google-maps-geojson-augmenter) (currently being finalized).
+
+## Skills Used
+- **React**: Used to build the app's UI and manage its state.
+- **Mapbox GL**: The mapping tool the app is built on and how the markers and associated pop-ups are displayed for each of my fav spots.
+- **Google Places API**: Utilized to augment the Google Takeout data, pulling additional field (images, editorial summaries, ratings, and price ranges) for the locations.
+- **GeoJSON**: For managing location data and mapping coordinates.
+- **GitHub Pages**: How the app is hosted an made publicly available 
+- **GitHub Actions**: Used to automate the build and deployment process using a `node.js.yml` workflow.
 
 ## Future Enhancements
 
