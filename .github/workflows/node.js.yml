@@ -37,7 +37,7 @@ jobs:
     - name: Build
       run: npm run build
       env:
-        REACT_APP_MAPBOX_TOKEN: ${{ secrets.REACT_APP_MAPBOX_API_KEY }}
+        REACT_APP_MAPBOX_API_KEY: ${{ secrets.REACT_APP_MAPBOX_API_KEY }}
         PUBLIC_URL: /macs-mile-high
     
     - name: Setup Git Config
