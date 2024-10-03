@@ -1,70 +1,48 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Mac's Mile High
 
-## Available Scripts
+**Mac's Mile High** is a single-page React application that displays my personally curated map of the greater Denver area, featuring some of top spots around the Mile High City. Whether you're looking for a great bar, park, restaurant, or activity, this app makes it easy to discover cool spots across Denver in a flash (or at least faster than the 7 years it took me to compile this list lol)!
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- **Interactive Map**: The app is built using **Mapbox GL**, featuring a custom map style I created to align with the overall look and feel of the application.
+- **Favorite Places**: Explore a variety of spots around Denver, categorized into the following types: Bars, Parks, Restaurants, Activities, Coffeeshops, Breakfast places, Stores, Breweries, and Sweets.
+- **GeoJSON Data**: The map is populated using GeoJSON data pulled from my **Google Maps** and enhanced with additional data (images, descriptions, ratings, and price ranges) via a custom tool I created using the **Google Places API**.
+- **Collapsible Filter**: Easily filter places by category using the filter box located in the bottom-right corner of the screen. Toggle all types with the 'All' option.
+- **Popups for More Info**: Clicking on any pin opens a popup with the name, address, image, and a description of the location (if available).
+- **Map Bounds**: The map is restricted to the greater Denver area to prevent accidental navigation away from the core focus area.
+- **Local Expertise**: I don't want to toot my own horn, but I've been around the block for a minute and love trying out new spots (and, apparently, compulsively saving them to Google Maps). If you find a spot on here that you don't like you're probably wrong!
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Hosted Version
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The live version of Mac's Mile High is hosted using GitHub Pages and can be accessed [here](https://mgotsch.github.io/macs-mile-high/). 
 
-### `npm test`
+This deployment was automated using **GitHub Actions**, where a `node.js.yml` file was created to build and deploy the app to the hosted site.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## How the Dataset Was Created
 
-### `npm run build`
+The dataset was initially pulled from **Google Takeout's My Maps**. I manually categorized each place into one of the types ('Bar', 'Park', 'Restaurant', etc.).
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To augment the data, I created a custom tool that:
+1. Uses the place name and address from each geojson feature to pull the Google **Place ID** using the **Find Place from Text** request from the **Google Places API**.
+2. Uses the **Place ID** to fetch additional data (images, editorial summaries, ratings, and price range) through a **Place Details** request.
+3. From the photos info, it takes the first `photo_reference` to generate a URL that is used in the app to display images.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+This tool can be found [here](https://github.com/mgotsch/google-maps-geojson-augmenter) (currently being finalized).
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Skills Used
+- **React**: Used to build the app's UI and manage its state.
+- **Mapbox GL**: The mapping tool the app is built on and how the markers and associated pop-ups are displayed for each of my fav spots.
+- **Google Places API**: Utilized to augment the Google Takeout data, pulling additional field (images, editorial summaries, ratings, and price ranges) for the locations.
+- **GeoJSON**: For managing location data and mapping coordinates.
+- **GitHub Pages**: How the app is hosted an made publicly available 
+- **GitHub Actions**: Used to automate the build and deployment process using a `node.js.yml` workflow.
 
-### `npm run eject`
+## Future Enhancements
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- **Light Mode**: Introducing a light theme for users who prefer a brighter interface.
+- **Additional Categories**: Expanding the types of places and adding more specific filters.
+- **User Suggestions**: A form allowing users to suggest new places, which I can review and add to the map if they meet the criteria.
+- **Currently Open Toggle**: An option to display only the places currently open based on their business hours.
+- **Deals Mode**: Highlighting places offering active deals for the day.
+- **Additional Data**: Including more data points for locations, such as reviews or menu links.
